@@ -1,26 +1,51 @@
 {
-    "status": "active_ready_with_live_feed",
-    "updated": "2026-09-10 02:31:07",
+    "status": "helpdesk_active_ready",
+    "updated": "2026-09-10 08:18:27",
     "common_errors": {
-        "ModuleNotFoundError": {
-            "category": "Python / Dependencies",
-            "root_cause": "缺少相應的套件或未正確執行 pip install。",
-            "quick_fix": "執行 pip install -r requirements.txt 或安裝對應模組。"
+        "Printer_Offline": {
+            "category": "Hardware / Peripheral Support",
+            "root_cause": "印表機通訊埠連線中斷或網段設定變更，導致傳輸佇列卡住。",
+            "quick_fix": "重新啟動印表機電源，並在控制台清除暫存佇列後重新加入網路印表機。"
         },
-        "ConnectionRefusedError": {
-            "category": "Networking / API",
-            "root_cause": "目標連接埠未開啟、防火牆阻擋或服務未正確啟動。",
-            "quick_fix": "檢查服務監聽埠 (Port) 是否正確，並確認防火牆或反向代理設定。"
+        "VPN_Connection_Failed": {
+            "category": "Network / Remote Access Support",
+            "root_cause": "憑證過期、閘道器位址變更或使用者網域密碼輸入錯誤。",
+            "quick_fix": "檢查 VPN 用戶端設定檔，確認伺服器位址正確並重新整理認證憑證。"
         },
-        "502_Bad_Gateway": {
-            "category": "DevOps / Nginx / Cloudflare",
-            "root_cause": "上游應用程式伺服器 (App Server) 當機、逾時或未在指定 Socket/Port 運行。",
-            "quick_fix": "檢查後端程式日誌 (Logs)，確認 Process 是否正常運行。"
+        "Outlook_Not_Syncing": {
+            "category": "Software / Email Support",
+            "root_cause": "本機郵件資料檔 (.ost/.pst) 損壞或 Exchange 伺服器連線超時。",
+            "quick_fix": "建立新的 Outlook 設定檔，或以安全模式啟動並重建快取檔案。"
         },
-        "Docker_Container_Exited": {
-            "category": "Docker / Containerization",
-            "root_cause": "容器內部主程序執行完畢退出，或因配置錯誤導致啟動即崩潰。",
-            "quick_fix": "使用 docker logs <container_id> 查看錯誤日誌並修復 ENTRYPOINT。"
+        "Blue_Screen_Crash": {
+            "category": "OS / Hardware Support",
+            "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
+            "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
+        },
+        "SU-1940281": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to block all web permissions policies (&quot;Permissions-Policy&quot;) from a webserver?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940281/how-to-block-all-web-permissions-policies-permissions-policy-from-a-webserve"
+        },
+        "SU-1698325": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can the document receiver see the version history of an attached Word document in the email?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698325/can-the-document-receiver-see-the-version-history-of-an-attached-word-document-i"
+        },
+        "SU-1675966": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
+        },
+        "SU-386442": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Accessing IPv6 addresses through an SSH tunnel",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/386442/accessing-ipv6-addresses-through-an-ssh-tunnel"
+        },
+        "SU-1940278": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Microsoft Teams — Is there a quick way to share a recent or favourite window?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940278/microsoft-teams-is-there-a-quick-way-to-share-a-recent-or-favourite-window"
         }
     }
 }
