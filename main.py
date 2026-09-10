@@ -101,14 +101,14 @@ def generate_index_page():
     <main class="max-w-3xl mx-auto px-4 py-8 flex-grow w-full space-y-6">
         <div class="bg-slate-800 rounded-xl border border-cyan-500/30 p-6 shadow-lg space-y-4">
             <h2 class="text-lg font-bold text-cyan-300">提交 IT 支援請求 (單次診斷)</h2>
-            <p class="text-sm text-slate-300">連接至 itshooting 專用 Worker，由 Richard AI 單次為您提供專業又帶點精神病的解決方案。</p>
+            <p class="text-sm text-slate-300">連接至 itshooting 專用 Worker，由 Richard AI 單次為您提供專業的解決方案。</p>
             <div>
                 <a href="it_chat.html" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition">進入 IT Helpdesk 診斷對話</a>
             </div>
         </div>
 
         <div class="bg-slate-800 rounded-xl border border-emerald-500/30 p-6 shadow-lg space-y-4">
-            <h2 class="text-lg font-bold text-emerald-300">連續對話模式 (Richard AI 吹水聊天室)</h2>
+            <h2 class="text-lg font-bold text-emerald-300">對話模式 (Richard AI 吹水聊天室)</h2>
             <p class="text-sm text-slate-300">連接至 talking 專用 Worker，具備上下文記憶功能，支援無限期與 Richard 瘋狂對話吹水。</p>
             <div>
                 <a href="richard_chat.html" class="inline-block bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition">進入 Richard AI 連續吹水室</a>
