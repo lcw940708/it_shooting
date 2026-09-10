@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-10 08:33:24",
+    "updated": "2026-09-10 09:54:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -27,6 +27,11 @@
             "root_cause": "用戶回報終端技術障礙: How to block all web permissions policies (&quot;Permissions-Policy&quot;) from a webserver?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940281/how-to-block-all-web-permissions-policies-permissions-policy-from-a-webserve"
         },
+        "SU-1940134": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to delete an outbound message with an oversized attachment in the Mail app on macOS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940134/how-to-delete-an-outbound-message-with-an-oversized-attachment-in-the-mail-app-o"
+        },
         "SU-1698325": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Can the document receiver see the version history of an attached Word document in the email?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Accessing IPv6 addresses through an SSH tunnel",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/386442/accessing-ipv6-addresses-through-an-ssh-tunnel"
-        },
-        "SU-1940278": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Microsoft Teams — Is there a quick way to share a recent or favourite window?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940278/microsoft-teams-is-there-a-quick-way-to-share-a-recent-or-favourite-window"
         }
     }
 }
