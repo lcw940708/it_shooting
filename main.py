@@ -3,85 +3,82 @@ import os
 from datetime import datetime
 import urllib.request
 import urllib.error
+import gzip
 
-def fetch_github_security_advisories():
-    """從 GitHub Advisory Database 官方開源 API 抓取最新的資安漏洞與 IT 故障排解數據"""
-    url = "https://api.github.com/advisories?per_page=5"
+def fetch_it_support_solutions():
+    """從 Stack Exchange (Super User) 公開 API 抓取最新的 IT 支援與疑難排解問題"""
+    url = "https://api.stackexchange.com/2.3/questions?order=desc&sort=activity&site=superuser&pagesize=5"
     req = urllib.request.Request(
         url,
-        headers={
-            "User-Agent": "Richard-AI-Troubleshooter",
-            "Accept": "application/vnd.github+json"
-        }
+        headers={"User-Agent": "Richard-AI-Helpdesk-Bot"}
     )
     
-    fetched_errors = {}
+    fetched_solutions = {}
     try:
         with urllib.request.urlopen(req, timeout=10) as response:
             if response.status == 200:
-                data = json.loads(response.read().decode("utf-8"))
-                for item in data:
-                    summary = item.get("summary", "未知系統漏洞")
-                    severity = item.get("severity", "MODERATE")
-                    cve_id = item.get("cve_id") or item.get("ghsa_id", "CVE-UNKNOWN")
-                    description = item.get("description", "系統元件發生異常，需要檢查依賴版本與安全性配置。")
+                raw_data = response.read()
+                try:
+                    decompressed_data = gzip.decompress(raw_data).decode("utf-8")
+                except:
+                    decompressed_data = raw_data.decode("utf-8")
                     
-                    # 簡化描述作為根因
-                    short_desc = description.split(".")[0] if description else "組件配置異常"
+                data = json.loads(decompressed_data)
+                for item in data.get("items", []):
+                    title = item.get("title", "未知 IT 支援問題")
+                    question_id = str(item.get("question_id", "SU-000"))
+                    link = item.get("link", "#")
                     
-                    fetched_errors[cve_id] = {
-                        "category": f"Security / Advisory ({severity})",
-                        "root_cause": f"發現漏洞/異常: {summary}。原因: {short_desc}。",
-                        "quick_fix": f"請檢視相關套件版本並立即執行升級修補，參考編號: {cve_id}。"
+                    fetched_solutions[f"SU-{question_id}"] = {
+                        "category": "IT Helpdesk / Community Super User",
+                        "root_cause": f"用戶回報終端技術障礙: {title}",
+                        "quick_fix": f"請參考社群技術支援指引進行排除，詳細討論請參閱: {link}"
                     }
-                print("成功從 GitHub 官方開源安全庫抓取最新 IT 故障數據！")
+                print("成功從 Stack Exchange 抓取最新 IT 支援問題！")
     except Exception as e:
-        print(f"線上抓取數據發生異常，將採用本地預設數據庫: {e}")
+        print(f"線上抓取數據發生異常，將採用本地預設 IT Helpdesk 數據庫: {e}")
         
-    return fetched_errors
+    return fetched_solutions
 
 def generate_troubleshooting_data():
-    """生成 Richard AI 疑難排解的基礎數據庫（結合動態開源抓取與本地備用庫）"""
+    """生成 Richard AI Helpdesk 支援數據庫（結合 Stack Exchange 動態抓取與常見 IT 支援庫）"""
     os.makedirs("data", exist_ok=True)
     
-    # 嘗試聯網抓取高質開源 IT 數據
-    dynamic_errors = fetch_github_security_advisories()
+    dynamic_solutions = fetch_it_support_solutions()
     
-    # 基礎常見故障庫
-    base_errors = {
-        "ModuleNotFoundError": {
-            "category": "Python / Dependencies",
-            "root_cause": "缺少相應的套件或未正確執行 pip install。",
-            "quick_fix": "執行 pip install -r requirements.txt 或安裝對應模組。"
+    base_helpdesk_issues = {
+        "Printer_Offline": {
+            "category": "Hardware / Peripheral Support",
+            "root_cause": "印表機通訊埠連線中斷或網段設定變更，導致傳輸佇列卡住。",
+            "quick_fix": "重新啟動印表機電源，並在控制台清除暫存佇列後重新加入網路印表機。"
         },
-        "ConnectionRefusedError": {
-            "category": "Networking / API",
-            "root_cause": "目標連接埠未開啟、防火牆阻擋或服務未正確啟動。",
-            "quick_fix": "檢查服務監聽埠 (Port) 是否正確，並確認防火牆或反向代理設定。"
+        "VPN_Connection_Failed": {
+            "category": "Network / Remote Access Support",
+            "root_cause": "憑證過期、閘道器位址變更或使用者網域密碼輸入錯誤。",
+            "quick_fix": "檢查 VPN 用戶端設定檔，確認伺服器位址正確並重新整理認證憑證。"
         },
-        "502_Bad_Gateway": {
-            "category": "DevOps / Nginx / Cloudflare",
-            "root_cause": "上游應用程式伺服器 (App Server) 當機、逾時或未在指定 Socket/Port 運行。",
-            "quick_fix": "檢查後端程式日誌 (Logs)，確認 Process 是否正常運行。"
+        "Outlook_Not_Syncing": {
+            "category": "Software / Email Support",
+            "root_cause": "本機郵件資料檔 (.ost/.pst) 損壞或 Exchange 伺服器連線超時。",
+            "quick_fix": "建立新的 Outlook 設定檔，或以安全模式啟動並重建快取檔案。"
         },
-        "Docker_Container_Exited": {
-            "category": "Docker / Containerization",
-            "root_cause": "容器內部主程序執行完畢退出，或因配置錯誤導致啟動即崩潰。",
-            "quick_fix": "使用 docker logs <container_id> 查看錯誤日誌並修復 ENTRYPOINT。"
+        "Blue_Screen_Crash": {
+            "category": "OS / Hardware Support",
+            "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
+            "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         }
     }
     
-    # 合併動態抓取數據與本地數據
-    combined_errors = {**base_errors, **dynamic_errors}
+    combined_solutions = {**base_helpdesk_issues, **dynamic_solutions}
 
-    troubleshooting_db = {
-        "status": "active_ready_with_live_feed",
+    helpdesk_db = {
+        "status": "helpdesk_active_ready",
         "updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "common_errors": combined_errors
+        "common_errors": combined_solutions
     }
 
     with open("data/troubleshooting.json", "w", encoding="utf-8") as f:
-        json.dump(troubleshooting_db, f, ensure_ascii=False, indent=4)
+        json.dump(helpdesk_db, f, ensure_ascii=False, indent=4)
     print("成功生成: data/troubleshooting.json")
 
 def generate_index_page():
@@ -90,29 +87,37 @@ def generate_index_page():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Richard AI - 智能故障排解平台</title>
+    <title>Richard AI - 綜合支援與吹水平台</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans min-h-screen flex flex-col justify-between">
     <header class="bg-slate-800 border-b border-cyan-500/30 py-6">
         <div class="max-w-3xl mx-auto px-4">
-            <h1 class="text-2xl font-bold text-cyan-400">⚡ Richard AI 智能排解平台</h1>
-            <p class="text-xs text-slate-400 mt-1">資深 SRE 工程師級別的系統日誌與故障分析助手。</p>
+            <h1 class="text-2xl font-bold text-cyan-400">🎧 Richard AI - 綜合支援與吹水中心</h1>
+            <p class="text-xs text-slate-400 mt-1">結合嚴肅 IT Helpdesk 與無限上下文白卡吹水聊天的雙軌平台。</p>
         </div>
     </header>
 
-    <main class="max-w-3xl mx-auto px-4 py-8 flex-grow w-full">
+    <main class="max-w-3xl mx-auto px-4 py-8 flex-grow w-full space-y-6">
         <div class="bg-slate-800 rounded-xl border border-cyan-500/30 p-6 shadow-lg space-y-4">
-            <h2 class="text-lg font-bold text-cyan-300">系統即時診斷</h2>
-            <p class="text-sm text-slate-300">貼上你的 Error Log、異常代碼或系統崩潰描述，由 Richard AI 為你進行根因分析（Root Cause Analysis）並提供修復步驟。</p>
+            <h2 class="text-lg font-bold text-cyan-300">提交 IT 支援請求 (單次診斷)</h2>
+            <p class="text-sm text-slate-300">連接至 itshooting 專用 Worker，由 Richard AI 單次為您提供專業又帶點精神病的解決方案。</p>
             <div>
-                <a href="it_chat.html" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition">進入對話排解頁面</a>
+                <a href="it_chat.html" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition">進入 IT Helpdesk 診斷對話</a>
+            </div>
+        </div>
+
+        <div class="bg-slate-800 rounded-xl border border-emerald-500/30 p-6 shadow-lg space-y-4">
+            <h2 class="text-lg font-bold text-emerald-300">連續對話模式 (Richard AI 吹水聊天室)</h2>
+            <p class="text-sm text-slate-300">連接至 talking 專用 Worker，具備上下文記憶功能，支援無限期與 Richard 瘋狂對話吹水。</p>
+            <div>
+                <a href="richard_chat.html" class="inline-block bg-emerald-600 hover:bg-emerald-700 text-white px-5 py-2.5 rounded-lg text-sm font-medium transition">進入 Richard AI 連續吹水室</a>
             </div>
         </div>
     </main>
 
     <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500 bg-slate-900">
-        © 2026 Richard AI System
+        © 2026 Richard AI Helpdesk System
     </footer>
 </body>
 </html>
@@ -127,7 +132,7 @@ def generate_chat_page():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Richard AI - 診斷室</title>
+    <title>Richard AI - IT Helpdesk 支援室</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans min-h-screen flex flex-col justify-between">
@@ -136,8 +141,8 @@ def generate_chat_page():
         <div class="max-w-3xl mx-auto px-4 flex justify-between items-center">
             <div>
                 <a href="index.html" class="text-xs text-cyan-400 hover:underline mb-1 inline-block">&larr; 返回主頁</a>
-                <h1 class="text-2xl font-bold text-cyan-400 mt-1">🛠️ Richard AI 智能診斷</h1>
-                <p class="text-xs text-slate-400 mt-1">精確解析錯誤日誌，給出標準修復方案。</p>
+                <h1 class="text-2xl font-bold text-cyan-400 mt-1">🛠️ Richard AI - IT Helpdesk </h1>
+                <p class="text-xs text-slate-400 mt-1">即時支援與疑難排除專線 (itshooting worker)。</p>
             </div>
             <div id="live-clock" class="text-right text-xs font-mono text-cyan-300 bg-slate-900 px-3 py-2 rounded-lg border border-cyan-500/30">
                 載入中...
@@ -148,11 +153,11 @@ def generate_chat_page():
     <main class="max-w-3xl mx-auto px-4 py-6 flex-grow w-full space-y-4">
         <div class="bg-slate-800 rounded-xl border border-cyan-500/30 p-6 shadow-lg space-y-4">
             <div>
-                <label for="error-input" class="block text-xs font-bold text-cyan-300 mb-1">請貼上 Error Log、錯誤碼或故障描述:</label>
-                <textarea id="error-input" rows="4" placeholder="例如：ModuleNotFoundError: No module named 'requests' 或 502 Bad Gateway..." class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-cyan-500 font-mono"></textarea>
+                <label for="error-input" class="block text-xs font-bold text-cyan-300 mb-1">請描述您的 IT 支援問題或錯誤狀況:</label>
+                <textarea id="error-input" rows="4" placeholder="例如：公司印表機印唔到嘢、VPN 連唔上、Outlook 收唔到信..." class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-cyan-500 font-mono"></textarea>
             </div>
             <div>
-                <button onclick="diagnoseError()" id="send-btn" class="w-full bg-cyan-600 hover:bg-cyan-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition shadow-md">讓 Richard AI 進行排解分析</button>
+                <button onclick="diagnoseError()" id="send-btn" class="w-full bg-cyan-600 hover:bg-cyan-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition shadow-md">讓 Richard AI 進行支援分析</button>
             </div>
         </div>
 
@@ -160,14 +165,14 @@ def generate_chat_page():
             <div class="flex items-start space-x-3">
                 <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
                 <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-200 max-w-[80%]">
-                    「你好！我是 Richard AI。請把你的錯誤日誌或者系統崩潰情況貼上來，我會為你提供根本原因分析與逐步解決方案。」
+                    「你好！我是 Richard AI Helpdesk 支援專員。請話我知你遇到咩辦公或電腦問題，我會為你提供解決方案。」
                 </div>
             </div>
         </div>
     </main>
 
     <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500 bg-slate-900">
-        © 2026 Richard AI System
+        © 2026 Richard AI Helpdesk System
     </footer>
 
     <script>
@@ -187,7 +192,7 @@ def generate_chat_page():
             const errorText = errorField.value.trim();
 
             if (!errorText) {
-                alert('請先輸入或貼上錯誤日誌！');
+                alert('請先輸入你遇到的支援問題！');
                 return;
             }
 
@@ -210,14 +215,14 @@ def generate_chat_page():
             
             errorField.disabled = true;
             sendBtn.disabled = true;
-            sendBtn.innerText = 'Richard AI 診斷分析中...';
+            sendBtn.innerText = 'Richard AI 支援分析中...';
             chatContainer.scrollTop = chatContainer.scrollHeight;
 
             const loadingId = 'loading-' + Date.now();
             chatContainer.innerHTML += `
                 <div id="${loadingId}" class="flex items-start space-x-3">
                     <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
-                    <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-400 italic">正在解析錯誤日誌並比對常見故障庫...</div>
+                    <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-400 italic">正在檢索 Helpdesk 支援數據庫...</div>
                 </div>
             `;
             chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -230,7 +235,7 @@ def generate_chat_page():
                         issue: errorText, 
                         systemData: systemData,
                         requestTime: currentDateTimeStr,
-                        prompt: "請以 Richard AI 身份，用專業、嚴謹的香港繁體書面語回答。嚴禁使用任何廣東話口語（如：呢、啲、咁、冇），必須使用標準書面語（如：這、這些、這樣、沒有）。請列出根本原因（Root Cause）與清晰的逐步修復步驟（Step-by-step Fix）。" 
+                        prompt: "請以 Richard AI Helpdesk 身份進行支援回覆。" 
                     })
                 });
 
@@ -249,14 +254,14 @@ def generate_chat_page():
                 chatContainer.innerHTML += `
                     <div class="flex items-start space-x-3">
                         <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">系統</div>
-                        <div class="bg-red-900/50 border border-red-700 text-red-200 rounded-lg p-3 text-sm max-w-[80%]">連線出錯，請檢查 Worker 設定。</div>
+                        <div class="bg-red-900/50 border border-red-700 text-red-200 rounded-lg p-3 text-sm max-w-[80%]">連線出錯，請檢查 itshooting Worker 設定。</div>
                     </div>
                 `;
             }
 
             errorField.disabled = false;
             sendBtn.disabled = false;
-            sendBtn.innerText = '讓 Richard AI 進行排解分析';
+            sendBtn.innerText = '讓 Richard AI 進行支援分析';
             errorField.value = '';
             errorField.focus();
             chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -273,9 +278,176 @@ def generate_chat_page():
         f.write(html_content)
     print("成功生成: it_chat.html")
 
+def generate_richard_chat_page():
+    html_content = """<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Richard AI - 連續吹水聊天室</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 font-sans min-h-screen flex flex-col justify-between">
+
+    <header class="bg-slate-800 border-b border-emerald-500/30 py-6">
+        <div class="max-w-3xl mx-auto px-4 flex justify-between items-center">
+            <div>
+                <a href="index.html" class="text-xs text-emerald-400 hover:underline mb-1 inline-block">&larr; 返回主頁</a>
+                <h1 class="text-2xl font-bold text-emerald-400 mt-1">🗣️ Richard AI - 連續吹水聊天室</h1>
+                <p class="text-xs text-slate-400 mt-1">具備上下文記憶功能，連接至 talking worker，無限期與 Richard 瘋狂對話。</p>
+            </div>
+            <div id="live-clock" class="text-right text-xs font-mono text-emerald-300 bg-slate-900 px-3 py-2 rounded-lg border border-emerald-500/30">
+                載入中...
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-4 py-6 flex-grow w-full space-y-4 flex flex-col">
+        <div id="chat-container" class="bg-slate-800 rounded-xl border border-emerald-500/30 p-6 shadow-lg space-y-4 flex-grow min-h-[400px] max-h-[550px] overflow-y-auto">
+            <div class="flex items-start space-x-3">
+                <div class="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
+                <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-200 max-w-[80%]">
+                    「你好，我是 Richard。有咩問題隨便講，我同你傾過夠。」
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-slate-800 rounded-xl border border-emerald-500/30 p-4 shadow-lg flex space-x-2">
+            <input type="text" id="user-input" placeholder="隨便同 Richard 吹水..." class="flex-grow bg-slate-900 border border-slate-700 rounded-lg px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-emerald-500 font-mono" onkeypress="handleKeyPress(event)">
+            <button onclick="sendChatMessage()" id="send-btn" class="bg-emerald-600 hover:bg-emerald-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition shadow-md">發送</button>
+        </div>
+    </main>
+
+    <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500 bg-slate-900">
+        © 2026 Richard AI Helpdesk System
+    </footer>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const options = { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+            document.getElementById('live-clock').innerText = now.toLocaleString('zh-HK', options);
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // 儲存對話歷史（支援上下文記憶）
+        let chatHistory = [];
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendChatMessage();
+            }
+        }
+
+        async function sendChatMessage() {
+            const inputField = document.getElementById('user-input');
+            const chatContainer = document.getElementById('chat-container');
+            const sendBtn = document.getElementById('send-btn');
+            
+            const userText = inputField.value.trim();
+            if (!userText) return;
+
+            // 1. 將用戶輸入加入歷史
+            chatHistory.push({ role: "user", content: userText });
+
+            // 限制歷史長度，避免超出 Token 上限（最多保留最近 15 句）
+            if (chatHistory.length > 15) {
+                chatHistory = chatHistory.slice(-15);
+            }
+
+            // 顯示用戶訊息
+            chatContainer.innerHTML += `
+                <div class="flex items-start justify-end space-x-3">
+                    <div class="bg-slate-700 text-slate-100 rounded-lg p-3 text-sm max-w-[80%] font-mono whitespace-pre-line">${escapeHtml(userText)}</div>
+                    <div class="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">你</div>
+                </div>
+            `;
+            
+            inputField.value = '';
+            inputField.disabled = true;
+            sendBtn.disabled = true;
+            sendBtn.innerText = '思考中...';
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            const loadingId = 'loading-' + Date.now();
+            chatContainer.innerHTML += `
+                <div id="${loadingId}" class="flex items-start space-x-3">
+                    <div class="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
+                    <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-400 italic">正在接收精神波段分析中...</div>
+                </div>
+            `;
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            let systemData = {};
+            try {
+                const res = await fetch('data/troubleshooting.json');
+                systemData = await res.json();
+            } catch (e) {
+                systemData = { status: "fallback" };
+            }
+
+            const currentDateTimeStr = new Date().toLocaleString('zh-HK', { hour12: false });
+
+            try {
+                // 將整個 chatHistory 傳給 talking worker 實現上下文記憶
+                const response = await fetch('https://talking.lcw940708.workers.dev/', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        messages: chatHistory, 
+                        systemData: systemData,
+                        requestTime: currentDateTimeStr
+                    })
+                });
+
+                const data = await response.json();
+                document.getElementById(loadingId).remove();
+
+                const aiReply = data.content || '系統暫時無法回應。';
+
+                // 將 AI 回覆加入歷史
+                chatHistory.push({ role: "assistant", content: aiReply });
+
+                chatContainer.innerHTML += `
+                    <div class="flex items-start space-x-3">
+                        <div class="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
+                        <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-200 max-w-[80%]" style="white-space: pre-line;">${escapeHtml(aiReply)}</div>
+                    </div>
+                `;
+
+            } catch (error) {
+                document.getElementById(loadingId).remove();
+                chatContainer.innerHTML += `
+                    <div class="flex items-start space-x-3">
+                        <div class="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">系統</div>
+                        <div class="bg-red-900/50 border border-red-700 text-red-200 rounded-lg p-3 text-sm max-w-[80%]">連線出錯，請檢查 talking Worker 設定。</div>
+                    </div>
+                `;
+            }
+
+            inputField.disabled = false;
+            sendBtn.disabled = false;
+            sendBtn.innerText = '發送';
+            inputField.focus();
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        function escapeHtml(text) {
+            return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+    </script>
+</body>
+</html>
+"""
+    with open("richard_chat.html", "w", encoding="utf-8") as f:
+        f.write(html_content)
+    print("成功生成: richard_chat.html")
+
 if __name__ == "__main__":
-    print("開始執行 Richard AI 平台生成程序（結合開源 API 數據抓取）...")
+    print("開始執行 Richard AI Helpdesk 平台生成程序...")
     generate_troubleshooting_data()
     generate_index_page()
     generate_chat_page()
-    print("全部 Richard AI 排解平台檔案生成完畢！")
+    generate_richard_chat_page()
+    print("全部 Richard AI Helpdesk 平台檔案生成完畢！")
