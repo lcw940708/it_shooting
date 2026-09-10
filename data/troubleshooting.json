@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-10 20:18:03",
+    "updated": "2026-09-10 23:36:26",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -24,8 +24,13 @@
         },
         "SU-1940299": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: pink lines on monitor in bios and when booting linux but not on windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940299/pink-lines-on-monitor-in-bios-and-when-booting-linux-but-not-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Why am I seeing pink lines on monitor and in the BIOS and when booting Linux but not on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940299/why-am-i-seeing-pink-lines-on-monitor-and-in-the-bios-and-when-booting-linux-but"
+        },
+        "SU-1715808": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why can’t I access router settings? Default gateway not working as expected?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1715808/why-can-t-i-access-router-settings-default-gateway-not-working-as-expected"
         },
         "SU-1940301": {
             "category": "IT Helpdesk / Community Super User",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Secondary login prompt fails during installation of a network printer under Windows",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940294/secondary-login-prompt-fails-during-installation-of-a-network-printer-under-wind"
-        },
-        "SU-1940168": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Running Alphafold causes a docker api error, Internal Server Error (&quot;could not select device driver &quot;nvidia&quot; with capabilities: [[gpu]]&quot;)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940168/running-alphafold-causes-a-docker-api-error-internal-server-error-could-not-s"
         }
     }
 }
