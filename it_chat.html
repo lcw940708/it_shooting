@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Richard AI - 診斷室</title>
+    <title>Richard AI - IT Helpdesk 支援室</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans min-h-screen flex flex-col justify-between">
@@ -12,8 +12,8 @@
         <div class="max-w-3xl mx-auto px-4 flex justify-between items-center">
             <div>
                 <a href="index.html" class="text-xs text-cyan-400 hover:underline mb-1 inline-block">&larr; 返回主頁</a>
-                <h1 class="text-2xl font-bold text-cyan-400 mt-1">🛠️ Richard AI 智能診斷</h1>
-                <p class="text-xs text-slate-400 mt-1">精確解析錯誤日誌，給出標準修復方案。</p>
+                <h1 class="text-2xl font-bold text-cyan-400 mt-1">🛠️ Richard AI - IT Helpdesk </h1>
+                <p class="text-xs text-slate-400 mt-1">即時支援與疑難排除專線 (itshooting worker)。</p>
             </div>
             <div id="live-clock" class="text-right text-xs font-mono text-cyan-300 bg-slate-900 px-3 py-2 rounded-lg border border-cyan-500/30">
                 載入中...
@@ -24,11 +24,11 @@
     <main class="max-w-3xl mx-auto px-4 py-6 flex-grow w-full space-y-4">
         <div class="bg-slate-800 rounded-xl border border-cyan-500/30 p-6 shadow-lg space-y-4">
             <div>
-                <label for="error-input" class="block text-xs font-bold text-cyan-300 mb-1">請貼上 Error Log、錯誤碼或故障描述:</label>
-                <textarea id="error-input" rows="4" placeholder="例如：ModuleNotFoundError: No module named 'requests' 或 502 Bad Gateway..." class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-cyan-500 font-mono"></textarea>
+                <label for="error-input" class="block text-xs font-bold text-cyan-300 mb-1">請描述您的 IT 支援問題或錯誤狀況:</label>
+                <textarea id="error-input" rows="4" placeholder="例如：公司印表機印唔到嘢、VPN 連唔上、Outlook 收唔到信..." class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-cyan-500 font-mono"></textarea>
             </div>
             <div>
-                <button onclick="diagnoseError()" id="send-btn" class="w-full bg-cyan-600 hover:bg-cyan-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition shadow-md">讓 Richard AI 進行排解分析</button>
+                <button onclick="diagnoseError()" id="send-btn" class="w-full bg-cyan-600 hover:bg-cyan-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition shadow-md">讓 Richard AI 進行支援分析</button>
             </div>
         </div>
 
@@ -36,14 +36,14 @@
             <div class="flex items-start space-x-3">
                 <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
                 <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-200 max-w-[80%]">
-                    「你好！我是 Richard AI。請把你的錯誤日誌或者系統崩潰情況貼上來，我會為你提供根本原因分析與逐步解決方案。」
+                    「你好！我是 Richard AI Helpdesk 支援專員。請話我知你遇到咩辦公或電腦問題，我會為你提供解決方案。」
                 </div>
             </div>
         </div>
     </main>
 
     <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500 bg-slate-900">
-        © 2026 Richard AI System
+        © 2026 Richard AI Helpdesk System
     </footer>
 
     <script>
@@ -63,7 +63,7 @@
             const errorText = errorField.value.trim();
 
             if (!errorText) {
-                alert('請先輸入或貼上錯誤日誌！');
+                alert('請先輸入你遇到的支援問題！');
                 return;
             }
 
@@ -86,14 +86,14 @@
             
             errorField.disabled = true;
             sendBtn.disabled = true;
-            sendBtn.innerText = 'Richard AI 診斷分析中...';
+            sendBtn.innerText = 'Richard AI 支援分析中...';
             chatContainer.scrollTop = chatContainer.scrollHeight;
 
             const loadingId = 'loading-' + Date.now();
             chatContainer.innerHTML += `
                 <div id="${loadingId}" class="flex items-start space-x-3">
                     <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">Richard AI</div>
-                    <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-400 italic">正在解析錯誤日誌並比對常見故障庫...</div>
+                    <div class="bg-slate-900 border border-slate-700 rounded-lg p-3 text-sm text-slate-400 italic">正在檢索 Helpdesk 支援數據庫...</div>
                 </div>
             `;
             chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -106,7 +106,7 @@
                         issue: errorText, 
                         systemData: systemData,
                         requestTime: currentDateTimeStr,
-                        prompt: "請以 Richard AI 身份，用專業、嚴謹的香港繁體書面語回答。嚴禁使用任何廣東話口語（如：呢、啲、咁、冇），必須使用標準書面語（如：這、這些、這樣、沒有）。請列出根本原因（Root Cause）與清晰的逐步修復步驟（Step-by-step Fix）。" 
+                        prompt: "請以 Richard AI Helpdesk 身份進行支援回覆。" 
                     })
                 });
 
@@ -125,14 +125,14 @@
                 chatContainer.innerHTML += `
                     <div class="flex items-start space-x-3">
                         <div class="bg-cyan-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">系統</div>
-                        <div class="bg-red-900/50 border border-red-700 text-red-200 rounded-lg p-3 text-sm max-w-[80%]">連線出錯，請檢查 Worker 設定。</div>
+                        <div class="bg-red-900/50 border border-red-700 text-red-200 rounded-lg p-3 text-sm max-w-[80%]">連線出錯，請檢查 itshooting Worker 設定。</div>
                     </div>
                 `;
             }
 
             errorField.disabled = false;
             sendBtn.disabled = false;
-            sendBtn.innerText = '讓 Richard AI 進行排解分析';
+            sendBtn.innerText = '讓 Richard AI 進行支援分析';
             errorField.value = '';
             errorField.focus();
             chatContainer.scrollTop = chatContainer.scrollHeight;
