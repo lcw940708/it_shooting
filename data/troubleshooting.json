@@ -1,6 +1,6 @@
 {
     "status": "active_ready_with_live_feed",
-    "updated": "2026-09-10 02:24:25",
+    "updated": "2026-09-10 02:31:07",
     "common_errors": {
         "ModuleNotFoundError": {
             "category": "Python / Dependencies",
@@ -21,31 +21,6 @@
             "category": "Docker / Containerization",
             "root_cause": "容器內部主程序執行完畢退出，或因配置錯誤導致啟動即崩潰。",
             "quick_fix": "使用 docker logs <container_id> 查看錯誤日誌並修復 ENTRYPOINT。"
-        },
-        "CVE-2026-88000": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: Open WebUI: Any authenticated user can hang the server via message deletion in a cyclic chat tree。原因: ## Summary\nChat histories are stored as an unvalidated JSON object。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88000。"
-        },
-        "CVE-2026-88001": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: Open WebUI: Server-side fetches reach blocked and internal hosts via unvalidated HTTP redirect targets。原因: ## Summary\n\nOpen WebUI protects server-side web fetches with two controls: the operator's list of excluded hosts, and a check that refuses private and internal addresses。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88001。"
-        },
-        "CVE-2026-88002": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: Open WebUI: Any authenticated user can hang the server via a cyclic chat message history。原因: ## Summary\nChat histories are stored as an unvalidated JSON object。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88002。"
-        },
-        "CVE-2026-59185": {
-            "category": "Security / Advisory (high)",
-            "root_cause": "發現漏洞/異常: Identrail Cross-tenant IDOR: Client-supplied GitHub App installation_id is bound to the caller's workspace without ownership verification。原因: ## Summary\n\nidentrail's GitHub App connection-completion endpoint binds a fully client-supplied `installation_id` to the caller's workspace without verifying that the installation belongs to, or was installed by, the workspace that initiated the connect flow。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-59185。"
-        },
-        "CVE-2026-59179": {
-            "category": "Security / Advisory (high)",
-            "root_cause": "發現漏洞/異常: @openhop/server: Path Traversal in Flow ID File Operations。原因: ## Path Traversal in Flow ID File Operations\n\n### Summary\n\n`@openhop/server` passes unsanitized HTTP route parameters directly to `path。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-59179。"
         }
     }
 }
