@@ -1,6 +1,6 @@
 {
     "status": "active_ready_with_live_feed",
-    "updated": "2026-09-09 22:09:06",
+    "updated": "2026-09-10 01:39:28",
     "common_errors": {
         "ModuleNotFoundError": {
             "category": "Python / Dependencies",
@@ -22,30 +22,30 @@
             "root_cause": "容器內部主程序執行完畢退出，或因配置錯誤導致啟動即崩潰。",
             "quick_fix": "使用 docker logs <container_id> 查看錯誤日誌並修復 ENTRYPOINT。"
         },
-        "CVE-2026-85730": {
+        "CVE-2026-88000": {
+            "category": "Security / Advisory (medium)",
+            "root_cause": "發現漏洞/異常: Open WebUI: Any authenticated user can hang the server via message deletion in a cyclic chat tree。原因: ## Summary\nChat histories are stored as an unvalidated JSON object。",
+            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88000。"
+        },
+        "CVE-2026-88001": {
+            "category": "Security / Advisory (medium)",
+            "root_cause": "發現漏洞/異常: Open WebUI: Server-side fetches reach blocked and internal hosts via unvalidated HTTP redirect targets。原因: ## Summary\n\nOpen WebUI protects server-side web fetches with two controls: the operator's list of excluded hosts, and a check that refuses private and internal addresses。",
+            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88001。"
+        },
+        "CVE-2026-88002": {
+            "category": "Security / Advisory (medium)",
+            "root_cause": "發現漏洞/異常: Open WebUI: Any authenticated user can hang the server via a cyclic chat message history。原因: ## Summary\nChat histories are stored as an unvalidated JSON object。",
+            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-88002。"
+        },
+        "CVE-2026-59185": {
             "category": "Security / Advisory (high)",
-            "root_cause": "發現漏洞/異常: smol-toml: Denial of Service via malformed TOML documents。原因: ### Summary\n`parse()` can be forced into an infinite loop when a value inside an array or inline table is followed by a comment that has no trailing newline (i。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-85730。"
+            "root_cause": "發現漏洞/異常: Identrail Cross-tenant IDOR: Client-supplied GitHub App installation_id is bound to the caller's workspace without ownership verification。原因: ## Summary\n\nidentrail's GitHub App connection-completion endpoint binds a fully client-supplied `installation_id` to the caller's workspace without verifying that the installation belongs to, or was installed by, the workspace that initiated the connect flow。",
+            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-59185。"
         },
-        "CVE-2026-55073": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: weasyprint Has Server-Side Request Forgery (SSRF)。原因: ## Summary\n\n`url_fetcher` is WeasyPrint's documented mechanism for restricting resource loading - applications use it to block `file://`, internal hosts, etc。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-55073。"
-        },
-        "CVE-2026-54529": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: SQLAdmin: Unvalidated sortBy parameter in `ModelView` bypasses `column_sortable_list`。原因: ## Summary\n\n`ModelView。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-54529。"
-        },
-        "CVE-2026-53495": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: containerd: CRI ExecSync Goroutine Leak Leads to Node-Level Denial of Service。原因: ### Impact\n\nA bug in containerd's CRI ExecSync implementation allows exec probes and lifecycle hooks with background child processes to keep containerd's stdio-drain goroutines indefinitely blocked。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-53495。"
-        },
-        "CVE-2026-50024": {
-            "category": "Security / Advisory (medium)",
-            "root_cause": "發現漏洞/異常: GitHacker: Path traversal in ref/hash parsing enables existence oracle and hex-fragment exfiltration via malicious .git server。原因: ## Summary\n\nGitHacker through 1。",
-            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-50024。"
+        "CVE-2026-59179": {
+            "category": "Security / Advisory (high)",
+            "root_cause": "發現漏洞/異常: @openhop/server: Path Traversal in Flow ID File Operations。原因: ## Path Traversal in Flow ID File Operations\n\n### Summary\n\n`@openhop/server` passes unsanitized HTTP route parameters directly to `path。",
+            "quick_fix": "請檢視相關套件版本並立即執行升級修補，參考編號: CVE-2026-59179。"
         }
     }
 }
