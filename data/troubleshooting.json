@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-10 13:59:36",
+    "updated": "2026-09-10 17:36:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1320088": {
+        "SU-330785": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: how to integrate mobile call to a chatbot using asterisk",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1320088/how-to-integrate-mobile-call-to-a-chatbot-using-asterisk"
+            "root_cause": "用戶回報終端技術障礙: What are Thumbs.db files for? How can I prevent them from being created?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/330785/what-are-thumbs-db-files-for-how-can-i-prevent-them-from-being-created"
         },
-        "SU-1940286": {
+        "SU-1940278": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Cons of disabling OneDrive",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940286/cons-of-disabling-onedrive"
+            "root_cause": "用戶回報終端技術障礙: Is there a quick way to share a recent or favourite window with Microsoft Teams?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940278/is-there-a-quick-way-to-share-a-recent-or-favourite-window-with-microsoft-teams"
         },
-        "SU-720519": {
+        "SU-1940294": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Error &#39;shell:::{52205fd8-5dfb-447d-801a-d0b52f2e83e1}, this file has no program associated...&#39;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/720519/error-shell52205fd8-5dfb-447d-801a-d0b52f2e83e1-this-file-has-no-program"
+            "root_cause": "用戶回報終端技術障礙: Secondary login prompt fails during installation of a network printer under Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940294/secondary-login-prompt-fails-during-installation-of-a-network-printer-under-wind"
         },
-        "SU-1934007": {
+        "SU-1033677": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I am unable to open MBOX files in modern email clients like Outlook or Thunderbird: What can I do to preserve their contents?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934007/i-am-unable-to-open-mbox-files-in-modern-email-clients-like-outlook-or-thunderbi"
+            "root_cause": "用戶回報終端技術障礙: Will the torrent client ask trackers for the pieces matching certain hashes, or pieces included in certain torrent file?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1033677/will-the-torrent-client-ask-trackers-for-the-pieces-matching-certain-hashes-or"
         },
-        "SU-1812771": {
+        "SU-1940295": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disable or Re-Map Single-Purpose Keys on Lenovo Yoga 9i",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812771/disable-or-re-map-single-purpose-keys-on-lenovo-yoga-9i"
+            "root_cause": "用戶回報終端技術障礙: No internet using ethernet after briefly using a Wifi adapter (Windows 10)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940295/no-internet-using-ethernet-after-briefly-using-a-wifi-adapter-windows-10"
         }
     }
 }
