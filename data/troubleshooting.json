@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-10 09:55:25",
+    "updated": "2026-09-10 13:59:36",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940281": {
+        "SU-1320088": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to block all web permissions policies (&quot;Permissions-Policy&quot;) from a webserver?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940281/how-to-block-all-web-permissions-policies-permissions-policy-from-a-webserve"
+            "root_cause": "用戶回報終端技術障礙: how to integrate mobile call to a chatbot using asterisk",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1320088/how-to-integrate-mobile-call-to-a-chatbot-using-asterisk"
         },
-        "SU-1940134": {
+        "SU-1940286": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to delete an outbound message with an oversized attachment in the Mail app on macOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940134/how-to-delete-an-outbound-message-with-an-oversized-attachment-in-the-mail-app-o"
+            "root_cause": "用戶回報終端技術障礙: Cons of disabling OneDrive",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940286/cons-of-disabling-onedrive"
         },
-        "SU-1698325": {
+        "SU-720519": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can the document receiver see the version history of an attached Word document in the email?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698325/can-the-document-receiver-see-the-version-history-of-an-attached-word-document-i"
+            "root_cause": "用戶回報終端技術障礙: Error &#39;shell:::{52205fd8-5dfb-447d-801a-d0b52f2e83e1}, this file has no program associated...&#39;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/720519/error-shell52205fd8-5dfb-447d-801a-d0b52f2e83e1-this-file-has-no-program"
         },
-        "SU-1675966": {
+        "SU-1934007": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
+            "root_cause": "用戶回報終端技術障礙: I am unable to open MBOX files in modern email clients like Outlook or Thunderbird: What can I do to preserve their contents?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934007/i-am-unable-to-open-mbox-files-in-modern-email-clients-like-outlook-or-thunderbi"
         },
-        "SU-386442": {
+        "SU-1812771": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Accessing IPv6 addresses through an SSH tunnel",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/386442/accessing-ipv6-addresses-through-an-ssh-tunnel"
+            "root_cause": "用戶回報終端技術障礙: Disable or Re-Map Single-Purpose Keys on Lenovo Yoga 9i",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812771/disable-or-re-map-single-purpose-keys-on-lenovo-yoga-9i"
         }
     }
 }
