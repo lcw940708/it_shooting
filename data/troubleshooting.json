@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-10 17:36:16",
+    "updated": "2026-09-10 20:18:03",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-330785": {
+        "SU-1940299": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What are Thumbs.db files for? How can I prevent them from being created?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/330785/what-are-thumbs-db-files-for-how-can-i-prevent-them-from-being-created"
+            "root_cause": "用戶回報終端技術障礙: pink lines on monitor in bios and when booting linux but not on windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940299/pink-lines-on-monitor-in-bios-and-when-booting-linux-but-not-on-windows"
         },
-        "SU-1940278": {
+        "SU-1940301": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there a quick way to share a recent or favourite window with Microsoft Teams?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940278/is-there-a-quick-way-to-share-a-recent-or-favourite-window-with-microsoft-teams"
+            "root_cause": "用戶回報終端技術障礙: How can I upgrade from internal SSD/SATA disk to SSD/NVME for DELL G3 3779?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940301/how-can-i-upgrade-from-internal-ssd-sata-disk-to-ssd-nvme-for-dell-g3-3779"
+        },
+        "SU-1380728": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Monitor is off but still detected by computer",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1380728/monitor-is-off-but-still-detected-by-computer"
         },
         "SU-1940294": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Secondary login prompt fails during installation of a network printer under Windows",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940294/secondary-login-prompt-fails-during-installation-of-a-network-printer-under-wind"
         },
-        "SU-1033677": {
+        "SU-1940168": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Will the torrent client ask trackers for the pieces matching certain hashes, or pieces included in certain torrent file?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1033677/will-the-torrent-client-ask-trackers-for-the-pieces-matching-certain-hashes-or"
-        },
-        "SU-1940295": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: No internet using ethernet after briefly using a Wifi adapter (Windows 10)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940295/no-internet-using-ethernet-after-briefly-using-a-wifi-adapter-windows-10"
+            "root_cause": "用戶回報終端技術障礙: Running Alphafold causes a docker api error, Internal Server Error (&quot;could not select device driver &quot;nvidia&quot; with capabilities: [[gpu]]&quot;)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940168/running-alphafold-causes-a-docker-api-error-internal-server-error-could-not-s"
         }
     }
 }
