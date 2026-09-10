@@ -94,7 +94,7 @@ def generate_index_page():
     <header class="bg-slate-800 border-b border-cyan-500/30 py-6">
         <div class="max-w-3xl mx-auto px-4">
             <h1 class="text-2xl font-bold text-cyan-400">🎧 Richard AI - 綜合支援與吹水中心</h1>
-            <p class="text-xs text-slate-400 mt-1">結合嚴肅 IT Helpdesk 與無限上下文白卡吹水聊天的雙軌平台。</p>
+            <p class="text-xs text-slate-400 mt-1">結合嚴肅 IT Helpdesk 與無限上下文吹水聊天的雙軌平台。</p>
         </div>
     </header>
 
