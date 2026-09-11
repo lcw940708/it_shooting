@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-11 13:58:34",
+    "updated": "2026-09-11 17:37:19",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940312": {
+        "SU-696361": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Using Excel for Mac (Version 16.112.4), how to make formula copy down?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940312/using-excel-for-mac-version-16-112-4-how-to-make-formula-copy-down"
+            "root_cause": "用戶回報終端技術障礙: How to get the Markdown Viewer addon of Firefox to work on Linux?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/696361/how-to-get-the-markdown-viewer-addon-of-firefox-to-work-on-linux"
         },
-        "SU-1940306": {
+        "SU-1940317": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What function can I use to find the first non-blank cell nearest the bottom of a column and display that value in the bottom row?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940306/what-function-can-i-use-to-find-the-first-non-blank-cell-nearest-the-bottom-of-a"
+            "root_cause": "用戶回報終端技術障礙: How to instruct not to install Windows updates during active hours?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940317/how-to-instruct-not-to-install-windows-updates-during-active-hours"
         },
-        "SU-1909130": {
+        "SU-1912253": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix memory leak caused by ETW sessions (EtwD, EtwB, EtwR) with no trace in Task Manager or RamMap?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1909130/how-to-fix-memory-leak-caused-by-etw-sessions-etwd-etwb-etwr-with-no-trace-i"
+            "root_cause": "用戶回報終端技術障礙: How to change the numbering of endnotes in MS Word doc, to conform to Chicago style?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1912253/how-to-change-the-numbering-of-endnotes-in-ms-word-doc-to-conform-to-chicago-st"
         },
-        "SU-1940311": {
+        "SU-1939267": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
+            "root_cause": "用戶回報終端技術障礙: WSL2 fails to start with CreateVm/HCS/ERROR_FILE_NOT_FOUND after a reboot, but the install looks healthy",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939267/wsl2-fails-to-start-with-createvm-hcs-error-file-not-found-after-a-reboot-but-t"
         },
-        "SU-1343273": {
+        "SU-1084173": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Chrome window changes color depending on which monitor it&#39;s open",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1343273/chrome-window-changes-color-depending-on-which-monitor-its-open"
+            "root_cause": "用戶回報終端技術障礙: port forwarding - Transmission torrent client",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1084173/port-forwarding-transmission-torrent-client"
         }
     }
 }
