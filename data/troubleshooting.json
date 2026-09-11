@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-11 02:25:26",
+    "updated": "2026-09-11 08:27:56",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940302": {
+        "SU-1253487": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to do address labels in Libre Office",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940302/how-to-do-address-labels-in-libre-office"
+            "root_cause": "用戶回報終端技術障礙: How do I get Ack, Ag (silver searcher) or Pt (platinum searcher) to just list files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1253487/how-do-i-get-ack-ag-silver-searcher-or-pt-platinum-searcher-to-just-list-fi"
         },
-        "SU-1940295": {
+        "SU-1940306": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing no internet on Windows 10 using ethernet after briefly using a Wi-Fi adapter?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940295/why-am-i-experiencing-no-internet-on-windows-10-using-ethernet-after-briefly-usi"
+            "root_cause": "用戶回報終端技術障礙: What Function can I use to find the first non-blank cell nearest the bottom of a column and display that value in the bottom row",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940306/what-function-can-i-use-to-find-the-first-non-blank-cell-nearest-the-bottom-of-a"
         },
-        "SU-1940301": {
+        "SU-1279448": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I upgrade from internal SSD/SATA disk to SSD/NVME for Dell G3 3779?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940301/how-can-i-upgrade-from-internal-ssd-sata-disk-to-ssd-nvme-for-dell-g3-3779"
+            "root_cause": "用戶回報終端技術障礙: How to use crunch to generate a 8 char uppercase alphanumeric wordlist",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1279448/how-to-use-crunch-to-generate-a-8-char-uppercase-alphanumeric-wordlist"
         },
-        "SU-1940294": {
+        "SU-1251377": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Secondary login prompt fails during installation of a network printer under Windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940294/secondary-login-prompt-fails-during-installation-of-a-network-printer-under-wind"
+            "root_cause": "用戶回報終端技術障礙: sFtp with key authentication prompts password",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1251377/sftp-with-key-authentication-prompts-password"
         },
-        "SU-1940299": {
+        "SU-1940305": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I seeing pink lines on monitor and in the BIOS and when booting Linux but not on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940299/why-am-i-seeing-pink-lines-on-monitor-and-in-the-bios-and-when-booting-linux-but"
+            "root_cause": "用戶回報終端技術障礙: How to set Startup Event Trace Sessions to use Real Time stream mode in Performance Monitor",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940305/how-to-set-startup-event-trace-sessions-to-use-real-time-stream-mode-in-performa"
         }
     }
 }
