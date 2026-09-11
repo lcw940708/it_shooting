@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-11 08:27:56",
+    "updated": "2026-09-11 13:58:34",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1253487": {
+        "SU-1940312": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I get Ack, Ag (silver searcher) or Pt (platinum searcher) to just list files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1253487/how-do-i-get-ack-ag-silver-searcher-or-pt-platinum-searcher-to-just-list-fi"
+            "root_cause": "用戶回報終端技術障礙: Using Excel for Mac (Version 16.112.4), how to make formula copy down?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940312/using-excel-for-mac-version-16-112-4-how-to-make-formula-copy-down"
         },
         "SU-1940306": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What Function can I use to find the first non-blank cell nearest the bottom of a column and display that value in the bottom row",
+            "root_cause": "用戶回報終端技術障礙: What function can I use to find the first non-blank cell nearest the bottom of a column and display that value in the bottom row?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940306/what-function-can-i-use-to-find-the-first-non-blank-cell-nearest-the-bottom-of-a"
         },
-        "SU-1279448": {
+        "SU-1909130": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to use crunch to generate a 8 char uppercase alphanumeric wordlist",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1279448/how-to-use-crunch-to-generate-a-8-char-uppercase-alphanumeric-wordlist"
+            "root_cause": "用戶回報終端技術障礙: How to fix memory leak caused by ETW sessions (EtwD, EtwB, EtwR) with no trace in Task Manager or RamMap?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1909130/how-to-fix-memory-leak-caused-by-etw-sessions-etwd-etwb-etwr-with-no-trace-i"
         },
-        "SU-1251377": {
+        "SU-1940311": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: sFtp with key authentication prompts password",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1251377/sftp-with-key-authentication-prompts-password"
+            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
         },
-        "SU-1940305": {
+        "SU-1343273": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to set Startup Event Trace Sessions to use Real Time stream mode in Performance Monitor",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940305/how-to-set-startup-event-trace-sessions-to-use-real-time-stream-mode-in-performa"
+            "root_cause": "用戶回報終端技術障礙: Chrome window changes color depending on which monitor it&#39;s open",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1343273/chrome-window-changes-color-depending-on-which-monitor-its-open"
         }
     }
 }
