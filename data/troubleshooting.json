@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-12 02:33:22",
+    "updated": "2026-09-12 08:16:23",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940217": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why isn&#39;t my MacBook Neo allowing me to run the native resolution of 2048x1536?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940217/why-isnt-my-macbook-neo-allowing-me-to-run-the-native-resolution-of-2048x1536"
+        },
+        "SU-941819": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to use my home internet from other country so that I can browse country-restricted websites?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/941819/how-to-use-my-home-internet-from-other-country-so-that-i-can-browse-country-rest"
+        },
+        "SU-1940327": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can install Ubuntu, but not Windows 11, on a Dell Precision 7740",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940327/can-install-ubuntu-but-not-windows-11-on-a-dell-precision-7740"
+        },
+        "SU-554072": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does this file apparently not exist when attempting to delete it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/554072/why-does-this-file-apparently-not-exist-when-attempting-to-delete-it"
+        },
         "SU-1940317": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to instruct Windows Update not to install Windows updates during active hours?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940317/how-to-instruct-windows-update-not-to-install-windows-updates-during-active-hour"
-        },
-        "SU-1940319": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my HP EliteBook 840 G7 still take ~40–45 seconds to boot after a clean Windows 11 install?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940319/why-does-my-hp-elitebook-840-g7-still-take-40-45-seconds-to-boot-after-a-clean"
-        },
-        "SU-970383": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I remove security certificate exceptions from Google Chrome?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/970383/how-do-i-remove-security-certificate-exceptions-from-google-chrome"
-        },
-        "SU-1940311": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
-        },
-        "SU-1940301": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I upgrade from internal SSD/SATA disk to SSD/NVMe for Dell G3 3779?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940301/how-can-i-upgrade-from-internal-ssd-sata-disk-to-ssd-nvme-for-dell-g3-3779"
         }
     }
 }
