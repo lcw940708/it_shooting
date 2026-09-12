@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-12 13:17:20",
+    "updated": "2026-09-12 16:40:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940334": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it necessary to create partitions?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940334/is-it-necessary-to-create-partitions"
+        },
+        "SU-562485": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Videos downloaded from video hostings are seeked too slowly",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/562485/videos-downloaded-from-video-hostings-are-seeked-too-slowly"
+        },
         "SU-1847147": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to disable Auto Capitalization in new Outlook",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why isn&#39;t my MacBook Neo allowing me to run the native resolution of 2048x1536?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940217/why-isnt-my-macbook-neo-allowing-me-to-run-the-native-resolution-of-2048x1536"
-        },
-        "SU-1940328": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Tweak UI: Does it apply ALL the settings, or just the current ones?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940328/tweak-ui-does-it-apply-all-the-settings-or-just-the-current-ones"
-        },
-        "SU-386442": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Accessing IPv6 addresses through an SSH tunnel",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/386442/accessing-ipv6-addresses-through-an-ssh-tunnel"
         }
     }
 }
