@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-12 16:40:14",
+    "updated": "2026-09-12 19:59:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1626813": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Zoom suppresses all audio during zoom meeting",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1626813/zoom-suppresses-all-audio-during-zoom-meeting"
+        },
+        "SU-1940336": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can not mount my Western Digital HDD due to I/O error",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940336/can-not-mount-my-western-digital-hdd-due-to-i-o-error"
+        },
+        "SU-206450": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Using a custom keyboard layout without being administrator in Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/206450/using-a-custom-keyboard-layout-without-being-administrator-in-windows"
+        },
+        "SU-1940335": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Macro suddenly disappears from macro-enabled Word document",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940335/macro-suddenly-disappears-from-macro-enabled-word-document"
+        },
         "SU-1940334": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Is it necessary to create partitions?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940334/is-it-necessary-to-create-partitions"
-        },
-        "SU-562485": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Videos downloaded from video hostings are seeked too slowly",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/562485/videos-downloaded-from-video-hostings-are-seeked-too-slowly"
-        },
-        "SU-1847147": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable Auto Capitalization in new Outlook",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1847147/how-to-disable-auto-capitalization-in-new-outlook"
-        },
-        "SU-1538520": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I create Firewall rules for Universal Windows Platform (UWP) apps?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1538520/how-can-i-create-firewall-rules-for-universal-windows-platform-uwp-apps"
-        },
-        "SU-1940217": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why isn&#39;t my MacBook Neo allowing me to run the native resolution of 2048x1536?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940217/why-isnt-my-macbook-neo-allowing-me-to-run-the-native-resolution-of-2048x1536"
         }
     }
 }
