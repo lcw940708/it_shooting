@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-13 08:41:02",
+    "updated": "2026-09-13 14:00:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1523272": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Create recursive hardlink of entire folder",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1523272/create-recursive-hardlink-of-entire-folder"
+        },
+        "SU-1064579": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to convert a webpage to PDF with preserving its look (exactly as on web browser) and text/links?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1064579/how-to-convert-a-webpage-to-pdf-with-preserving-its-look-exactly-as-on-web-brow"
+        },
         "SU-1804662": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why does hostapd with channel=0 (ACS) fail?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Sync ALL Outlook Invites with Google Calendar",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/472407/sync-all-outlook-invites-with-google-calendar"
-        },
-        "SU-1814633": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I view the content of images when accessed via &quot;Delete Clip Data&quot; in Ditto?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1814633/how-can-i-view-the-content-of-images-when-accessed-via-delete-clip-data-in-dit"
-        },
-        "SU-1940339": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Well I missed the responses about SmallTalk ASL",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940339/well-i-missed-the-responses-about-smalltalk-asl"
         }
     }
 }
