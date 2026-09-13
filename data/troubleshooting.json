@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-12 22:02:46",
+    "updated": "2026-09-13 02:32:10",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1814633": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I view the content of images when accessed via &quot;Delete Clip Data&quot; in Ditto?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1814633/how-can-i-view-the-content-of-images-when-accessed-via-delete-clip-data-in-dit"
+        },
+        "SU-1940339": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Well I missed the responses about SmallTalk ASL",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940339/well-i-missed-the-responses-about-smalltalk-asl"
+        },
+        "SU-1896344": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: linux Super+L not working to lock screen (even though it is configured)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1896344/linux-superl-not-working-to-lock-screen-even-though-it-is-configured"
+        },
         "SU-1940302": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to create address labels in LibreOffice?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Zoom suppresses all audio during zoom meeting",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1626813/zoom-suppresses-all-audio-during-zoom-meeting"
-        },
-        "SU-1940336": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can not mount my Western Digital HDD due to I/O error",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940336/can-not-mount-my-western-digital-hdd-due-to-i-o-error"
-        },
-        "SU-206450": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Using a custom keyboard layout without being administrator in Windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/206450/using-a-custom-keyboard-layout-without-being-administrator-in-windows"
-        },
-        "SU-1940335": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Macro suddenly disappears from macro-enabled Word document",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940335/macro-suddenly-disappears-from-macro-enabled-word-document"
         }
     }
 }
