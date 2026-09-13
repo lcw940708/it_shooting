@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-13 02:32:10",
+    "updated": "2026-09-13 08:41:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1804662": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does hostapd with channel=0 (ACS) fail?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1804662/why-does-hostapd-with-channel-0-acs-fail"
+        },
+        "SU-1940302": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to create address labels in LibreOffice?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940302/how-to-create-address-labels-in-libreoffice"
+        },
+        "SU-472407": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Sync ALL Outlook Invites with Google Calendar",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/472407/sync-all-outlook-invites-with-google-calendar"
+        },
         "SU-1814633": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I view the content of images when accessed via &quot;Delete Clip Data&quot; in Ditto?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Well I missed the responses about SmallTalk ASL",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940339/well-i-missed-the-responses-about-smalltalk-asl"
-        },
-        "SU-1896344": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: linux Super+L not working to lock screen (even though it is configured)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1896344/linux-superl-not-working-to-lock-screen-even-though-it-is-configured"
-        },
-        "SU-1940302": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to create address labels in LibreOffice?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940302/how-to-create-address-labels-in-libreoffice"
-        },
-        "SU-1626813": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Zoom suppresses all audio during zoom meeting",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1626813/zoom-suppresses-all-audio-during-zoom-meeting"
         }
     }
 }
