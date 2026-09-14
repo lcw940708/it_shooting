@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-14 00:00:20",
+    "updated": "2026-09-14 07:25:53",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940190": {
+        "SU-643408": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What do I need to delete in order to kill the network connection in Windows 7?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940190/what-do-i-need-to-delete-in-order-to-kill-the-network-connection-in-windows-7"
+            "root_cause": "用戶回報終端技術障礙: Hamachi network adapter won&#39;t install in windows 7",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/643408/hamachi-network-adapter-wont-install-in-windows-7"
         },
-        "SU-1940350": {
+        "SU-1493167": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does the Zoom web app shows only the virtual background or a green screen with a Logitech C615 Full HD Webcam in Microsoft Edge?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940350/why-does-the-zoom-web-app-shows-only-the-virtual-background-or-a-green-screen-wi"
+            "root_cause": "用戶回報終端技術障礙: In VS Code, how can I search in both file names and file contents at the same time?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1493167/in-vs-code-how-can-i-search-in-both-file-names-and-file-contents-at-the-same-ti"
         },
         "SU-1940351": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
         },
-        "SU-1940302": {
+        "SU-1834082": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to create address labels in LibreOffice?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940302/how-to-create-address-labels-in-libreoffice"
+            "root_cause": "用戶回報終端技術障礙: Thunderbolt 3 not working on ASUS ZenBook Pro UX501VW",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1834082/thunderbolt-3-not-working-on-asus-zenbook-pro-ux501vw"
         },
-        "SU-1940336": {
+        "SU-1940311": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t I mount my Western Digital HDD due to I/O error?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940336/why-can-t-i-mount-my-western-digital-hdd-due-to-i-o-error"
+            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
         }
     }
 }
