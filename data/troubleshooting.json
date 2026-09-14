@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-14 07:25:53",
+    "updated": "2026-09-14 14:37:32",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-643408": {
+        "SU-174131": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Hamachi network adapter won&#39;t install in windows 7",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/643408/hamachi-network-adapter-wont-install-in-windows-7"
+            "root_cause": "用戶回報終端技術障礙: Tool for batch editing code generator files",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/174131/tool-for-batch-editing-code-generator-files"
         },
-        "SU-1493167": {
+        "SU-518084": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: In VS Code, how can I search in both file names and file contents at the same time?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1493167/in-vs-code-how-can-i-search-in-both-file-names-and-file-contents-at-the-same-ti"
+            "root_cause": "用戶回報終端技術障礙: Why is my mouse randomly deselecting and unclicking?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/518084/why-is-my-mouse-randomly-deselecting-and-unclicking"
+        },
+        "SU-1929588": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows 11 duplicated files and folders (due to localization) how to disable it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1929588/windows-11-duplicated-files-and-folders-due-to-localization-how-to-disable-it"
         },
         "SU-1940351": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
         },
-        "SU-1834082": {
+        "SU-252276": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Thunderbolt 3 not working on ASUS ZenBook Pro UX501VW",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1834082/thunderbolt-3-not-working-on-asus-zenbook-pro-ux501vw"
-        },
-        "SU-1940311": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
+            "root_cause": "用戶回報終端技術障礙: How can I restrict the amount of time I spend on particular websites?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/252276/how-can-i-restrict-the-amount-of-time-i-spend-on-particular-websites"
         }
     }
 }
