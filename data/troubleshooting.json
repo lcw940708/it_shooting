@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-14 14:37:32",
+    "updated": "2026-09-14 20:06:27",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-174131": {
+        "SU-1940369": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Tool for batch editing code generator files",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/174131/tool-for-batch-editing-code-generator-files"
+            "root_cause": "用戶回報終端技術障礙: Dorm wifi forces re-login every 24hrs, looking for ways to control that",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940369/dorm-wifi-forces-re-login-every-24hrs-looking-for-ways-to-control-that"
         },
-        "SU-518084": {
+        "SU-1940335": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my mouse randomly deselecting and unclicking?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/518084/why-is-my-mouse-randomly-deselecting-and-unclicking"
-        },
-        "SU-1929588": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 duplicated files and folders (due to localization) how to disable it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1929588/windows-11-duplicated-files-and-folders-due-to-localization-how-to-disable-it"
+            "root_cause": "用戶回報終端技術障礙: Macro suddenly disappears from macro-enabled Word document",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940335/macro-suddenly-disappears-from-macro-enabled-word-document"
         },
         "SU-1940351": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
         },
-        "SU-252276": {
+        "SU-44191": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I restrict the amount of time I spend on particular websites?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/252276/how-can-i-restrict-the-amount-of-time-i-spend-on-particular-websites"
+            "root_cause": "用戶回報終端技術障礙: Automatically open ICS files in Google Calendar",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/44191/automatically-open-ics-files-in-google-calendar"
+        },
+        "SU-1940328": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Tweak UI: Does it apply ALL the settings, or just the current ones?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940328/tweak-ui-does-it-apply-all-the-settings-or-just-the-current-ones"
         }
     }
 }
