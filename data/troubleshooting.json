@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-15 13:02:23",
+    "updated": "2026-09-15 17:52:08",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940003": {
+        "SU-1936230": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t a mouse interact with my Windows install but keyboard can?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940003/why-can-t-a-mouse-interact-with-my-windows-install-but-keyboard-can"
+            "root_cause": "用戶回報終端技術障礙: What does quoting text in :has-text() do in uBlock Origin?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1936230/what-does-quoting-text-in-has-text-do-in-ublock-origin"
         },
-        "SU-1940360": {
+        "SU-1940390": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why are input events seemingly out of order on my Windows 11 Pro setup?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940360/why-are-input-events-seemingly-out-of-order-on-my-windows-11-pro-setup"
+            "root_cause": "用戶回報終端技術障礙: Window is missing &quot;X&quot; close button in top-right corner",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940390/window-is-missing-x-close-button-in-top-right-corner"
         },
-        "SU-1021688": {
+        "SU-1589191": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10 Double-clicks on single click",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1021688/windows-10-double-clicks-on-single-click"
+            "root_cause": "用戶回報終端技術障礙: Ransomware affected Files can be used.?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1589191/ransomware-affected-files-can-be-used"
         },
-        "SU-1940351": {
+        "SU-1940184": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
+            "root_cause": "用戶回報終端技術障礙: Are video capable USB C cables somehow &#39;special&#39;?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940184/are-video-capable-usb-c-cables-somehow-special"
         },
-        "SU-1929588": {
+        "SU-1690177": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 duplicated files and folders (due to localization) how to disable it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1929588/windows-11-duplicated-files-and-folders-due-to-localization-how-to-disable-it"
+            "root_cause": "用戶回報終端技術障礙: Error with sudoers_audit plugin",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1690177/error-with-sudoers-audit-plugin"
         }
     }
 }
