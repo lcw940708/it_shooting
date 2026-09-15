@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-14 20:06:27",
+    "updated": "2026-09-15 00:08:06",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940371": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows incompatibility: Windows are looking differently in Windows 10 and Windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940371/windows-incompatibility-windows-are-looking-differently-in-windows-10-and-windo"
+        },
+        "SU-1940370": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Traversing the DOM of a Service Now page",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940370/traversing-the-dom-of-a-service-now-page"
+        },
         "SU-1940369": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Dorm wifi forces re-login every 24hrs, looking for ways to control that",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
-        },
-        "SU-44191": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Automatically open ICS files in Google Calendar",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/44191/automatically-open-ics-files-in-google-calendar"
-        },
-        "SU-1940328": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Tweak UI: Does it apply ALL the settings, or just the current ones?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940328/tweak-ui-does-it-apply-all-the-settings-or-just-the-current-ones"
         }
     }
 }
