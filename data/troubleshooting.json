@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-15 07:03:02",
+    "updated": "2026-09-15 13:02:23",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940376": {
+        "SU-1940003": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to boot from USB on an older laptop with NAPA motherboard, Intel Celeron M 440 CPU and 1024 MB RAM?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940376/how-to-boot-from-usb-on-an-older-laptop-with-napa-motherboard-intel-celeron-m-4"
+            "root_cause": "用戶回報終端技術障礙: Why can’t a mouse interact with my Windows install but keyboard can?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940003/why-can-t-a-mouse-interact-with-my-windows-install-but-keyboard-can"
         },
-        "SU-693964": {
+        "SU-1940360": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I find out if PCI-e slot is 1.0, 2.0 or 3.0 in Linux terminal?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/693964/how-can-i-find-out-if-pci-e-slot-is-1-0-2-0-or-3-0-in-linux-terminal"
+            "root_cause": "用戶回報終端技術障礙: Why are input events seemingly out of order on my Windows 11 Pro setup?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940360/why-are-input-events-seemingly-out-of-order-on-my-windows-11-pro-setup"
         },
-        "SU-1318207": {
+        "SU-1021688": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can&#39;t enable copy/paste between Kali virtualbox and Windows host",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1318207/cant-enable-copy-paste-between-kali-virtualbox-and-windows-host"
+            "root_cause": "用戶回報終端技術障礙: Windows 10 Double-clicks on single click",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1021688/windows-10-double-clicks-on-single-click"
         },
-        "SU-1940369": {
+        "SU-1940351": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: My dorm Wi-Fi forces a re-login every 24hrs. Is there any way I can control that?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940369/my-dorm-wi-fi-forces-a-re-login-every-24hrs-is-there-any-way-i-can-control-that"
+            "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
         },
-        "SU-1940373": {
+        "SU-1929588": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Trying to install Windows 10 to a separate drive, can&#39;t do grub-install after converting it to GPT",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940373/trying-to-install-windows-10-to-a-separate-drive-cant-do-grub-install-after-co"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 duplicated files and folders (due to localization) how to disable it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1929588/windows-11-duplicated-files-and-folders-due-to-localization-how-to-disable-it"
         }
     }
 }
