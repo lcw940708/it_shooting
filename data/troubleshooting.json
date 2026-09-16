@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-16 14:30:33",
+    "updated": "2026-09-16 19:16:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940217": {
+        "SU-1105912": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why isn&#39;t my MacBook Neo allowing me to run the native resolution of 2048x1536?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940217/why-isnt-my-macbook-neo-allowing-me-to-run-the-native-resolution-of-2048x1536"
+            "root_cause": "用戶回報終端技術障礙: How to disable the file path history In Windows Explorer 10?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1105912/how-to-disable-the-file-path-history-in-windows-explorer-10"
         },
-        "SU-1940390": {
+        "SU-472407": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is this window is missing &quot;X&quot; close button in top-right corner?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940390/why-is-this-window-is-missing-x-close-button-in-top-right-corner"
+            "root_cause": "用戶回報終端技術障礙: Sync ALL Outlook Invites with Google Calendar",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/472407/sync-all-outlook-invites-with-google-calendar"
         },
-        "SU-512349": {
+        "SU-1123157": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I properly set sudo/visudo&#39;s editor?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/512349/how-can-i-properly-set-sudo-visudos-editor"
+            "root_cause": "用戶回報終端技術障礙: Why running LibreOffice without a window manager, is there a way to specify window geometry?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1123157/why-running-libreoffice-without-a-window-manager-is-there-a-way-to-specify-wind"
         },
-        "SU-1940402": {
+        "SU-1940311": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: WildCard for search end of paragraph in MS Word 2016",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940402/wildcard-for-search-end-of-paragraph-in-ms-word-2016"
+            "root_cause": "用戶回報終端技術障礙: How can I convert all DDS files in a bunch of nested subfolders into TGA files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940311/how-can-i-convert-all-dds-files-in-a-bunch-of-nested-subfolders-into-tga-files"
         },
-        "SU-1508952": {
+        "SU-1895400": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Pycharm no longer prompts me to open in &quot;this window&quot; or &quot;new window&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1508952/pycharm-no-longer-prompts-me-to-open-in-this-window-or-new-window"
+            "root_cause": "用戶回報終端技術障礙: How to ascertain whether a machine is accessible from its public IP address?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1895400/how-to-ascertain-whether-a-machine-is-accessible-from-its-public-ip-address"
         }
     }
 }
