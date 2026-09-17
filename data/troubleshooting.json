@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-17 19:27:50",
+    "updated": "2026-09-17 22:34:40",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-638351": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to deal with a dead battery in a Dell Inspiron 15 laptop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/638351/how-to-deal-with-a-dead-battery-in-a-dell-inspiron-15-laptop"
+        },
+        "SU-1940426": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why doesn’t my Surface Pro 7 start?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940426/why-doesn-t-my-surface-pro-7-start"
+        },
+        "SU-1940435": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible to apply Apache Require(not) host/IP rules to routed paths in HTTP requests?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940435/is-it-possible-to-apply-apache-requirenot-host-ip-rules-to-routed-paths-in-htt"
+        },
         "SU-1353130": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: VM got 10.0.x.x address instead of 192.168.x.x address?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Does Windows 11 still support printing?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940432/does-windows-11-still-support-printing"
-        },
-        "SU-531592": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add the &#39;tree&#39; command to git-bash in Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/531592/how-to-add-the-tree-command-to-git-bash-in-windows"
-        },
-        "SU-1940428": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Internal HDD in a USB docking station vs. a pre-built external HDD: what are the technical trade-offs?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940428/internal-hdd-in-a-usb-docking-station-vs-a-pre-built-external-hdd-what-are-the"
-        },
-        "SU-1940426": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn’t my Surface Pro 7 start?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940426/why-doesn-t-my-surface-pro-7-start"
         }
     }
 }
