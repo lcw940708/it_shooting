@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-18 18:46:47",
+    "updated": "2026-09-18 22:08:37",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -42,10 +42,10 @@
             "root_cause": "用戶回報終端技術障礙: Not able to install OS on new PC",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940446/not-able-to-install-os-on-new-pc"
         },
-        "SU-1940456": {
+        "SU-1675966": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is a systemverify file and what does it do?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940456/what-is-a-systemverify-file-and-what-does-it-do"
+            "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
         }
     }
 }
