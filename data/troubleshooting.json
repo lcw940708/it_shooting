@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-18 08:39:02",
+    "updated": "2026-09-18 14:00:55",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940451": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows Update - ms-settings:",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940451/windows-update-ms-settings"
+        },
+        "SU-110726": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to uninstall/reinstall cygwin to use the sshd?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/110726/how-to-uninstall-reinstall-cygwin-to-use-the-sshd"
+        },
         "SU-1940439": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Copy users/groups from &quot;Find Users, Contacts, and Groups&quot; to clipboard?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940439/copy-users-groups-from-find-users-contacts-and-groups-to-clipboard"
         },
-        "SU-1940443": {
+        "SU-1940449": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does saving a full page screenshot as JPEG barely shrink the file compared to PNG?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940443/why-does-saving-a-full-page-screenshot-as-jpeg-barely-shrink-the-file-compared-t"
+            "root_cause": "用戶回報終端技術障礙: PC restarts 2 times before booting normally",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940449/pc-restarts-2-times-before-booting-normally"
         },
-        "SU-1940442": {
+        "SU-472047": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Excel scatter plot lines appear broken and uneven",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940442/excel-scatter-plot-lines-appear-broken-and-uneven"
-        },
-        "SU-1940428": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Internal HDD in a USB docking station vs. a pre-built external HDD: what are the technical trade-offs?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940428/internal-hdd-in-a-usb-docking-station-vs-a-pre-built-external-hdd-what-are-the"
-        },
-        "SU-607027": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: System won&#39;t boot: Gigabyte HD 7790 1GB OC GPU issue or Corsair VS550 PSU issue?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/607027/system-wont-boot-gigabyte-hd-7790-1gb-oc-gpu-issue-or-corsair-vs550-psu-issue"
+            "root_cause": "用戶回報終端技術障礙: Unable to connect to FTP server using Filezilla with router in-between",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/472047/unable-to-connect-to-ftp-server-using-filezilla-with-router-in-between"
         }
     }
 }
