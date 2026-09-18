@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-18 14:00:55",
+    "updated": "2026-09-18 18:46:47",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940451": {
+        "SU-1940443": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows Update - ms-settings:",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940451/windows-update-ms-settings"
+            "root_cause": "用戶回報終端技術障礙: Why does saving a full page screenshot as JPEG barely shrink the file compared to PNG?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940443/why-does-saving-a-full-page-screenshot-as-jpeg-barely-shrink-the-file-compared-t"
         },
-        "SU-110726": {
+        "SU-1715715": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to uninstall/reinstall cygwin to use the sshd?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/110726/how-to-uninstall-reinstall-cygwin-to-use-the-sshd"
+            "root_cause": "用戶回報終端技術障礙: Can I enable Unicode UTF-8 WorldWide Support in WIndows 11, but set another encoding for a specific app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1715715/can-i-enable-unicode-utf-8-worldwide-support-in-windows-11-but-set-another-enco"
         },
-        "SU-1940439": {
+        "SU-678106": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Copy users/groups from &quot;Find Users, Contacts, and Groups&quot; to clipboard?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940439/copy-users-groups-from-find-users-contacts-and-groups-to-clipboard"
+            "root_cause": "用戶回報終端技術障礙: How to remove supervisor BIOS password from Toshiba laptop",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/678106/how-to-remove-supervisor-bios-password-from-toshiba-laptop"
         },
-        "SU-1940449": {
+        "SU-1940446": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: PC restarts 2 times before booting normally",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940449/pc-restarts-2-times-before-booting-normally"
+            "root_cause": "用戶回報終端技術障礙: Not able to install OS on new PC",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940446/not-able-to-install-os-on-new-pc"
         },
-        "SU-472047": {
+        "SU-1940456": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Unable to connect to FTP server using Filezilla with router in-between",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/472047/unable-to-connect-to-ftp-server-using-filezilla-with-router-in-between"
+            "root_cause": "用戶回報終端技術障礙: What is a systemverify file and what does it do?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940456/what-is-a-systemverify-file-and-what-does-it-do"
         }
     }
 }
