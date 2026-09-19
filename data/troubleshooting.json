@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-19 08:25:58",
+    "updated": "2026-09-19 13:37:45",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1675966": {
+        "SU-1405441": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
+            "root_cause": "用戶回報終端技術障礙: How to delete multi-line comment in Notepad++",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1405441/how-to-delete-multi-line-comment-in-notepad"
         },
-        "SU-1940464": {
+        "SU-1940469": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: In Outlook can you automatically change the From email address based on the subfolder you are sending from in the iOS outlook app or Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940464/in-outlook-can-you-automatically-change-the-from-email-address-based-on-the-subf"
-        },
-        "SU-1916251": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Ignoring serial port hangup",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1916251/ignoring-serial-port-hangup"
-        },
-        "SU-1940448": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Clean installing Windows on a dual-boot setup without breaking Ubuntu? (Stuck at HP logo)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940448/clean-installing-windows-on-a-dual-boot-setup-without-breaking-ubuntu-stuck-at"
+            "root_cause": "用戶回報終端技術障礙: Hibernate Resume: Wake on USB Keyboard, Not USB Mouse",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940469/hibernate-resume-wake-on-usb-keyboard-not-usb-mouse"
         },
         "SU-1940461": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I use regular expressions in LibreOffice Writer or OpenOffice Writer?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940461/how-can-i-use-regular-expressions-in-libreoffice-writer-or-openoffice-writer"
+        },
+        "SU-1940467": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Using Calc formulas in libreoffice Writer",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940467/using-calc-formulas-in-libreoffice-writer"
+        },
+        "SU-1202351": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: TFTP transfer fails with error &quot;Connect request failed&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1202351/tftp-transfer-fails-with-error-connect-request-failed"
         }
     }
 }
