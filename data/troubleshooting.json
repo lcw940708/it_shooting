@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-19 22:00:09",
+    "updated": "2026-09-20 02:47:58",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940469": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Hibernate Resume: How to wake on USB keyboard and not on USB mouse?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940469/hibernate-resume-how-to-wake-on-usb-keyboard-and-not-on-usb-mouse"
+        },
+        "SU-1940467": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to use LibreOffice Calc formulas in LibreOffice Writer?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940467/how-to-use-libreoffice-calc-formulas-in-libreoffice-writer"
+        },
         "SU-1940464": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: In Outlook can you automatically change the From email address based on the subfolder you are sending from in the iOS outlook app or Windows?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to translate a full excel sheet to another language with the Microsoft Translator",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1679430/how-to-translate-a-full-excel-sheet-to-another-language-with-the-microsoft-trans"
-        },
-        "SU-1940469": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Hibernate Resume: How to wake on USB Keyboard and not on USB Mouse?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940469/hibernate-resume-how-to-wake-on-usb-keyboard-and-not-on-usb-mouse"
-        },
-        "SU-1626996": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows command dir lists files with absolute path, relative path required",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1626996/windows-command-dir-lists-files-with-absolute-path-relative-path-required"
         }
     }
 }
