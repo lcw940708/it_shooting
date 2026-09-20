@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-20 13:51:30",
+    "updated": "2026-09-20 17:12:40",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940443": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does saving a full page screenshot as JPEG barely shrink the file compared to PNG?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940443/why-does-saving-a-full-page-screenshot-as-jpeg-barely-shrink-the-file-compared-t"
+        },
+        "SU-1940396": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a lag on the touchpad on a Thinkpad P15 Gen 2 with Ubuntu 26.04?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940396/why-am-i-experiencing-a-lag-on-the-touchpad-on-a-thinkpad-p15-gen-2-with-ubuntu"
+        },
+        "SU-1940478": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why to activate Windows 11 after reinstalling from USB flash drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940478/why-to-activate-windows-11-after-reinstalling-from-usb-flash-drive"
+        },
         "SU-737683": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: VLC start up with playlist",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: nslookup and dig error: connection timed out; no servers could be reached - even when specifying server",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1567125/nslookup-and-dig-error-connection-timed-out-no-servers-could-be-reached-even"
-        },
-        "SU-1940478": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Activate Windows 11 after reinstalling from USB Media drive",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940478/activate-windows-11-after-reinstalling-from-usb-media-drive"
-        },
-        "SU-1500362": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: RDP persistance hack",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1500362/rdp-persistance-hack"
-        },
-        "SU-1940469": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Hibernate Resume: How to wake on USB keyboard and not on USB mouse?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940469/hibernate-resume-how-to-wake-on-usb-keyboard-and-not-on-usb-mouse"
         }
     }
 }
