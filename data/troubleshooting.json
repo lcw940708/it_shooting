@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-20 20:07:19",
+    "updated": "2026-09-20 23:46:03",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1939950": {
+        "SU-1940489": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does LosslessCut loosen the Playhead in the Progress Bar in Movies &amp; TV app, and Windows Media Player?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939950/why-does-losslesscut-loosen-the-playhead-in-the-progress-bar-in-movies-tv-app"
+            "root_cause": "用戶回報終端技術障礙: Why am I as of recently constantly receiving unusual traffic warnings when entering searches in Google?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940489/why-am-i-as-of-recently-constantly-receiving-unusual-traffic-warnings-when-enter"
         },
-        "SU-1095458": {
+        "SU-1940488": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10 and Realtek Optical Output 5.1 DTS - How to Enable",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1095458/windows-10-and-realtek-optical-output-5-1-dts-how-to-enable"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 Top banner/address bar on EVERY program is massively oversized",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940488/windows-11-top-banner-address-bar-on-every-program-is-massively-oversized"
         },
-        "SU-1940443": {
+        "SU-1940486": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does saving a full page screenshot as JPEG barely shrink the file compared to PNG?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940443/why-does-saving-a-full-page-screenshot-as-jpeg-barely-shrink-the-file-compared-t"
+            "root_cause": "用戶回報終端技術障礙: I&#39;m facing at home now",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940486/im-facing-at-home-now"
         },
-        "SU-1940396": {
+        "SU-1544897": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a lag on the touchpad on a Thinkpad P15 Gen 2 with Ubuntu 26.04?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940396/why-am-i-experiencing-a-lag-on-the-touchpad-on-a-thinkpad-p15-gen-2-with-ubuntu"
+            "root_cause": "用戶回報終端技術障礙: Cannot connect to a shared printer on local network; error 0x00004005",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1544897/cannot-connect-to-a-shared-printer-on-local-network-error-0x00004005"
         },
-        "SU-1940478": {
+        "SU-1731077": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why to activate Windows 11 after reinstalling from USB flash drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940478/why-to-activate-windows-11-after-reinstalling-from-usb-flash-drive"
+            "root_cause": "用戶回報終端技術障礙: Is an MTU of 1500 indicating incorrect configuration in my home network and/or ISP setup?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1731077/is-an-mtu-of-1500-indicating-incorrect-configuration-in-my-home-network-and-or-i"
         }
     }
 }
