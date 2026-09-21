@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-21 02:45:05",
+    "updated": "2026-09-21 09:29:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1722102": {
+        "SU-1940497": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: SMART test results show &quot;Aborted by host&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1722102/smart-test-results-show-aborted-by-host"
+            "root_cause": "用戶回報終端技術障礙: Chrome DevTools &quot;Capture full size screenshot&quot; puts the sticky header in the middle of the image",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940497/chrome-devtools-capture-full-size-screenshot-puts-the-sticky-header-in-the-mid"
         },
-        "SU-1691097": {
+        "SU-1940496": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: WSL2 cannot access the internet on Windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1691097/wsl2-cannot-access-the-internet-on-windows-11"
+            "root_cause": "用戶回報終端技術障礙: i want to buy a laptop with good specification",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940496/i-want-to-buy-a-laptop-with-good-specification"
         },
-        "SU-1940489": {
+        "SU-1940492": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I as of recently constantly receiving unusual traffic warnings when entering searches in Google?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940489/why-am-i-as-of-recently-constantly-receiving-unusual-traffic-warnings-when-enter"
+            "root_cause": "用戶回報終端技術障礙: Can I “ping” or locate the general location of a call, text, or email?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940492/can-i-ping-or-locate-the-general-location-of-a-call-text-or-email"
         },
-        "SU-1940488": {
+        "SU-1940491": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 Top banner/address bar on EVERY program is massively oversized",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940488/windows-11-top-banner-address-bar-on-every-program-is-massively-oversized"
+            "root_cause": "用戶回報終端技術障礙: How to link to NULL device in PowerShell",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940491/how-to-link-to-null-device-in-powershell"
         },
-        "SU-1940486": {
+        "SU-1940461": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I&#39;m facing at home now",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940486/im-facing-at-home-now"
+            "root_cause": "用戶回報終端技術障礙: How can I use regular expressions in LibreOffice Writer or OpenOffice Writer?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940461/how-can-i-use-regular-expressions-in-libreoffice-writer-or-openoffice-writer"
         }
     }
 }
