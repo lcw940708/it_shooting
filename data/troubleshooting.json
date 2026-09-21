@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-21 16:07:52",
+    "updated": "2026-09-21 21:31:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-608946": {
+        "SU-1940511": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Force MS-CHAPv2 VPN connection from Mac",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/608946/force-ms-chapv2-vpn-connection-from-mac"
+            "root_cause": "用戶回報終端技術障礙: How to revoke Git Credential Manager on a compromised computer with GitHub",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940511/how-to-revoke-git-credential-manager-on-a-compromised-computer-with-github"
         },
         "SU-1940488": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Windows 11 Top banner/address bar on EVERY program is massively oversized",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940488/windows-11-top-banner-address-bar-on-every-program-is-massively-oversized"
         },
+        "SU-739148": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is there any reason to use a serial port over a parallel port?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/739148/is-there-any-reason-to-use-a-serial-port-over-a-parallel-port"
+        },
+        "SU-219163": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to play movie with subtitles using DLNA server?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/219163/how-to-play-movie-with-subtitles-using-dlna-server"
+        },
         "SU-1143219": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Changing the DPI in a JPEG without re-encoding? with ImageMagick or something else",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1143219/changing-the-dpi-in-a-jpeg-without-re-encoding-with-imagemagick-or-something-el"
-        },
-        "SU-1940499": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Field commands in text boxes for LibreOffice Writer",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940499/field-commands-in-text-boxes-for-libreoffice-writer"
-        },
-        "SU-1940497": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Chrome DevTools &quot;Capture full size screenshot&quot; puts the sticky header in the middle of the image",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940497/chrome-devtools-capture-full-size-screenshot-puts-the-sticky-header-in-the-mid"
+            "root_cause": "用戶回報終端技術障礙: How to change the DPI in a JPEG without re-encoding? With ImageMagick or something else",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1143219/how-to-change-the-dpi-in-a-jpeg-without-re-encoding-with-imagemagick-or-somethi"
         }
     }
 }
