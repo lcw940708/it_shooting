@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-20 23:46:03",
+    "updated": "2026-09-21 02:45:05",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1722102": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: SMART test results show &quot;Aborted by host&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1722102/smart-test-results-show-aborted-by-host"
+        },
+        "SU-1691097": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: WSL2 cannot access the internet on Windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1691097/wsl2-cannot-access-the-internet-on-windows-11"
+        },
         "SU-1940489": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why am I as of recently constantly receiving unusual traffic warnings when entering searches in Google?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: I&#39;m facing at home now",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940486/im-facing-at-home-now"
-        },
-        "SU-1544897": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Cannot connect to a shared printer on local network; error 0x00004005",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1544897/cannot-connect-to-a-shared-printer-on-local-network-error-0x00004005"
-        },
-        "SU-1731077": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is an MTU of 1500 indicating incorrect configuration in my home network and/or ISP setup?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1731077/is-an-mtu-of-1500-indicating-incorrect-configuration-in-my-home-network-and-or-i"
         }
     }
 }
