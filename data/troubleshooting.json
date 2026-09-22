@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-22 00:28:27",
+    "updated": "2026-09-22 07:09:05",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940488": {
+        "SU-1940523": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 Top banner/address bar on EVERY program is massively oversized",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940488/windows-11-top-banner-address-bar-on-every-program-is-massively-oversized"
+            "root_cause": "用戶回報終端技術障礙: Firefox does not auto update (Firefox Portable)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940523/firefox-does-not-auto-update-firefox-portable"
         },
-        "SU-1940511": {
+        "SU-1940520": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to revoke Git Credential Manager on a compromised computer with GitHub?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940511/how-to-revoke-git-credential-manager-on-a-compromised-computer-with-github"
+            "root_cause": "用戶回報終端技術障礙: Bitlocker cannot be enabled due to TPM even though TPM is correctly found",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940520/bitlocker-cannot-be-enabled-due-to-tpm-even-though-tpm-is-correctly-found"
         },
-        "SU-1710178": {
+        "SU-1934007": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to stop Windows 10 changing my default sound device?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1710178/how-to-stop-windows-10-changing-my-default-sound-device"
+            "root_cause": "用戶回報終端技術障礙: I am unable to open MBOX files in modern email clients like Outlook or Thunderbird: What can I do to preserve their contents?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934007/i-am-unable-to-open-mbox-files-in-modern-email-clients-like-outlook-or-thunderbi"
         },
-        "SU-1212816": {
+        "SU-1789581": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Outlook 2016 shows only free/busy information for my calendar when creating a new meeting",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1212816/outlook-2016-shows-only-free-busy-information-for-my-calendar-when-creating-a-ne"
+            "root_cause": "用戶回報終端技術障礙: Screen has a black border?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1789581/screen-has-a-black-border"
         },
-        "SU-1940499": {
+        "SU-1940519": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Field commands in text boxes for LibreOffice Writer",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940499/field-commands-in-text-boxes-for-libreoffice-writer"
+            "root_cause": "用戶回報終端技術障礙: I can&#39;t remember the password of VBA in a Microsoft Access application of mine",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940519/i-cant-remember-the-password-of-vba-in-a-microsoft-access-application-of-mine"
         }
     }
 }
