@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-22 07:09:05",
+    "updated": "2026-09-22 12:59:35",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940531": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I verify whether different desktop applications are actually routing HTTPS requests through the configured proxy on Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940531/how-can-i-verify-whether-different-desktop-applications-are-actually-routing-htt"
+        },
+        "SU-1857859": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to merge all PDF files in a folder into one?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1857859/how-to-merge-all-pdf-files-in-a-folder-into-one"
+        },
+        "SU-1032941": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: VI - Paste something in the first position/character of a succession of lines",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1032941/vi-paste-something-in-the-first-position-character-of-a-succession-of-lines"
+        },
+        "SU-848525": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to make Word Wrap insert newlines in Notepad++",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/848525/how-to-make-word-wrap-insert-newlines-in-notepad"
+        },
         "SU-1940523": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Firefox does not auto update (Firefox Portable)",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940523/firefox-does-not-auto-update-firefox-portable"
-        },
-        "SU-1940520": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Bitlocker cannot be enabled due to TPM even though TPM is correctly found",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940520/bitlocker-cannot-be-enabled-due-to-tpm-even-though-tpm-is-correctly-found"
-        },
-        "SU-1934007": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I am unable to open MBOX files in modern email clients like Outlook or Thunderbird: What can I do to preserve their contents?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934007/i-am-unable-to-open-mbox-files-in-modern-email-clients-like-outlook-or-thunderbi"
-        },
-        "SU-1789581": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Screen has a black border?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1789581/screen-has-a-black-border"
-        },
-        "SU-1940519": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I can&#39;t remember the password of VBA in a Microsoft Access application of mine",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940519/i-cant-remember-the-password-of-vba-in-a-microsoft-access-application-of-mine"
         }
     }
 }
