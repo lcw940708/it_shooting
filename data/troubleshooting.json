@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-22 12:59:35",
+    "updated": "2026-09-22 17:51:19",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1035837": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What is a simple STUN test I can perform from a Windows machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1035837/what-is-a-simple-stun-test-i-can-perform-from-a-windows-machine"
+        },
+        "SU-1940523": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why doesn’t Firefox (portable) auto update?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940523/why-doesn-t-firefox-portable-auto-update"
+        },
         "SU-1940531": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I verify whether different desktop applications are actually routing HTTPS requests through the configured proxy on Windows 11?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: VI - Paste something in the first position/character of a succession of lines",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1032941/vi-paste-something-in-the-first-position-character-of-a-succession-of-lines"
-        },
-        "SU-848525": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to make Word Wrap insert newlines in Notepad++",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/848525/how-to-make-word-wrap-insert-newlines-in-notepad"
-        },
-        "SU-1940523": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Firefox does not auto update (Firefox Portable)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940523/firefox-does-not-auto-update-firefox-portable"
         }
     }
 }
