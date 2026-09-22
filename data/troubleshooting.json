@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-22 17:51:19",
+    "updated": "2026-09-22 20:43:47",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1035837": {
+        "SU-1675966": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is a simple STUN test I can perform from a Windows machine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1035837/what-is-a-simple-stun-test-i-can-perform-from-a-windows-machine"
+            "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
         },
-        "SU-1940523": {
+        "SU-911517": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn’t Firefox (portable) auto update?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940523/why-doesn-t-firefox-portable-auto-update"
+            "root_cause": "用戶回報終端技術障礙: Could not connect Ethernet0 to virtual network --- VMnet0 is missing",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/911517/could-not-connect-ethernet0-to-virtual-network-vmnet0-is-missing"
         },
-        "SU-1940531": {
+        "SU-1939808": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I verify whether different desktop applications are actually routing HTTPS requests through the configured proxy on Windows 11?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940531/how-can-i-verify-whether-different-desktop-applications-are-actually-routing-htt"
+            "root_cause": "用戶回報終端技術障礙: Why does WASAPI shared mode break in Windows 11 25H2?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939808/why-does-wasapi-shared-mode-break-in-windows-11-25h2"
         },
-        "SU-1857859": {
+        "SU-1940520": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to merge all PDF files in a folder into one?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1857859/how-to-merge-all-pdf-files-in-a-folder-into-one"
+            "root_cause": "用戶回報終端技術障礙: Bitlocker cannot be enabled due to TPM even though TPM is correctly found",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940520/bitlocker-cannot-be-enabled-due-to-tpm-even-though-tpm-is-correctly-found"
         },
-        "SU-1032941": {
+        "SU-1940142": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: VI - Paste something in the first position/character of a succession of lines",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1032941/vi-paste-something-in-the-first-position-character-of-a-succession-of-lines"
+            "root_cause": "用戶回報終端技術障礙: Why does Microsoft Teams crash whenever I share my screen during a meeting with a system with an AMD GPU?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940142/why-does-microsoft-teams-crash-whenever-i-share-my-screen-during-a-meeting-with"
         }
     }
 }
