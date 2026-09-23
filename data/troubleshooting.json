@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-23 08:58:57",
+    "updated": "2026-09-23 14:35:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1587451": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why is the default associations configuration keep getting reapplied?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1587451/why-is-the-default-associations-configuration-keep-getting-reapplied"
+        },
+        "SU-1936991": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible for a domain administrator to view an existing Active Directory user password without resetting it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1936991/is-it-possible-for-a-domain-administrator-to-view-an-existing-active-directory-u"
+        },
+        "SU-1940542": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: LTE modem: IPv4 ping works, but HTTPS connections are reset",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940542/lte-modem-ipv4-ping-works-but-https-connections-are-reset"
+        },
         "SU-1940170": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: &quot;unsort&quot; an array in Excel",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Wallpaper does not work in Hyprland on Arch Linux",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940544/wallpaper-does-not-work-in-hyprland-on-arch-linux"
-        },
-        "SU-1940542": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: LTE modem: IPv4 ping works, but HTTPS connections are reset",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940542/lte-modem-ipv4-ping-works-but-https-connections-are-reset"
-        },
-        "SU-1940520": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t Bitlocker be enabled due to TPM even though TPM is correctly found?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940520/why-can-t-bitlocker-be-enabled-due-to-tpm-even-though-tpm-is-correctly-found"
-        },
-        "SU-1932997": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Data corruption with a Kingston SNV3S2000G SSD in an IcyBox IB-1817Ma-C31 connected via USB3; where&#39;s the cause?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1932997/data-corruption-with-a-kingston-snv3s2000g-ssd-in-an-icybox-ib-1817ma-c31-connec"
         }
     }
 }
