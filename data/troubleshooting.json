@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-23 19:22:52",
+    "updated": "2026-09-23 22:36:03",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-739148": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is there any reason to use a serial port over a parallel port?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/739148/is-there-any-reason-to-use-a-serial-port-over-a-parallel-port"
+        },
         "SU-1940523": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why doesn’t Firefox (portable) auto update?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: &quot;Lease Does Not Exist&quot; Error When Running Nextflow Job While Running Docker Prune",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940550/lease-does-not-exist-error-when-running-nextflow-job-while-running-docker-prun"
-        },
-        "SU-1587451": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is the default associations configuration keep getting reapplied?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1587451/why-is-the-default-associations-configuration-keep-getting-reapplied"
         }
     }
 }
