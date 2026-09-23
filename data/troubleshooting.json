@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-22 23:56:23",
+    "updated": "2026-09-23 03:10:56",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,15 +22,20 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940539": {
+        "SU-1940520": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word"
+            "root_cause": "用戶回報終端技術障礙: Why can’t Bitlocker be enabled due to TPM even though TPM is correctly found?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940520/why-can-t-bitlocker-be-enabled-due-to-tpm-even-though-tpm-is-correctly-found"
         },
         "SU-1932997": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Data corruption with a Kingston SNV3S2000G SSD in an IcyBox IB-1817Ma-C31 connected via USB3; where&#39;s the cause?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1932997/data-corruption-with-a-kingston-snv3s2000g-ssd-in-an-icybox-ib-1817ma-c31-connec"
+        },
+        "SU-1940539": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word"
         },
         "SU-1422003": {
             "category": "IT Helpdesk / Community Super User",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to save a webpage as PDF exactly as it looks on web browser (no need for selectable text)",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675966/how-to-save-a-webpage-as-pdf-exactly-as-it-looks-on-web-browser-no-need-for-sel"
-        },
-        "SU-911517": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Could not connect Ethernet0 to virtual network --- VMnet0 is missing",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/911517/could-not-connect-ethernet0-to-virtual-network-vmnet0-is-missing"
         }
     }
 }
