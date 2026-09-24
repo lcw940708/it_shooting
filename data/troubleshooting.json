@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-24 02:35:51",
+    "updated": "2026-09-24 08:54:38",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940558": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to block domain from Google Search Result",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940558/how-to-block-domain-from-google-search-result"
+        },
         "SU-1940461": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I use regular expressions in LibreOffice Writer or OpenOffice Writer?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to use LibreOffice Calc formulas in LibreOffice Writer?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940467/how-to-use-libreoffice-calc-formulas-in-libreoffice-writer"
-        },
-        "SU-1940482": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Composer update results in The https://www.phpclasses.org/packages.json file could not be downloaded (HTTP/2 429 )",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940482/composer-update-results-in-the-https-www-phpclasses-org-packages-json-file-cou"
         }
     }
 }
