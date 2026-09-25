@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-25 09:15:28",
+    "updated": "2026-09-25 14:54:30",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-319056": {
+        "SU-1940565": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Does Windows still rely on MS-DOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/319056/does-windows-still-rely-on-ms-dos"
+            "root_cause": "用戶回報終端技術障礙: Why not gray out/disable vote buttons on my own posts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940565/why-not-gray-out-disable-vote-buttons-on-my-own-posts"
         },
-        "SU-1940571": {
+        "SU-1940575": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Bring back old box Ctrl+F microsoft word, new sidebar is bad",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940571/bring-back-old-box-ctrlf-microsoft-word-new-sidebar-is-bad"
+            "root_cause": "用戶回報終端技術障礙: ideas to isolate Java Application WEB in vps to only people that are connected by the LAN",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940575/ideas-to-isolate-java-application-web-in-vps-to-only-people-that-are-connected-b"
         },
-        "SU-532616": {
+        "SU-1454689": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Grab favicon.ico using Google Chrome dev tools",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/532616/grab-favicon-ico-using-google-chrome-dev-tools"
+            "root_cause": "用戶回報終端技術障礙: Power BI: advanced query relationships",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1454689/power-bi-advanced-query-relationships"
         },
-        "SU-1808060": {
+        "SU-343572": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: WinGet COM Server is consuming 25% of CPU. How to fix it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1808060/winget-com-server-is-consuming-25-of-cpu-how-to-fix-it"
+            "root_cause": "用戶回報終端技術障礙: How do I reorder tmux windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/343572/how-do-i-reorder-tmux-windows"
         },
-        "SU-1009708": {
+        "SU-844381": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disable Web Search on Windows 10 Start Menu",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1009708/disable-web-search-on-windows-10-start-menu"
+            "root_cause": "用戶回報終端技術障礙: Any way to have Notepad++ automatically save on exit?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/844381/any-way-to-have-notepad-automatically-save-on-exit"
         }
     }
 }
