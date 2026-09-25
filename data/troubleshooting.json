@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-25 14:54:30",
+    "updated": "2026-09-25 19:44:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940565": {
+        "SU-1940576": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why not gray out/disable vote buttons on my own posts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940565/why-not-gray-out-disable-vote-buttons-on-my-own-posts"
+            "root_cause": "用戶回報終端技術障礙: Kubuntu black screen after logging in",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940576/kubuntu-black-screen-after-logging-in"
         },
-        "SU-1940575": {
+        "SU-714804": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: ideas to isolate Java Application WEB in vps to only people that are connected by the LAN",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940575/ideas-to-isolate-java-application-web-in-vps-to-only-people-that-are-connected-b"
+            "root_cause": "用戶回報終端技術障礙: Converting video from 1080p to 720p with smallest quality loss using ffmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/714804/converting-video-from-1080p-to-720p-with-smallest-quality-loss-using-ffmpeg"
         },
-        "SU-1454689": {
+        "SU-378417": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Power BI: advanced query relationships",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1454689/power-bi-advanced-query-relationships"
+            "root_cause": "用戶回報終端技術障礙: Software chorded keyboard for OS X?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/378417/software-chorded-keyboard-for-os-x"
         },
-        "SU-343572": {
+        "SU-1933855": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I reorder tmux windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/343572/how-do-i-reorder-tmux-windows"
+            "root_cause": "用戶回報終端技術障礙: Can I remove the default shortcuts from Quick Access in Windows 10 from command line?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1933855/can-i-remove-the-default-shortcuts-from-quick-access-in-windows-10-from-command"
         },
-        "SU-844381": {
+        "SU-1533841": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Any way to have Notepad++ automatically save on exit?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/844381/any-way-to-have-notepad-automatically-save-on-exit"
+            "root_cause": "用戶回報終端技術障礙: Clear &quot;Always open in ..&quot; container preference for a specific site",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1533841/clear-always-open-in-container-preference-for-a-specific-site"
         }
     }
 }
