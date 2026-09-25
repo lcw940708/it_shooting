@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-25 02:53:14",
+    "updated": "2026-09-25 09:15:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940568": {
+        "SU-319056": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What technologies or security systems are most effective for monitoring a rural property?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940568/what-technologies-or-security-systems-are-most-effective-for-monitoring-a-rural"
+            "root_cause": "用戶回報終端技術障礙: Does Windows still rely on MS-DOS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/319056/does-windows-still-rely-on-ms-dos"
+        },
+        "SU-1940571": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Bring back old box Ctrl+F microsoft word, new sidebar is bad",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940571/bring-back-old-box-ctrlf-microsoft-word-new-sidebar-is-bad"
+        },
+        "SU-532616": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Grab favicon.ico using Google Chrome dev tools",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/532616/grab-favicon-ico-using-google-chrome-dev-tools"
+        },
+        "SU-1808060": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: WinGet COM Server is consuming 25% of CPU. How to fix it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1808060/winget-com-server-is-consuming-25-of-cpu-how-to-fix-it"
         },
         "SU-1009708": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Disable Web Search on Windows 10 Start Menu",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1009708/disable-web-search-on-windows-10-start-menu"
-        },
-        "SU-1940539": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word so that it shows up in File&gt;New backstage view? I&#39;ve added it to the list under Template Add-Ins",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word-so-that-it-shows-up-in-filenew-backstage-v"
-        },
-        "SU-650558": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Notepad++ keyboard shortcut assignment always not working",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/650558/notepad-keyboard-shortcut-assignment-always-not-working"
-        },
-        "SU-1940565": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why not gray out/disable vote buttons on my own posts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940565/why-not-gray-out-disable-vote-buttons-on-my-own-posts"
         }
     }
 }
