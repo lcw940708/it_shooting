@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-25 22:59:42",
+    "updated": "2026-09-26 02:56:32",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,15 +22,15 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-344877": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: The command &#39;ls -d&#39; is not displaying directories. Is there a way to get &#39;ls&#39; to only display directories instead of files and directories?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/344877/the-command-ls-d-is-not-displaying-directories-is-there-a-way-to-get-ls-to"
-        },
         "SU-1940576": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Kubuntu black screen after logging in",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940576/kubuntu-black-screen-after-logging-in"
+        },
+        "SU-344877": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: The command &#39;ls -d&#39; is not displaying directories. Is there a way to get &#39;ls&#39; to only display directories instead of files and directories?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/344877/the-command-ls-d-is-not-displaying-directories-is-there-a-way-to-get-ls-to"
         },
         "SU-714804": {
             "category": "IT Helpdesk / Community Super User",
