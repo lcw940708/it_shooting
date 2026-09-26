@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-26 08:58:07",
+    "updated": "2026-09-26 13:59:49",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1702123": {
+        "SU-1940595": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Windows 10 File Explorer not show thumbnails for mp4 video files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1702123/why-does-windows-10-file-explorer-not-show-thumbnails-for-mp4-video-files"
-        },
-        "SU-1940586": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows Apps Diagnosis",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940586/windows-apps-diagnosis"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
         },
         "SU-1940585": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Microsoft OneNote: &quot;Snap to a grid&quot; function doesn&#39;t seem to work",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940585/microsoft-onenote-snap-to-a-grid-function-doesnt-seem-to-work"
         },
-        "SU-1940583": {
+        "SU-1765811": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Default account was not set (passkey auth in Windows App)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940583/default-account-was-not-set-passkey-auth-in-windows-app"
+            "root_cause": "用戶回報終端技術障礙: How can I prevent Windows Explorer from stealing the focus when a file transfer completes?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1765811/how-can-i-prevent-windows-explorer-from-stealing-the-focus-when-a-file-transfer"
         },
-        "SU-1463761": {
+        "SU-1448008": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: C++ Mobile App Development in Visual Studio 2019. &quot;Unable to start debugging. Check your debugger settings....&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1463761/c-mobile-app-development-in-visual-studio-2019-unable-to-start-debugging-ch"
+            "root_cause": "用戶回報終端技術障礙: How do I strip file extensions from files found with find in MacOS shell",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1448008/how-do-i-strip-file-extensions-from-files-found-with-find-in-macos-shell"
+        },
+        "SU-28322": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I find out which application is stealing focus in Vista?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/28322/how-can-i-find-out-which-application-is-stealing-focus-in-vista"
         }
     }
 }
