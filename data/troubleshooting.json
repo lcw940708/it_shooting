@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-26 02:56:32",
+    "updated": "2026-09-26 08:58:07",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940576": {
+        "SU-1702123": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Kubuntu black screen after logging in",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940576/kubuntu-black-screen-after-logging-in"
+            "root_cause": "用戶回報終端技術障礙: Why does Windows 10 File Explorer not show thumbnails for mp4 video files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1702123/why-does-windows-10-file-explorer-not-show-thumbnails-for-mp4-video-files"
         },
-        "SU-344877": {
+        "SU-1940586": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: The command &#39;ls -d&#39; is not displaying directories. Is there a way to get &#39;ls&#39; to only display directories instead of files and directories?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/344877/the-command-ls-d-is-not-displaying-directories-is-there-a-way-to-get-ls-to"
+            "root_cause": "用戶回報終端技術障礙: Windows Apps Diagnosis",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940586/windows-apps-diagnosis"
         },
-        "SU-714804": {
+        "SU-1940585": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Converting video from 1080p to 720p with smallest quality loss using ffmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/714804/converting-video-from-1080p-to-720p-with-smallest-quality-loss-using-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: Microsoft OneNote: &quot;Snap to a grid&quot; function doesn&#39;t seem to work",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940585/microsoft-onenote-snap-to-a-grid-function-doesnt-seem-to-work"
         },
-        "SU-378417": {
+        "SU-1940583": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Software chorded keyboard for OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/378417/software-chorded-keyboard-for-os-x"
+            "root_cause": "用戶回報終端技術障礙: Default account was not set (passkey auth in Windows App)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940583/default-account-was-not-set-passkey-auth-in-windows-app"
         },
-        "SU-1933855": {
+        "SU-1463761": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can I remove the default shortcuts from Quick Access in Windows 10 from command line?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1933855/can-i-remove-the-default-shortcuts-from-quick-access-in-windows-10-from-command"
+            "root_cause": "用戶回報終端技術障礙: C++ Mobile App Development in Visual Studio 2019. &quot;Unable to start debugging. Check your debugger settings....&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1463761/c-mobile-app-development-in-visual-studio-2019-unable-to-start-debugging-ch"
         }
     }
 }
