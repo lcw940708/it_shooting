@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-26 17:41:08",
+    "updated": "2026-09-26 20:29:34",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940600": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Increase or decrease digit at the end of a line in vim",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940600/increase-or-decrease-digit-at-the-end-of-a-line-in-vim"
+        },
+        "SU-1025105": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Remove automatically added keyboard inputs and prevent them from coming back (Windows 10)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1025105/remove-automatically-added-keyboard-inputs-and-prevent-them-from-coming-back-wi"
+        },
+        "SU-348674": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Which character encoding is used for ALT-codes?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/348674/which-character-encoding-is-used-for-alt-codes"
+        },
         "SU-1940597": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Seeing both &quot;Sent&quot; and &quot;Sent Items&quot; on as Microsoft IMAP mail account via Thunderbird",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why is my SQL profiler not registering any events from SQL Express when running under Administrator?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940598/why-is-my-sql-profiler-not-registering-any-events-from-sql-express-when-running"
-        },
-        "SU-853184": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does nslookup give me NXDOMAIN in this case?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/853184/why-does-nslookup-give-me-nxdomain-in-this-case"
-        },
-        "SU-1561593": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to automatically set a thumbnail for a video file on Windows 10?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1561593/how-to-automatically-set-a-thumbnail-for-a-video-file-on-windows-10"
-        },
-        "SU-1940595": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
         }
     }
 }
