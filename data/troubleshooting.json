@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-27 07:26:12",
+    "updated": "2026-09-27 13:27:23",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940539": {
+        "SU-1940597": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word so that it shows up in File&gt;New backstage view? I&#39;ve added it to the list under Template Add-Ins",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word-so-that-it-shows-up-in-filenew-backstage-v"
+            "root_cause": "用戶回報終端技術障礙: Two &quot;Sent&quot; Folders in Thunderbird: Which One Is Real?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940597/two-sent-folders-in-thunderbird-which-one-is-real"
         },
-        "SU-1784504": {
+        "SU-1940611": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I get CUDA 11.7 on Arch Linux?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1784504/how-do-i-get-cuda-11-7-on-arch-linux"
+            "root_cause": "用戶回報終端技術障礙: Proxmox Ubuntu VM getting a significantly lower amount of memory than allocated",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940611/proxmox-ubuntu-vm-getting-a-significantly-lower-amount-of-memory-than-allocated"
         },
-        "SU-1940607": {
+        "SU-1938653": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Inquiry about PC diagnostics",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940607/inquiry-about-pc-diagnostics"
+            "root_cause": "用戶回報終端技術障礙: How to stop Firefox from loading local memory copy of page?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938653/how-to-stop-firefox-from-loading-local-memory-copy-of-page"
         },
-        "SU-1940606": {
+        "SU-1940585": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: mdadm: add new device failed for /dev/sda1 as 7: Invalid argument",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940606/mdadm-add-new-device-failed-for-dev-sda1-as-7-invalid-argument"
+            "root_cause": "用戶回報終端技術障礙: Microsoft OneNote: &quot;Snap to a grid&quot; function doesn&#39;t seem to work",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940585/microsoft-onenote-snap-to-a-grid-function-doesnt-seem-to-work"
         },
-        "SU-764842": {
+        "SU-1940595": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to change the appearance of web parts in SharePoint 2013 using CSS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/764842/how-to-change-the-appearance-of-web-parts-in-sharepoint-2013-using-css"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
         }
     }
 }
