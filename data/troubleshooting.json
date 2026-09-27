@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-27 18:00:21",
+    "updated": "2026-09-27 22:44:10",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940616": {
+        "SU-1158215": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I convert a PST file to MBOX without Outlook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940616/how-can-i-convert-a-pst-file-to-mbox-without-outlook"
+            "root_cause": "用戶回報終端技術障礙: Gramblr conflict with firewall (500 - internal server error)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1158215/gramblr-conflict-with-firewall-500-internal-server-error"
         },
-        "SU-1940615": {
+        "SU-1940621": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Indexing not working in Outlook 2021",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940615/indexing-not-working-in-outlook-2021"
+            "root_cause": "用戶回報終端技術障礙: In xkb, can we combine shifted Caps Lock behavior with sticky modifiers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940621/in-xkb-can-we-combine-shifted-caps-lock-behavior-with-sticky-modifiers"
         },
-        "SU-1940612": {
+        "SU-1940618": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable adaptive spam controls in Thunderbird by default for new accounts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940612/how-to-disable-adaptive-spam-controls-in-thunderbird-by-default-for-new-accounts"
+            "root_cause": "用戶回報終端技術障礙: Upgraded RAID1 shows old drive size",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/upgraded-raid1-shows-old-drive-size"
         },
-        "SU-1940606": {
+        "SU-1156974": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: mdadm: add new device failed for /dev/sda1 as 7: Invalid argument",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940606/mdadm-add-new-device-failed-for-dev-sda1-as-7-invalid-argument"
+            "root_cause": "用戶回報終端技術障礙: Double new-line when copy to konsole on xrdp",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1156974/double-new-line-when-copy-to-konsole-on-xrdp"
         },
-        "SU-1940613": {
+        "SU-712183": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to overcome disk partition error when installing lightweight linux?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940613/how-to-overcome-disk-partition-error-when-installing-lightweight-linux"
+            "root_cause": "用戶回報終端技術障礙: how can I view milliseconds with VLC? (and why is this method not working?)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712183/how-can-i-view-milliseconds-with-vlc-and-why-is-this-method-not-working"
         }
     }
 }
