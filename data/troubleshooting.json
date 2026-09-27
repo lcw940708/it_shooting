@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-27 13:27:23",
+    "updated": "2026-09-27 18:00:21",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940597": {
+        "SU-1940616": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Two &quot;Sent&quot; Folders in Thunderbird: Which One Is Real?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940597/two-sent-folders-in-thunderbird-which-one-is-real"
+            "root_cause": "用戶回報終端技術障礙: How can I convert a PST file to MBOX without Outlook?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940616/how-can-i-convert-a-pst-file-to-mbox-without-outlook"
         },
-        "SU-1940611": {
+        "SU-1940615": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Proxmox Ubuntu VM getting a significantly lower amount of memory than allocated",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940611/proxmox-ubuntu-vm-getting-a-significantly-lower-amount-of-memory-than-allocated"
+            "root_cause": "用戶回報終端技術障礙: Indexing not working in Outlook 2021",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940615/indexing-not-working-in-outlook-2021"
         },
-        "SU-1938653": {
+        "SU-1940612": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to stop Firefox from loading local memory copy of page?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938653/how-to-stop-firefox-from-loading-local-memory-copy-of-page"
+            "root_cause": "用戶回報終端技術障礙: How to disable adaptive spam controls in Thunderbird by default for new accounts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940612/how-to-disable-adaptive-spam-controls-in-thunderbird-by-default-for-new-accounts"
         },
-        "SU-1940585": {
+        "SU-1940606": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Microsoft OneNote: &quot;Snap to a grid&quot; function doesn&#39;t seem to work",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940585/microsoft-onenote-snap-to-a-grid-function-doesnt-seem-to-work"
+            "root_cause": "用戶回報終端技術障礙: mdadm: add new device failed for /dev/sda1 as 7: Invalid argument",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940606/mdadm-add-new-device-failed-for-dev-sda1-as-7-invalid-argument"
         },
-        "SU-1940595": {
+        "SU-1940613": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
+            "root_cause": "用戶回報終端技術障礙: How to overcome disk partition error when installing lightweight linux?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940613/how-to-overcome-disk-partition-error-when-installing-lightweight-linux"
         }
     }
 }
