@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-26 20:29:34",
+    "updated": "2026-09-27 00:05:21",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940600": {
+        "SU-1940605": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Increase or decrease digit at the end of a line in vim",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940600/increase-or-decrease-digit-at-the-end-of-a-line-in-vim"
+            "root_cause": "用戶回報終端技術障礙: Certain windows don&#39;t open on Windows 11 to Windows Server 2022 via remote desktop",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940605/certain-windows-dont-open-on-windows-11-to-windows-server-2022-via-remote-deskt"
         },
-        "SU-1025105": {
+        "SU-1940604": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Remove automatically added keyboard inputs and prevent them from coming back (Windows 10)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1025105/remove-automatically-added-keyboard-inputs-and-prevent-them-from-coming-back-wi"
+            "root_cause": "用戶回報終端技術障礙: How can I send the same prompt to two different LLMs simultaneously using GitHub Copilot CLI?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940604/how-can-i-send-the-same-prompt-to-two-different-llms-simultaneously-using-github"
         },
-        "SU-348674": {
+        "SU-1940602": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Which character encoding is used for ALT-codes?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/348674/which-character-encoding-is-used-for-alt-codes"
+            "root_cause": "用戶回報終端技術障礙: iPad 8 32 GB - update fails with error 1109 - 06B4.0000 on Windows – how can I recover it without erasing the device?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940602/ipad-8-32-gb-update-fails-with-error-1109-06b4-0000-on-windows-how-can-i-r"
         },
         "SU-1940597": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Seeing both &quot;Sent&quot; and &quot;Sent Items&quot; on as Microsoft IMAP mail account via Thunderbird",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940597/seeing-both-sent-and-sent-items-on-as-microsoft-imap-mail-account-via-thunde"
+            "root_cause": "用戶回報終端技術障礙: Two &quot;Sent&quot; Folders in Thunderbird: Which One Is Real?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940597/two-sent-folders-in-thunderbird-which-one-is-real"
         },
-        "SU-1940598": {
+        "SU-444726": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my SQL profiler not registering any events from SQL Express when running under Administrator?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940598/why-is-my-sql-profiler-not-registering-any-events-from-sql-express-when-running"
+            "root_cause": "用戶回報終端技術障礙: Windows: How to add batch-script action to Right Click menu",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/444726/windows-how-to-add-batch-script-action-to-right-click-menu"
         }
     }
 }
