@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-27 00:05:21",
+    "updated": "2026-09-27 07:26:12",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940605": {
+        "SU-1940539": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Certain windows don&#39;t open on Windows 11 to Windows Server 2022 via remote desktop",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940605/certain-windows-dont-open-on-windows-11-to-windows-server-2022-via-remote-deskt"
+            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word so that it shows up in File&gt;New backstage view? I&#39;ve added it to the list under Template Add-Ins",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word-so-that-it-shows-up-in-filenew-backstage-v"
         },
-        "SU-1940604": {
+        "SU-1784504": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I send the same prompt to two different LLMs simultaneously using GitHub Copilot CLI?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940604/how-can-i-send-the-same-prompt-to-two-different-llms-simultaneously-using-github"
+            "root_cause": "用戶回報終端技術障礙: How do I get CUDA 11.7 on Arch Linux?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1784504/how-do-i-get-cuda-11-7-on-arch-linux"
         },
-        "SU-1940602": {
+        "SU-1940607": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: iPad 8 32 GB - update fails with error 1109 - 06B4.0000 on Windows – how can I recover it without erasing the device?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940602/ipad-8-32-gb-update-fails-with-error-1109-06b4-0000-on-windows-how-can-i-r"
+            "root_cause": "用戶回報終端技術障礙: Inquiry about PC diagnostics",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940607/inquiry-about-pc-diagnostics"
         },
-        "SU-1940597": {
+        "SU-1940606": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Two &quot;Sent&quot; Folders in Thunderbird: Which One Is Real?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940597/two-sent-folders-in-thunderbird-which-one-is-real"
+            "root_cause": "用戶回報終端技術障礙: mdadm: add new device failed for /dev/sda1 as 7: Invalid argument",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940606/mdadm-add-new-device-failed-for-dev-sda1-as-7-invalid-argument"
         },
-        "SU-444726": {
+        "SU-764842": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows: How to add batch-script action to Right Click menu",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/444726/windows-how-to-add-batch-script-action-to-right-click-menu"
+            "root_cause": "用戶回報終端技術障礙: How to change the appearance of web parts in SharePoint 2013 using CSS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/764842/how-to-change-the-appearance-of-web-parts-in-sharepoint-2013-using-css"
         }
     }
 }
