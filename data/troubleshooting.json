@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-27 22:44:10",
+    "updated": "2026-09-28 02:58:17",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940539": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word so that it shows up in File&gt;New backstage view? I&#39;ve added it to the list under Template Add-Ins",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word-so-that-it-shows-up-in-filenew-backstage-v"
+        },
+        "SU-1940612": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to disable adaptive spam controls in Thunderbird by default for new accounts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940612/how-to-disable-adaptive-spam-controls-in-thunderbird-by-default-for-new-accounts"
+        },
+        "SU-533242": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why has a few of my Toshiba laptop keys stopped working and what can be done to fix it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/533242/why-has-a-few-of-my-toshiba-laptop-keys-stopped-working-and-what-can-be-done-to"
+        },
         "SU-1158215": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Gramblr conflict with firewall (500 - internal server error)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1158215/gramblr-conflict-with-firewall-500-internal-server-error"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a Gramblr conflict with firewall (500 - internal server error)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1158215/why-am-i-experiencing-a-gramblr-conflict-with-firewall-500-internal-server-er"
         },
-        "SU-1940621": {
+        "SU-689293": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: In xkb, can we combine shifted Caps Lock behavior with sticky modifiers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940621/in-xkb-can-we-combine-shifted-caps-lock-behavior-with-sticky-modifiers"
-        },
-        "SU-1940618": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Upgraded RAID1 shows old drive size",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/upgraded-raid1-shows-old-drive-size"
-        },
-        "SU-1156974": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Double new-line when copy to konsole on xrdp",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1156974/double-new-line-when-copy-to-konsole-on-xrdp"
-        },
-        "SU-712183": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: how can I view milliseconds with VLC? (and why is this method not working?)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712183/how-can-i-view-milliseconds-with-vlc-and-why-is-this-method-not-working"
+            "root_cause": "用戶回報終端技術障礙: Is there anything faster than `find . | wc -l` to count files in a directory?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/689293/is-there-anything-faster-than-find-wc-l-to-count-files-in-a-directory"
         }
     }
 }
