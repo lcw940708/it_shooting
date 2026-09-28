@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-28 02:58:17",
+    "updated": "2026-09-28 10:22:29",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940539": {
+        "SU-124690": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add a custom template to Word so that it shows up in File&gt;New backstage view? I&#39;ve added it to the list under Template Add-Ins",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940539/how-to-add-a-custom-template-to-word-so-that-it-shows-up-in-filenew-backstage-v"
+            "root_cause": "用戶回報終端技術障礙: What can I do with .chk files in FOUND.000 folders?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/124690/what-can-i-do-with-chk-files-in-found-000-folders"
+        },
+        "SU-1940351": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I to switch function keys, without using the Logitech Software on a Logitech K400 Plus?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940351/how-can-i-to-switch-function-keys-without-using-the-logitech-software-on-a-logi"
         },
         "SU-1940612": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to disable adaptive spam controls in Thunderbird by default for new accounts?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940612/how-to-disable-adaptive-spam-controls-in-thunderbird-by-default-for-new-accounts"
         },
-        "SU-533242": {
+        "SU-1940630": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why has a few of my Toshiba laptop keys stopped working and what can be done to fix it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/533242/why-has-a-few-of-my-toshiba-laptop-keys-stopped-working-and-what-can-be-done-to"
+            "root_cause": "用戶回報終端技術障礙: Troubleshooting high system interrupt CPU usage and network packet throttling during heavy data transfers",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940630/troubleshooting-high-system-interrupt-cpu-usage-and-network-packet-throttling-du"
         },
-        "SU-1158215": {
+        "SU-1580823": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a Gramblr conflict with firewall (500 - internal server error)?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1158215/why-am-i-experiencing-a-gramblr-conflict-with-firewall-500-internal-server-er"
-        },
-        "SU-689293": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there anything faster than `find . | wc -l` to count files in a directory?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/689293/is-there-anything-faster-than-find-wc-l-to-count-files-in-a-directory"
+            "root_cause": "用戶回報終端技術障礙: Exclude multiple Directories while using Copy-Item",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1580823/exclude-multiple-directories-while-using-copy-item"
         }
     }
 }
