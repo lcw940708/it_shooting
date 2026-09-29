@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-29 07:44:38",
+    "updated": "2026-09-29 14:30:19",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940621": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: In xkb, can we combine shifted Caps Lock behavior with sticky modifiers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940621/in-xkb-can-we-combine-shifted-caps-lock-behavior-with-sticky-modifiers"
+        },
+        "SU-1940491": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to link to NULL device in PowerShell",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940491/how-to-link-to-null-device-in-powershell"
+        },
+        "SU-338165": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Convert batch of Word files to PDFs in Mac OS X",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/338165/convert-batch-of-word-files-to-pdfs-in-mac-os-x"
+        },
         "SU-1940618": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Upgraded RAID1 shows old drive size",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How would one remove the gray text from an LCD screen&#39;s glass?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940640/how-would-one-remove-the-gray-text-from-an-lcd-screens-glass"
-        },
-        "SU-1812057": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Windows to Android file transfer aborts after a minute or two?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812057/why-does-windows-to-android-file-transfer-aborts-after-a-minute-or-two"
-        },
-        "SU-1940638": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing freezes and FPS drops in a supposedly low-requirement game? What should I do?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940638/why-am-i-experiencing-freezes-and-fps-drops-in-a-supposedly-low-requirement-game"
-        },
-        "SU-1940624": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to online replace a device in an active RAID0 MD array?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940624/how-to-online-replace-a-device-in-an-active-raid0-md-array"
         }
     }
 }
