@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-28 19:04:05",
+    "updated": "2026-09-29 00:06:12",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,15 +22,20 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940595": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
-        },
         "SU-1940612": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to disable adaptive spam controls in Thunderbird by default for new accounts?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940612/how-to-disable-adaptive-spam-controls-in-thunderbird-by-default-for-new-accounts"
+        },
+        "SU-1940624": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Replace device in active RAID0 MD array",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940624/replace-device-in-active-raid0-md-array"
+        },
+        "SU-1940595": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
         },
         "SU-1940638": {
             "category": "IT Helpdesk / Community Super User",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Troubleshooting high system interrupt CPU usage and network packet throttling during heavy data transfers",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940630/troubleshooting-high-system-interrupt-cpu-usage-and-network-packet-throttling-du"
-        },
-        "SU-819069": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows apps open and then automatically get closed in Windows 8.1",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/819069/windows-apps-open-and-then-automatically-get-closed-in-windows-8-1"
         }
     }
 }
