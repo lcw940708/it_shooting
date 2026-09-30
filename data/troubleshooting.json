@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-29 20:22:46",
+    "updated": "2026-09-30 00:56:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940618": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my upgraded RAID1 show the old drive size?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/why-does-my-upgraded-raid1-show-the-old-drive-size"
-        },
         "SU-1940638": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why am I experiencing freezes and FPS drops in a supposedly low-requirement game? What should I do?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940638/why-am-i-experiencing-freezes-and-fps-drops-in-a-supposedly-low-requirement-game"
         },
-        "SU-1940491": {
+        "SU-1575226": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to link to NULL device in PowerShell",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940491/how-to-link-to-null-device-in-powershell"
-        },
-        "SU-1500289": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to aggressively throttle background tabs in Firefox using dom.min_background_timeout_value",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1500289/how-to-aggressively-throttle-background-tabs-in-firefox-using-dom-min-background"
+            "root_cause": "用戶回報終端技術障礙: Changing to List View in File Explorer - Everywhere",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1575226/changing-to-list-view-in-file-explorer-everywhere"
         },
         "SU-1940621": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: In xkb, can we combine shifted Caps Lock behavior with sticky modifiers?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940621/in-xkb-can-we-combine-shifted-caps-lock-behavior-with-sticky-modifiers"
+        },
+        "SU-1940618": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does my upgraded RAID1 show the old drive size?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/why-does-my-upgraded-raid1-show-the-old-drive-size"
+        },
+        "SU-1940491": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to link to NULL device in PowerShell",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940491/how-to-link-to-null-device-in-powershell"
         }
     }
 }
