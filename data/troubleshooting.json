@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-30 14:29:17",
+    "updated": "2026-09-30 20:26:34",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940033": {
+        "SU-1940681": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I measure the polling rate my mouse actually delivers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940033/how-can-i-measure-the-polling-rate-my-mouse-actually-delivers"
+            "root_cause": "用戶回報終端技術障礙: rsync over ssh: do you need to be able to write to the remote computer&#39;s file system?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940681/rsync-over-ssh-do-you-need-to-be-able-to-write-to-the-remote-computers-file-sy"
         },
-        "SU-1829016": {
+        "SU-1940680": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Cant find startup folder on 2 x Win10 machines",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1829016/cant-find-startup-folder-on-2-x-win10-machines"
+            "root_cause": "用戶回報終端技術障礙: Why do I keep having oops and kernel panics on a pangolin11 laptop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940680/why-do-i-keep-having-oops-and-kernel-panics-on-a-pangolin11-laptop"
         },
-        "SU-1940674": {
+        "SU-1940678": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940674/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t"
+            "root_cause": "用戶回報終端技術障礙: Bidirection Shared Clipboard not working with VirtualBox Windows 8.1 guest",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940678/bidirection-shared-clipboard-not-working-with-virtualbox-windows-8-1-guest"
         },
         "SU-1940672": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Stuttering and intermittent LTE / 5G NSA cellular internet connection",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940672/stuttering-and-intermittent-lte-5g-nsa-cellular-internet-connection"
         },
-        "SU-1940618": {
+        "SU-793445": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my upgraded RAID1 show the old drive size?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/why-does-my-upgraded-raid1-show-the-old-drive-size"
+            "root_cause": "用戶回報終端技術障礙: Port-forwarding in router ZTE ZXHN F660: hidden settings",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/793445/port-forwarding-in-router-zte-zxhn-f660-hidden-settings"
         }
     }
 }
