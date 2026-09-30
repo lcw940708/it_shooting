@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-30 07:47:57",
+    "updated": "2026-09-30 14:29:17",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940659": {
+        "SU-1940033": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What criteria determine whether Firefox&#39;s automatic window density is Standard or Compact?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940659/what-criteria-determine-whether-firefoxs-automatic-window-density-is-standard-o"
+            "root_cause": "用戶回報終端技術障礙: How can I measure the polling rate my mouse actually delivers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940033/how-can-i-measure-the-polling-rate-my-mouse-actually-delivers"
         },
-        "SU-1110230": {
+        "SU-1829016": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: word-by-word text animation in powerpoint",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1110230/word-by-word-text-animation-in-powerpoint"
+            "root_cause": "用戶回報終端技術障礙: Cant find startup folder on 2 x Win10 machines",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1829016/cant-find-startup-folder-on-2-x-win10-machines"
         },
-        "SU-316771": {
+        "SU-1940674": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I always open certain URLs/domains in certain browsers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/316771/how-can-i-always-open-certain-urls-domains-in-certain-browsers"
+            "root_cause": "用戶回報終端技術障礙: How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940674/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t"
         },
-        "SU-1623346": {
+        "SU-1940672": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Convert imap files to pst file",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1623346/convert-imap-files-to-pst-file"
+            "root_cause": "用戶回報終端技術障礙: Stuttering and intermittent LTE / 5G NSA cellular internet connection",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940672/stuttering-and-intermittent-lte-5g-nsa-cellular-internet-connection"
         },
-        "SU-1940663": {
+        "SU-1940618": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to Increase Brush Size in Microsoft Paint When the Size Control Is Disabled",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940663/how-to-increase-brush-size-in-microsoft-paint-when-the-size-control-is-disabled"
+            "root_cause": "用戶回報終端技術障礙: Why does my upgraded RAID1 show the old drive size?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940618/why-does-my-upgraded-raid1-show-the-old-drive-size"
         }
     }
 }
