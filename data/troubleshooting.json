@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-01 00:58:45",
+    "updated": "2026-10-01 08:07:25",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1550574": {
+        "SU-1675479": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I make LibreOffice Writer use page numbers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1550574/how-do-i-make-libreoffice-writer-use-page-numbers"
+            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t ls -U list files in alphabetical order?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675479/why-doesnt-ls-u-list-files-in-alphabetical-order"
         },
-        "SU-1904655": {
+        "SU-1940688": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to handle cases when wget throws &quot;Is a directory&quot; error?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1904655/how-to-handle-cases-when-wget-throws-is-a-directory-error"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 ARP behavior: failover to default GW?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940688/windows-11-arp-behavior-failover-to-default-gw"
         },
-        "SU-1551495": {
+        "SU-1940686": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Problems importing .svg files into Word",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1551495/problems-importing-svg-files-into-word"
+            "root_cause": "用戶回報終端技術障礙: How to merge three event log &quot;directories&quot;&#39; entries into one single textfile?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940686/how-to-merge-three-event-log-directories-entries-into-one-single-textfile"
         },
-        "SU-1940680": {
+        "SU-291224": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do I keep having oops and kernel panics on a Pangolin (pang11) laptop?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940680/why-do-i-keep-having-oops-and-kernel-panics-on-a-pangolin-pang11-laptop"
+            "root_cause": "用戶回報終端技術障礙: Equivalent to ^D (in bash) for cmd.exe?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/291224/equivalent-to-d-in-bash-for-cmd-exe"
         },
-        "SU-1940681": {
+        "SU-1940685": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: rsync over ssh: do you need to be able to write to the remote computer&#39;s file system?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940681/rsync-over-ssh-do-you-need-to-be-able-to-write-to-the-remote-computers-file-sy"
+            "root_cause": "用戶回報終端技術障礙: Browser failing to query for DNS A/AAAA records on target of new HTTPS records",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940685/browser-failing-to-query-for-dns-a-aaaa-records-on-target-of-new-https-records"
         }
     }
 }
