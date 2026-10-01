@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-09-30 20:26:34",
+    "updated": "2026-10-01 00:58:45",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1550574": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I make LibreOffice Writer use page numbers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1550574/how-do-i-make-libreoffice-writer-use-page-numbers"
+        },
+        "SU-1904655": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to handle cases when wget throws &quot;Is a directory&quot; error?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1904655/how-to-handle-cases-when-wget-throws-is-a-directory-error"
+        },
+        "SU-1551495": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Problems importing .svg files into Word",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1551495/problems-importing-svg-files-into-word"
+        },
+        "SU-1940680": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why do I keep having oops and kernel panics on a Pangolin (pang11) laptop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940680/why-do-i-keep-having-oops-and-kernel-panics-on-a-pangolin-pang11-laptop"
+        },
         "SU-1940681": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: rsync over ssh: do you need to be able to write to the remote computer&#39;s file system?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940681/rsync-over-ssh-do-you-need-to-be-able-to-write-to-the-remote-computers-file-sy"
-        },
-        "SU-1940680": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do I keep having oops and kernel panics on a pangolin11 laptop?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940680/why-do-i-keep-having-oops-and-kernel-panics-on-a-pangolin11-laptop"
-        },
-        "SU-1940678": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Bidirection Shared Clipboard not working with VirtualBox Windows 8.1 guest",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940678/bidirection-shared-clipboard-not-working-with-virtualbox-windows-8-1-guest"
-        },
-        "SU-1940672": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Stuttering and intermittent LTE / 5G NSA cellular internet connection",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940672/stuttering-and-intermittent-lte-5g-nsa-cellular-internet-connection"
-        },
-        "SU-793445": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Port-forwarding in router ZTE ZXHN F660: hidden settings",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/793445/port-forwarding-in-router-zte-zxhn-f660-hidden-settings"
         }
     }
 }
