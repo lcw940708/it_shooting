@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-01 08:07:25",
+    "updated": "2026-10-01 16:49:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1675479": {
+        "SU-1818082": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t ls -U list files in alphabetical order?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1675479/why-doesnt-ls-u-list-files-in-alphabetical-order"
+            "root_cause": "用戶回報終端技術障礙: How to share clipboard between windows PC and apple ecostystem (iOS, macOS)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1818082/how-to-share-clipboard-between-windows-pc-and-apple-ecostystem-ios-macos"
         },
-        "SU-1940688": {
+        "SU-1940672": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 ARP behavior: failover to default GW?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940688/windows-11-arp-behavior-failover-to-default-gw"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing stuttering and intermittent on a LTE / 5G NSA cellular internet connection?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940672/why-am-i-experiencing-stuttering-and-intermittent-on-a-lte-5g-nsa-cellular-int"
         },
-        "SU-1940686": {
+        "SU-1940689": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to merge three event log &quot;directories&quot;&#39; entries into one single textfile?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940686/how-to-merge-three-event-log-directories-entries-into-one-single-textfile"
+            "root_cause": "用戶回報終端技術障礙: Is there a view (or another program) who can show the &quot;General&quot; information from the Windows event log?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940689/is-there-a-view-or-another-program-who-can-show-the-general-information-from"
         },
-        "SU-291224": {
+        "SU-888299": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Equivalent to ^D (in bash) for cmd.exe?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/291224/equivalent-to-d-in-bash-for-cmd-exe"
+            "root_cause": "用戶回報終端技術障礙: Get DayName from Date in OpenOffice Calc?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/888299/get-dayname-from-date-in-openoffice-calc"
         },
-        "SU-1940685": {
+        "SU-820307": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Browser failing to query for DNS A/AAAA records on target of new HTTPS records",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940685/browser-failing-to-query-for-dns-a-aaaa-records-on-target-of-new-https-records"
+            "root_cause": "用戶回報終端技術障礙: Outlook forwarded meeting invitation",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/820307/outlook-forwarded-meeting-invitation"
         }
     }
 }
