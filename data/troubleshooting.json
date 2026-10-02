@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-01 22:12:36",
+    "updated": "2026-10-02 03:30:42",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1779385": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Easy Import Photos (from MTP device, such as Android phone) on Windows 10 and Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1779385/easy-import-photos-from-mtp-device-such-as-android-phone-on-windows-10-and-wi"
+        },
+        "SU-1933808": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What&#39;s the proper way to terminate a powershell script on error?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1933808/whats-the-proper-way-to-terminate-a-powershell-script-on-error"
+        },
+        "SU-1939011": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: The term &#39;powershell&#39; is not recognized as the name of a cmdlet, function, script file, or operable program",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939011/the-term-powershell-is-not-recognized-as-the-name-of-a-cmdlet-function-scrip"
+        },
         "SU-1049606": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Reduce Generated GIF Size Using FFMPEG",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1049606/reduce-generated-gif-size-using-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: How to reduce generated GIF size using FFmpeg?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1049606/how-to-reduce-generated-gif-size-using-ffmpeg"
         },
-        "SU-1940700": {
+        "SU-1940703": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
-        },
-        "SU-1356845": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Collect MAC-Adresses of connected devices via SNMP",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1356845/collect-mac-adresses-of-connected-devices-via-snmp"
-        },
-        "SU-1845764": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Recovering Veracrypt volume on encrypted hdd disk recovery after formating",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1845764/recovering-veracrypt-volume-on-encrypted-hdd-disk-recovery-after-formating"
-        },
-        "SU-1818082": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to share clipboard between Windows PC and Apple ecostystem (iOS, macOS)?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1818082/how-to-share-clipboard-between-windows-pc-and-apple-ecostystem-ios-macos"
+            "root_cause": "用戶回報終端技術障礙: Is My NVIDIA RTX 3070 Failing? Investigating Repeated LiveKernelEvent 193 (VIDEO_DXGKRNL_LIVEDUMP)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940703/is-my-nvidia-rtx-3070-failing-investigating-repeated-livekernelevent-193-video"
         }
     }
 }
