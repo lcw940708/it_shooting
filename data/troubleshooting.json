@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-02 21:40:53",
+    "updated": "2026-10-03 00:51:57",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1670207": {
+        "SU-1333168": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I switch to root on Ubuntu? Without sudo?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1670207/how-can-i-switch-to-root-on-ubuntu-without-sudo"
+            "root_cause": "用戶回報終端技術障礙: Disable Hyper-V prompt &quot;Do you want to revert to the previous automatic checkpoint&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1333168/disable-hyper-v-prompt-do-you-want-to-revert-to-the-previous-automatic-checkpoi"
         },
-        "SU-1940727": {
+        "SU-1881546": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Playing music in a website",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940727/playing-music-in-a-website"
+            "root_cause": "用戶回報終端技術障礙: XRDP backscreen then disconnects",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1881546/xrdp-backscreen-then-disconnects"
         },
-        "SU-1887829": {
+        "SU-1934688": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: ffmpeg what is the last/latest full build that works on Windows 7",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1887829/ffmpeg-what-is-the-last-latest-full-build-that-works-on-windows-7"
+            "root_cause": "用戶回報終端技術障礙: How do I check which filters aren&#39;t being used in a uBlock Origin filter list?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934688/how-do-i-check-which-filters-arent-being-used-in-a-ublock-origin-filter-list"
         },
-        "SU-1940571": {
+        "SU-1940700": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Bring back old box Ctrl+F microsoft word, new sidebar is bad",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940571/bring-back-old-box-ctrlf-microsoft-word-new-sidebar-is-bad"
+            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
         },
-        "SU-792014": {
+        "SU-1940697": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why has the “Cmd” + “Shift” + anything shortcut stopped working on my MacBook Pro?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/792014/why-has-the-cmd-shift-anything-shortcut-stopped-working-on-my-macbook-pr"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a kernel halt with Debian Trixie Linux before “/init” runs on a ASUS M5A99FX motherboard?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940697/why-am-i-experiencing-a-kernel-halt-with-debian-trixie-linux-before-init-runs"
         }
     }
 }
