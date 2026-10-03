@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-03 07:24:49",
+    "updated": "2026-10-03 12:55:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1745560": {
+        "SU-712183": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to solve routing in wireguard site-to-site network",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1745560/how-to-solve-routing-in-wireguard-site-to-site-network"
+            "root_cause": "用戶回報終端技術障礙: how can I view milliseconds with VLC? (and why is this method not working?)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712183/how-can-i-view-milliseconds-with-vlc-and-why-is-this-method-not-working"
         },
-        "SU-1940685": {
+        "SU-1933622": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my browser failing to query for DNS A/AAAA records on targets of HTTPS records?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940685/why-is-my-browser-failing-to-query-for-dns-a-aaaa-records-on-targets-of-https-re"
+            "root_cause": "用戶回報終端技術障礙: Is a lightning bolt supposed to be present on the taskbar battery icon when charging is complete in Windows 11? If not, how can I fix it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1933622/is-a-lightning-bolt-supposed-to-be-present-on-the-taskbar-battery-icon-when-char"
         },
-        "SU-1940734": {
+        "SU-1295489": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Lenovo monitor T27QD-40 automatic dimming?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940734/lenovo-monitor-t27qd-40-automatic-dimming"
+            "root_cause": "用戶回報終端技術障礙: Status bar for Firefox Quantum",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1295489/status-bar-for-firefox-quantum"
         },
-        "SU-1940697": {
+        "SU-811453": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a kernel halt with Debian Trixie Linux before “/init” runs on a ASUS M5A99FX motherboard?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940697/why-am-i-experiencing-a-kernel-halt-with-debian-trixie-linux-before-init-runs"
+            "root_cause": "用戶回報終端技術障礙: What connector is this?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/811453/what-connector-is-this"
         },
-        "SU-1940700": {
+        "SU-792014": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
+            "root_cause": "用戶回報終端技術障礙: Why has the “Cmd” + “Shift” + anything shortcut stopped working on my MacBook Pro?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/792014/why-has-the-cmd-shift-anything-shortcut-stopped-working-on-my-macbook-pr"
         }
     }
 }
