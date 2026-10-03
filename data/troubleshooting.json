@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-03 00:51:57",
+    "updated": "2026-10-03 07:24:49",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1333168": {
+        "SU-1745560": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disable Hyper-V prompt &quot;Do you want to revert to the previous automatic checkpoint&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1333168/disable-hyper-v-prompt-do-you-want-to-revert-to-the-previous-automatic-checkpoi"
+            "root_cause": "用戶回報終端技術障礙: How to solve routing in wireguard site-to-site network",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1745560/how-to-solve-routing-in-wireguard-site-to-site-network"
         },
-        "SU-1881546": {
+        "SU-1940685": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: XRDP backscreen then disconnects",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1881546/xrdp-backscreen-then-disconnects"
+            "root_cause": "用戶回報終端技術障礙: Why is my browser failing to query for DNS A/AAAA records on targets of HTTPS records?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940685/why-is-my-browser-failing-to-query-for-dns-a-aaaa-records-on-targets-of-https-re"
         },
-        "SU-1934688": {
+        "SU-1940734": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I check which filters aren&#39;t being used in a uBlock Origin filter list?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934688/how-do-i-check-which-filters-arent-being-used-in-a-ublock-origin-filter-list"
-        },
-        "SU-1940700": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
+            "root_cause": "用戶回報終端技術障礙: Lenovo monitor T27QD-40 automatic dimming?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940734/lenovo-monitor-t27qd-40-automatic-dimming"
         },
         "SU-1940697": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why am I experiencing a kernel halt with Debian Trixie Linux before “/init” runs on a ASUS M5A99FX motherboard?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940697/why-am-i-experiencing-a-kernel-halt-with-debian-trixie-linux-before-init-runs"
+        },
+        "SU-1940700": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
         }
     }
 }
