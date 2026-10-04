@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-04 00:16:58",
+    "updated": "2026-10-04 07:38:22",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940700": {
+        "SU-1940744": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can macOS El Capitan write to ext4 Linux machine using rsync?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940700/can-macos-el-capitan-write-to-ext4-linux-machine-using-rsync"
+            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB drive mid-write to damage/corrupt files other than the one being written?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-drive-mid-write-to-damage-corrupt-files-ot"
         },
-        "SU-1940737": {
+        "SU-831557": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to turn off a PC desktop power while in hybrid sleep?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940737/how-to-turn-off-a-pc-desktop-power-while-in-hybrid-sleep"
+            "root_cause": "用戶回報終端技術障礙: Error &quot;could not get debug privilege, are you admin&quot; on Windows 8.1?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/831557/error-could-not-get-debug-privilege-are-you-admin-on-windows-8-1"
         },
-        "SU-1655618": {
+        "SU-1025423": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I stuck on grub rescue when trying to start Windows after removing an Ubuntu partition?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1655618/why-am-i-stuck-on-grub-rescue-when-trying-to-start-windows-after-removing-an-ubu"
+            "root_cause": "用戶回報終端技術障礙: UEFI exFAT partition?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1025423/uefi-exfat-partition"
         },
-        "SU-1940739": {
+        "SU-712183": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows &quot;File Explorer&quot; no files or folders show up just a blank window. Windows 11 Pro",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940739/windows-file-explorer-no-files-or-folders-show-up-just-a-blank-window-windows"
+            "root_cause": "用戶回報終端技術障礙: How can I view milliseconds with VLC? (and why is this method not working?)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712183/how-can-i-view-milliseconds-with-vlc-and-why-is-this-method-not-working"
         },
-        "SU-1940734": {
+        "SU-468291": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Lenovo monitor T27QD-40 automatic dimming?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940734/lenovo-monitor-t27qd-40-automatic-dimming"
+            "root_cause": "用戶回報終端技術障礙: chmod&#39;ing file on exFAT",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/468291/chmoding-file-on-exfat"
         }
     }
 }
