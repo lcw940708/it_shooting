@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-04 17:56:14",
+    "updated": "2026-10-04 20:50:19",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940754": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Low Resolution with Lenovo Dock and Dual Display Setup",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940754/low-resolution-with-lenovo-dock-and-dual-display-setup"
+        },
+        "SU-1940739": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows &quot;File Explorer&quot; no files or folders show up just a blank window. Windows 11 Pro",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940739/windows-file-explorer-no-files-or-folders-show-up-just-a-blank-window-windows"
+        },
+        "SU-1250417": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to take a screenshot of an entire scroll element?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1250417/how-to-take-a-screenshot-of-an-entire-scroll-element"
+        },
         "SU-1940751": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Trying to set up port forwarding on my router (FritzBox) for Home Assistant (Let&#39;s Encrypt)",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
-        },
-        "SU-1940748": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Kernel programming: linux/file.h struct",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940748/kernel-programming-linux-file-h-struct"
-        },
-        "SU-742037": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Excel 2007. Write changes back to extern file source",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/742037/excel-2007-write-changes-back-to-extern-file-source"
-        },
-        "SU-601206": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Does Windows 7 actually defragment an SSD drive if you tell it to?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/601206/does-windows-7-actually-defragment-an-ssd-drive-if-you-tell-it-to"
         }
     }
 }
