@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-04 07:38:22",
+    "updated": "2026-10-04 13:35:57",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940749": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
+        },
+        "SU-1940748": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Kernel programming: linux/file.h struct",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940748/kernel-programming-linux-file-h-struct"
+        },
+        "SU-742037": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Excel 2007. Write changes back to extern file source",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/742037/excel-2007-write-changes-back-to-extern-file-source"
+        },
+        "SU-601206": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Does Windows 7 actually defragment an SSD drive if you tell it to?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/601206/does-windows-7-actually-defragment-an-ssd-drive-if-you-tell-it-to"
+        },
         "SU-1940744": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB drive mid-write to damage/corrupt files other than the one being written?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-drive-mid-write-to-damage-corrupt-files-ot"
-        },
-        "SU-831557": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Error &quot;could not get debug privilege, are you admin&quot; on Windows 8.1?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/831557/error-could-not-get-debug-privilege-are-you-admin-on-windows-8-1"
-        },
-        "SU-1025423": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: UEFI exFAT partition?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1025423/uefi-exfat-partition"
-        },
-        "SU-712183": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I view milliseconds with VLC? (and why is this method not working?)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712183/how-can-i-view-milliseconds-with-vlc-and-why-is-this-method-not-working"
-        },
-        "SU-468291": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: chmod&#39;ing file on exFAT",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/468291/chmoding-file-on-exfat"
+            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB hard drive mid-write to damage/corrupt files other than the one being written?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-hard-drive-mid-write-to-damage-corrupt-fil"
         }
     }
 }
