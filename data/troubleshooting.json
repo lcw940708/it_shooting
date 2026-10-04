@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-04 13:35:57",
+    "updated": "2026-10-04 17:56:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940751": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Trying to set up port forwarding on my router (FritzBox) for Home Assistant (Let&#39;s Encrypt)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940751/trying-to-set-up-port-forwarding-on-my-router-fritzbox-for-home-assistant-let"
+        },
         "SU-1940749": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Does Windows 7 actually defragment an SSD drive if you tell it to?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/601206/does-windows-7-actually-defragment-an-ssd-drive-if-you-tell-it-to"
-        },
-        "SU-1940744": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB hard drive mid-write to damage/corrupt files other than the one being written?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-hard-drive-mid-write-to-damage-corrupt-fil"
         }
     }
 }
