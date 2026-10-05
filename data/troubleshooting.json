@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-04 20:50:19",
+    "updated": "2026-10-05 00:21:39",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,10 +22,20 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-731725": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why result of find command in linux is unsorted?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/731725/why-result-of-find-command-in-linux-is-unsorted"
+        },
         "SU-1940754": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Low Resolution with Lenovo Dock and Dual Display Setup",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940754/low-resolution-with-lenovo-dock-and-dual-display-setup"
+            "root_cause": "用戶回報終端技術障礙: Why am I getting low resolution with a Lenovo USB-C dock (40AY) and dual display setup?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940754/why-am-i-getting-low-resolution-with-a-lenovo-usb-c-dock-40ay-and-dual-display"
+        },
+        "SU-1921301": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Passing (forwarding) conflicting shortcut through VS Code to terminal (without altering defaults)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1921301/passing-forwarding-conflicting-shortcut-through-vs-code-to-terminal-without-a"
         },
         "SU-1940739": {
             "category": "IT Helpdesk / Community Super User",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to take a screenshot of an entire scroll element?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1250417/how-to-take-a-screenshot-of-an-entire-scroll-element"
-        },
-        "SU-1940751": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Trying to set up port forwarding on my router (FritzBox) for Home Assistant (Let&#39;s Encrypt)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940751/trying-to-set-up-port-forwarding-on-my-router-fritzbox-for-home-assistant-let"
-        },
-        "SU-1940749": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
         }
     }
 }
