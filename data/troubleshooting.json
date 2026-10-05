@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-05 00:21:39",
+    "updated": "2026-10-05 08:03:47",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-731725": {
+        "SU-1722963": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why result of find command in linux is unsorted?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/731725/why-result-of-find-command-in-linux-is-unsorted"
+            "root_cause": "用戶回報終端技術障礙: live caption is not available right now",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1722963/live-caption-is-not-available-right-now"
         },
-        "SU-1940754": {
+        "SU-1534523": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I getting low resolution with a Lenovo USB-C dock (40AY) and dual display setup?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940754/why-am-i-getting-low-resolution-with-a-lenovo-usb-c-dock-40ay-and-dual-display"
+            "root_cause": "用戶回報終端技術障礙: how to stop sites setting service-workers, without blocking cookies, in google chrome",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1534523/how-to-stop-sites-setting-service-workers-without-blocking-cookies-in-google-c"
         },
-        "SU-1921301": {
+        "SU-1940744": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Passing (forwarding) conflicting shortcut through VS Code to terminal (without altering defaults)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1921301/passing-forwarding-conflicting-shortcut-through-vs-code-to-terminal-without-a"
+            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB hard drive mid-write to damage/corrupt files other than the one being written?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-hard-drive-mid-write-to-damage-corrupt-fil"
         },
-        "SU-1940739": {
+        "SU-1088537": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows &quot;File Explorer&quot; no files or folders show up just a blank window. Windows 11 Pro",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940739/windows-file-explorer-no-files-or-folders-show-up-just-a-blank-window-windows"
+            "root_cause": "用戶回報終端技術障礙: How to take a screenshot that includes a scrolling element within a web page in Firefox?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1088537/how-to-take-a-screenshot-that-includes-a-scrolling-element-within-a-web-page-in"
         },
-        "SU-1250417": {
+        "SU-1940763": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to take a screenshot of an entire scroll element?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1250417/how-to-take-a-screenshot-of-an-entire-scroll-element"
+            "root_cause": "用戶回報終端技術障礙: How to prevent certain web page return to top frequently",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940763/how-to-prevent-certain-web-page-return-to-top-frequently"
         }
     }
 }
