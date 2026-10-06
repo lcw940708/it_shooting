@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-06 08:25:01",
+    "updated": "2026-10-06 16:25:51",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940769": {
+        "SU-1940787": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: ChatGPT Windows app is not opening and reinstall fails",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940769/chatgpt-windows-app-is-not-opening-and-reinstall-fails"
+            "root_cause": "用戶回報終端技術障礙: DHCP settings old TP-link as a repeater",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940787/dhcp-settings-old-tp-link-as-a-repeater"
         },
-        "SU-64072": {
+        "SU-1940793": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can&#39;t I type the tilde (~) character in Mac OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/64072/why-cant-i-type-the-tilde-character-in-mac-os-x"
+            "root_cause": "用戶回報終端技術障礙: Powershell script not entering variables?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940793/powershell-script-not-entering-variables"
         },
-        "SU-1940784": {
+        "SU-1112741": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to check RustDesk hole punching?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940784/how-to-check-rustdesk-hole-punching"
+            "root_cause": "用戶回報終端技術障礙: How to share a folder as an NFS mount on Windows 7 Professional edition?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1112741/how-to-share-a-folder-as-an-nfs-mount-on-windows-7-professional-edition"
         },
-        "SU-1940782": {
+        "SU-1940772": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What do these colors represent in GitHub Copilot CLI&#39;s session list?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940782/what-do-these-colors-represent-in-github-copilot-clis-session-list"
+            "root_cause": "用戶回報終端技術障礙: All of my items on my laptop just disappeared when I ran this command “Remove-Item -Recurse -Force .git” Any idea what happpened?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940772/all-of-my-items-on-my-laptop-just-disappeared-when-i-ran-this-command-remove-it"
         },
-        "SU-1940780": {
+        "SU-1940749": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What could be the reason that some messenger remove EXIF data from photos sent as regular messages instead of documents?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940780/what-could-be-the-reason-that-some-messenger-remove-exif-data-from-photos-sent-a"
+            "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
         }
     }
 }
