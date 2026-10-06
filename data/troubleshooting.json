@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-05 18:59:24",
+    "updated": "2026-10-06 01:03:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940763": {
+        "SU-1940784": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent certain web page return to top frequently",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940763/how-to-prevent-certain-web-page-return-to-top-frequently"
+            "root_cause": "用戶回報終端技術障礙: How to check RustDesk Hole Punching?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940784/how-to-check-rustdesk-hole-punching"
         },
-        "SU-1940772": {
+        "SU-1940782": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: All of my items on my laptop just disappeared when I ran this command “Remove-Item -Recurse -Force .git” Any idea what happpened?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940772/all-of-my-items-on-my-laptop-just-disappeared-when-i-ran-this-command-remove-it"
+            "root_cause": "用戶回報終端技術障礙: What do these colors represent in GitHub Copilot CLI&#39;s session list?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940782/what-do-these-colors-represent-in-github-copilot-clis-session-list"
         },
-        "SU-448585": {
+        "SU-1940780": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there an implementation of tmpfs for Mac OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/448585/is-there-an-implementation-of-tmpfs-for-mac-os-x"
+            "root_cause": "用戶回報終端技術障礙: What could be the reason that some messenger remove EXIF data from photos sent as regular messages instead of documents?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940780/what-could-be-the-reason-that-some-messenger-remove-exif-data-from-photos-sent-a"
         },
-        "SU-1940776": {
+        "SU-1940749": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: My router Wi-Fi is on but my PC does not automatically connect?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940776/my-router-wi-fi-is-on-but-my-pc-does-not-automatically-connect"
+            "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
         },
-        "SU-1940744": {
+        "SU-252929": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How likely is unplugging an exFAT USB hard drive mid-write to damage/corrupt files other than the one being written?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940744/how-likely-is-unplugging-an-exfat-usb-hard-drive-mid-write-to-damage-corrupt-fil"
+            "root_cause": "用戶回報終端技術障礙: How to fix incorrect margins when printing from Windows 7?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/252929/how-to-fix-incorrect-margins-when-printing-from-windows-7"
         }
     }
 }
