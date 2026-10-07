@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-06 22:06:52",
+    "updated": "2026-10-07 03:41:27",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-378517": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I install gfortran (via cygwin and etexteditor) and enable ifort under Windows XP?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/378517/how-do-i-install-gfortran-via-cygwin-and-etexteditor-and-enable-ifort-under-wi"
+        },
+        "SU-1940697": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a kernel halt with Debian Trixie Linux before “/init” runs on a ASUS M5A99FX motherboard?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940697/why-am-i-experiencing-a-kernel-halt-with-debian-trixie-linux-before-init-runs"
+        },
         "SU-1812925": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove WSL startup upgrade reminder",
+            "root_cause": "用戶回報終端技術障礙: How to remove WSL startup upgrade reminder?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812925/how-to-remove-wsl-startup-upgrade-reminder"
         },
-        "SU-1940003": {
+        "SU-1940805": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t a mouse interact with my Windows install but keyboard can?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940003/why-can-t-a-mouse-interact-with-my-windows-install-but-keyboard-can"
+            "root_cause": "用戶回報終端技術障礙: CMD to disable Smart App Control (Windows Security)? Can&#39;t access it via gui Settings",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940805/cmd-to-disable-smart-app-control-windows-security-cant-access-it-via-gui-set"
         },
-        "SU-1940793": {
+        "SU-1940806": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Powershell script not entering variables?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940793/powershell-script-not-entering-variables"
-        },
-        "SU-1940787": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: DHCP settings old TP-link as a repeater",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940787/dhcp-settings-old-tp-link-as-a-repeater"
-        },
-        "SU-1112741": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to share a folder as an NFS mount on Windows 7 Professional edition?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1112741/how-to-share-a-folder-as-an-nfs-mount-on-windows-7-professional-edition"
+            "root_cause": "用戶回報終端技術障礙: How can I clear the prompt box (i.e., removing the entire content of the field where the user types their prompt) in GitHub Copilot CLI on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940806/how-can-i-clear-the-prompt-box-i-e-removing-the-entire-content-of-the-field-w"
         }
     }
 }
