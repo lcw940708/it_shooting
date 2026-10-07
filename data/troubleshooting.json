@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-07 03:41:27",
+    "updated": "2026-10-07 10:45:35",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-378517": {
+        "SU-1940818": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I install gfortran (via cygwin and etexteditor) and enable ifort under Windows XP?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/378517/how-do-i-install-gfortran-via-cygwin-and-etexteditor-and-enable-ifort-under-wi"
-        },
-        "SU-1940697": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a kernel halt with Debian Trixie Linux before “/init” runs on a ASUS M5A99FX motherboard?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940697/why-am-i-experiencing-a-kernel-halt-with-debian-trixie-linux-before-init-runs"
-        },
-        "SU-1812925": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove WSL startup upgrade reminder?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812925/how-to-remove-wsl-startup-upgrade-reminder"
-        },
-        "SU-1940805": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: CMD to disable Smart App Control (Windows Security)? Can&#39;t access it via gui Settings",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940805/cmd-to-disable-smart-app-control-windows-security-cant-access-it-via-gui-set"
+            "root_cause": "用戶回報終端技術障礙: Is there some configuration not to cut commandline results?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940818/is-there-some-configuration-not-to-cut-commandline-results"
         },
         "SU-1940806": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I clear the prompt box (i.e., removing the entire content of the field where the user types their prompt) in GitHub Copilot CLI on Windows?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940806/how-can-i-clear-the-prompt-box-i-e-removing-the-entire-content-of-the-field-w"
+        },
+        "SU-1438255": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to download all TikTok videos of a particular user",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1438255/how-to-download-all-tiktok-videos-of-a-particular-user"
+        },
+        "SU-1940772": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: All of my items on my laptop just disappeared when I ran this command “Remove-Item -Recurse -Force .git” Any idea what happpened?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940772/all-of-my-items-on-my-laptop-just-disappeared-when-i-ran-this-command-remove-it"
+        },
+        "SU-1940815": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: DDG Address Manipulation",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940815/ddg-address-manipulation"
         }
     }
 }
