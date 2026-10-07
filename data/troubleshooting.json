@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-07 10:45:35",
+    "updated": "2026-10-07 18:14:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940818": {
+        "SU-1940828": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there some configuration not to cut commandline results?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940818/is-there-some-configuration-not-to-cut-commandline-results"
+            "root_cause": "用戶回報終端技術障礙: My libreOffice Writer document was formatted without styles. How can I capture the formating in to syles?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940828/my-libreoffice-writer-document-was-formatted-without-styles-how-can-i-capture-t"
         },
-        "SU-1940806": {
+        "SU-1771363": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I clear the prompt box (i.e., removing the entire content of the field where the user types their prompt) in GitHub Copilot CLI on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940806/how-can-i-clear-the-prompt-box-i-e-removing-the-entire-content-of-the-field-w"
+            "root_cause": "用戶回報終端技術障礙: Is there a way to set up Linux as an Ethernet repeater?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1771363/is-there-a-way-to-set-up-linux-as-an-ethernet-repeater"
         },
-        "SU-1438255": {
+        "SU-1940827": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to download all TikTok videos of a particular user",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1438255/how-to-download-all-tiktok-videos-of-a-particular-user"
+            "root_cause": "用戶回報終端技術障礙: WinPE can&#39;t communicate with HP LaserJet P3015",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940827/winpe-cant-communicate-with-hp-laserjet-p3015"
         },
-        "SU-1940772": {
+        "SU-1708796": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: All of my items on my laptop just disappeared when I ran this command “Remove-Item -Recurse -Force .git” Any idea what happpened?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940772/all-of-my-items-on-my-laptop-just-disappeared-when-i-ran-this-command-remove-it"
+            "root_cause": "用戶回報終端技術障礙: Why is Windows RE missing storage drivers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1708796/why-is-windows-re-missing-storage-drivers"
         },
-        "SU-1940815": {
+        "SU-1940813": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: DDG Address Manipulation",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940815/ddg-address-manipulation"
+            "root_cause": "用戶回報終端技術障礙: Is there a way to control the fan-speed for HP Pavilion 15-ec1025ax?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940813/is-there-a-way-to-control-the-fan-speed-for-hp-pavilion-15-ec1025ax"
         }
     }
 }
