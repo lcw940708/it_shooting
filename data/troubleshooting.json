@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-07 23:57:57",
+    "updated": "2026-10-08 04:51:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-856108": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to enable the &#39;Save and Open&#39; option in Internet Explorer",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/856108/how-to-enable-the-save-and-open-option-in-internet-explorer"
+        },
+        "SU-988213": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to manually merge files downloaded by IDM?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/988213/how-to-manually-merge-files-downloaded-by-idm"
+        },
         "SU-1940832": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I configure the GitHub Copilot CLI status line to show token count?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
-        },
-        "SU-1464492": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What does “/16” and “/24” mean with regards to IP addresses?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1464492/what-does-16-and-24-mean-with-regards-to-ip-addresses"
-        },
-        "SU-1940828": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: My libreOffice Writer document was formatted without styles. How can I capture the formating in to syles?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940828/my-libreoffice-writer-document-was-formatted-without-styles-how-can-i-capture-t"
         }
     }
 }
