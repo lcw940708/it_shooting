@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-08 04:51:00",
+    "updated": "2026-10-08 12:35:59",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-856108": {
+        "SU-1351903": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to enable the &#39;Save and Open&#39; option in Internet Explorer",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/856108/how-to-enable-the-save-and-open-option-in-internet-explorer"
+            "root_cause": "用戶回報終端技術障礙: How can I use two keyboards and two mice to control two different programs on the same computer as if they were on separated machines?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1351903/how-can-i-use-two-keyboards-and-two-mice-to-control-two-different-programs-on-th"
         },
-        "SU-988213": {
+        "SU-1930183": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to manually merge files downloaded by IDM?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/988213/how-to-manually-merge-files-downloaded-by-idm"
+            "root_cause": "用戶回報終端技術障礙: How can I move Microsoft Voice Access into a floating bar or whatever takes less space than the entire top bar?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1930183/how-can-i-move-microsoft-voice-access-into-a-floating-bar-or-whatever-takes-less"
         },
         "SU-1940832": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I configure the GitHub Copilot CLI status line to show token count?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940832/how-can-i-configure-the-github-copilot-cli-status-line-to-show-token-count"
+            "root_cause": "用戶回報終端技術障礙: How can I configure the GitHub Copilot CLI status line to show the token count?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940832/how-can-i-configure-the-github-copilot-cli-status-line-to-show-the-token-count"
         },
-        "SU-177107": {
+        "SU-1801741": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Quickly translate a word from English",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/177107/quickly-translate-a-word-from-english"
+            "root_cause": "用戶回報終端技術障礙: Display Windows 11 clock with seconds when tray is clicked",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1801741/display-windows-11-clock-with-seconds-when-tray-is-clicked"
         },
-        "SU-1940595": {
+        "SU-1088537": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to remove an individual OneDrive account from a Windows PC / account?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940595/is-it-possible-to-remove-an-individual-onedrive-account-from-a-windows-pc-acco"
+            "root_cause": "用戶回報終端技術障礙: How to take a screenshot that includes a scrolling element within a web page in Firefox?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1088537/how-to-take-a-screenshot-that-includes-a-scrolling-element-within-a-web-page-in"
         }
     }
 }
