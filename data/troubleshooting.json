@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-08 19:36:05",
+    "updated": "2026-10-09 00:04:49",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940845": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Control over automatically mounting disks",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/control-over-automatically-mounting-disks"
+        },
+        "SU-1940611": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Proxmox Ubuntu VM getting a significantly lower amount of memory than allocated",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940611/proxmox-ubuntu-vm-getting-a-significantly-lower-amount-of-memory-than-allocated"
+        },
+        "SU-1940832": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I configure the GitHub Copilot CLI status line to show the token count?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940832/how-can-i-configure-the-github-copilot-cli-status-line-to-show-the-token-count"
+        },
         "SU-1940727": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Playing music in a website",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I see a visual overlay of shortcut keys I&#39;ve pressed?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/407334/how-can-i-see-a-visual-overlay-of-shortcut-keys-ive-pressed"
-        },
-        "SU-1940843": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Audio in html website",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940843/audio-in-html-website"
-        },
-        "SU-1940838": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is deleting a folder residing in Ubuntu WSL via the Windows File Explorer much slower compared to doing &#180;rm -rf&#180; in terminal?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940838/why-is-deleting-a-folder-residing-in-ubuntu-wsl-via-the-windows-file-explorer-mu"
-        },
-        "SU-1940842": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Font color in slides created from master don&#39;t match color of master using PowerPoint 2016",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940842/font-color-in-slides-created-from-master-dont-match-color-of-master-using-power"
         }
     }
 }
