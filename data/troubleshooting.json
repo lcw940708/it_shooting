@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-09 00:04:49",
+    "updated": "2026-10-09 08:16:47",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-162624": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to password protect gzip files on the command line?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/162624/how-to-password-protect-gzip-files-on-the-command-line"
+        },
+        "SU-1103607": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: First icon gets selected everywhere in any page",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1103607/first-icon-gets-selected-everywhere-in-any-page"
+        },
+        "SU-847127": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Set image as desktop background without downloading it in Google Chrome",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/847127/set-image-as-desktop-background-without-downloading-it-in-google-chrome"
+        },
+        "SU-1940828": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: My LibreOffice Writer document was formatted without styles. How can I capture the formating in to syles?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940828/my-libreoffice-writer-document-was-formatted-without-styles-how-can-i-capture-t"
+        },
         "SU-1940845": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Control over automatically mounting disks",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/control-over-automatically-mounting-disks"
-        },
-        "SU-1940611": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Proxmox Ubuntu VM getting a significantly lower amount of memory than allocated",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940611/proxmox-ubuntu-vm-getting-a-significantly-lower-amount-of-memory-than-allocated"
-        },
-        "SU-1940832": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I configure the GitHub Copilot CLI status line to show the token count?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940832/how-can-i-configure-the-github-copilot-cli-status-line-to-show-the-token-count"
-        },
-        "SU-1940727": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Playing music in a website",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940727/playing-music-in-a-website"
-        },
-        "SU-407334": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I see a visual overlay of shortcut keys I&#39;ve pressed?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/407334/how-can-i-see-a-visual-overlay-of-shortcut-keys-ive-pressed"
+            "root_cause": "用戶回報終端技術障礙: How to have control over the automatically mounting of USB drives on Windows 11 Pro (Enterprise)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/how-to-have-control-over-the-automatically-mounting-of-usb-drives-on-windows-11"
         }
     }
 }
