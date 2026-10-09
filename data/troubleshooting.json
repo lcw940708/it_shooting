@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-09 08:16:47",
+    "updated": "2026-10-09 16:44:48",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-162624": {
+        "SU-1161025": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to password protect gzip files on the command line?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/162624/how-to-password-protect-gzip-files-on-the-command-line"
+            "root_cause": "用戶回報終端技術障礙: Diagnose my PC that randomly shuts down",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1161025/diagnose-my-pc-that-randomly-shuts-down"
         },
-        "SU-1103607": {
+        "SU-1768143": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: First icon gets selected everywhere in any page",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1103607/first-icon-gets-selected-everywhere-in-any-page"
+            "root_cause": "用戶回報終端技術障礙: How to get ARP table of a switch through command line interface?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1768143/how-to-get-arp-table-of-a-switch-through-command-line-interface"
         },
-        "SU-847127": {
+        "SU-1534616": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Set image as desktop background without downloading it in Google Chrome",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/847127/set-image-as-desktop-background-without-downloading-it-in-google-chrome"
+            "root_cause": "用戶回報終端技術障礙: Shuffling &quot;Alt&quot;/&quot;windows&quot;/&quot;Alt Gr&quot; on just USB keyboard (and possibly not laptop keyboard)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1534616/shuffling-alt-windows-alt-gr-on-just-usb-keyboard-and-possibly-not-laptop"
         },
-        "SU-1940828": {
+        "SU-1940003": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: My LibreOffice Writer document was formatted without styles. How can I capture the formating in to syles?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940828/my-libreoffice-writer-document-was-formatted-without-styles-how-can-i-capture-t"
+            "root_cause": "用戶回報終端技術障礙: Why can’t a mouse interact with my Windows install but keyboard can?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940003/why-can-t-a-mouse-interact-with-my-windows-install-but-keyboard-can"
         },
-        "SU-1940845": {
+        "SU-1823961": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to have control over the automatically mounting of USB drives on Windows 11 Pro (Enterprise)?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/how-to-have-control-over-the-automatically-mounting-of-usb-drives-on-windows-11"
+            "root_cause": "用戶回報終端技術障礙: How to clone a user in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1823961/how-to-clone-a-user-in-windows-11"
         }
     }
 }
