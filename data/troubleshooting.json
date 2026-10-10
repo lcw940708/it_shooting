@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-10 03:45:38",
+    "updated": "2026-10-10 10:20:51",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940861": {
+        "SU-1940866": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Do all of the serial numbers have to match on an HP hard drive replacement?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940861/do-all-of-the-serial-numbers-have-to-match-on-an-hp-hard-drive-replacement"
+            "root_cause": "用戶回報終端技術障礙: Pharmacy near me",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940866/pharmacy-near-me"
         },
-        "SU-712413": {
+        "SU-1336746": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to load Byobu automatically when terminal started?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712413/how-to-load-byobu-automatically-when-terminal-started"
+            "root_cause": "用戶回報終端技術障礙: Why does Windows 7 shuts down automatically after 3-5 minutes unless I wait 3-5 minutes before login?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1336746/why-does-windows-7-shuts-down-automatically-after-3-5-minutes-unless-i-wait-3-5"
         },
-        "SU-1940842": {
+        "SU-1939746": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Font color in slides created from master don&#39;t match color of master using PowerPoint 2016",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940842/font-color-in-slides-created-from-master-dont-match-color-of-master-using-power"
+            "root_cause": "用戶回報終端技術障礙: NoMachine does not allow connections to Ubuntu 24.04 from Windows 11 anymore",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939746/nomachine-does-not-allow-connections-to-ubuntu-24-04-from-windows-11-anymore"
         },
-        "SU-1940845": {
+        "SU-1940864": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to have control over the automatic mounting of USB drives on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/how-to-have-control-over-the-automatic-mounting-of-usb-drives-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Redirects missing from Chrome History",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940864/redirects-missing-from-chrome-history"
         },
-        "SU-878654": {
+        "SU-1540858": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Simultaneously record microphone and speakers",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/878654/simultaneously-record-microphone-and-speakers"
+            "root_cause": "用戶回報終端技術障礙: How to configure Windows 10 for &quot;keyboard focus follows mouse&quot; without clicking into the window and without raising the window?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1540858/how-to-configure-windows-10-for-keyboard-focus-follows-mouse-without-clicking"
         }
     }
 }
