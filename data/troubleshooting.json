@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-09 22:05:40",
+    "updated": "2026-10-10 03:45:38",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -27,6 +27,16 @@
             "root_cause": "用戶回報終端技術障礙: Do all of the serial numbers have to match on an HP hard drive replacement?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940861/do-all-of-the-serial-numbers-have-to-match-on-an-hp-hard-drive-replacement"
         },
+        "SU-712413": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to load Byobu automatically when terminal started?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/712413/how-to-load-byobu-automatically-when-terminal-started"
+        },
+        "SU-1940842": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Font color in slides created from master don&#39;t match color of master using PowerPoint 2016",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940842/font-color-in-slides-created-from-master-dont-match-color-of-master-using-power"
+        },
         "SU-1940845": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to have control over the automatic mounting of USB drives on Windows?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Simultaneously record microphone and speakers",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/878654/simultaneously-record-microphone-and-speakers"
-        },
-        "SU-1351903": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I use two keyboards and two mice to control two different programs on the same computer as if they were on separated machines?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1351903/how-can-i-use-two-keyboards-and-two-mice-to-control-two-different-programs-on-th"
-        },
-        "SU-1161025": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Diagnose my PC that randomly shuts down",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1161025/diagnose-my-pc-that-randomly-shuts-down"
         }
     }
 }
