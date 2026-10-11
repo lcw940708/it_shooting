@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-11 08:06:39",
+    "updated": "2026-10-11 16:05:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1671877": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10: AAC Support",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1671877/windows-10-aac-support"
-        },
-        "SU-1940828": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: My LibreOffice Writer document was formatted without styles. How can I capture the formating in to syles?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940828/my-libreoffice-writer-document-was-formatted-without-styles-how-can-i-capture-t"
-        },
         "SU-1940878": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I prevent the print spooler from interfering with sleep mode, on a Win 10 / Win 11 desktop?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940878/how-can-i-prevent-the-print-spooler-from-interfering-with-sleep-mode-on-a-win-1"
         },
-        "SU-1357137": {
+        "SU-1939144": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I add a + button to add a new terminal tab in terminal app?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1357137/how-do-i-add-a-button-to-add-a-new-terminal-tab-in-terminal-app"
+            "root_cause": "用戶回報終端技術障礙: Laptop loses sleep mode after a BIOS update",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939144/laptop-loses-sleep-mode-after-a-bios-update"
         },
-        "SU-999232": {
+        "SU-1283111": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Unicode filenames in Windows vs. Mac OS X",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/999232/unicode-filenames-in-windows-vs-mac-os-x"
+            "root_cause": "用戶回報終端技術障礙: Realtek gbe family controller throttled at 100mbps",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1283111/realtek-gbe-family-controller-throttled-at-100mbps"
+        },
+        "SU-393132": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I shrink an exFAT partition?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/393132/how-can-i-shrink-an-exfat-partition"
+        },
+        "SU-1940883": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Ubuntu 26.04 Grinds to a Halt Regularly",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940883/ubuntu-26-04-grinds-to-a-halt-regularly"
         }
     }
 }
