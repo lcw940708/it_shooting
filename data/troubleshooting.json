@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-11 16:05:28",
+    "updated": "2026-10-11 21:20:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -24,28 +24,28 @@
         },
         "SU-1940878": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I prevent the print spooler from interfering with sleep mode, on a Win 10 / Win 11 desktop?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940878/how-can-i-prevent-the-print-spooler-from-interfering-with-sleep-mode-on-a-win-1"
+            "root_cause": "用戶回報終端技術障礙: How can I prevent the print spooler from interfering with sleep mode, on a Windows 10 / Windows 11 desktop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940878/how-can-i-prevent-the-print-spooler-from-interfering-with-sleep-mode-on-a-windo"
         },
-        "SU-1939144": {
+        "SU-1940881": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Laptop loses sleep mode after a BIOS update",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939144/laptop-loses-sleep-mode-after-a-bios-update"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to install Windows 7 on an older MacBook Air via external DVD player?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940881/is-it-possible-to-install-windows-7-on-an-older-macbook-air-via-external-dvd-pla"
         },
-        "SU-1283111": {
+        "SU-1497657": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Realtek gbe family controller throttled at 100mbps",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1283111/realtek-gbe-family-controller-throttled-at-100mbps"
+            "root_cause": "用戶回報終端技術障礙: Why does any SSH attempt to macOS refuses public key authentication?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1497657/why-does-any-ssh-attempt-to-macos-refuses-public-key-authentication"
         },
-        "SU-393132": {
+        "SU-1749659": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I shrink an exFAT partition?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/393132/how-can-i-shrink-an-exfat-partition"
+            "root_cause": "用戶回報終端技術障礙: Colors change when converting GIF to VP9 WebM using FFmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1749659/colors-change-when-converting-gif-to-vp9-webm-using-ffmpeg"
         },
-        "SU-1940883": {
+        "SU-713232": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Ubuntu 26.04 Grinds to a Halt Regularly",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940883/ubuntu-26-04-grinds-to-a-halt-regularly"
+            "root_cause": "用戶回報終端技術障礙: Converting LVM/EXT4 to ZFS without losing data",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/713232/converting-lvm-ext4-to-zfs-without-losing-data"
         }
     }
 }
