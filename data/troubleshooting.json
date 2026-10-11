@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-10 20:58:51",
+    "updated": "2026-10-11 00:36:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940864": {
+        "SU-946520": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to track redirects that are missing from Chrome history?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940864/how-to-track-redirects-that-are-missing-from-chrome-history"
+            "root_cause": "用戶回報終端技術障礙: How to set QoS on a Tenda router to reduce ping?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/946520/how-to-set-qos-on-a-tenda-router-to-reduce-ping"
         },
-        "SU-319396": {
+        "SU-625361": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I control the volume with a non-Mac keyboard?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/319396/how-do-i-control-the-volume-with-a-non-mac-keyboard"
+            "root_cause": "用戶回報終端技術障礙: Why can’t I no longer access network PCs?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/625361/why-can-t-i-no-longer-access-network-pcs"
         },
-        "SU-224264": {
+        "SU-1940876": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I control the system volume on OS X with a keyboard without media controls?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/224264/how-do-i-control-the-system-volume-on-os-x-with-a-keyboard-without-media-control"
+            "root_cause": "用戶回報終端技術障礙: ODMTESTNeed help to temp",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940876/odmtestneed-help-to-temp"
         },
-        "SU-1451863": {
+        "SU-1769467": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: External USB keyboard working on macOS (latest) login screen, but not after logged in",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1451863/external-usb-keyboard-working-on-macos-latest-login-screen-but-not-after-logg"
+            "root_cause": "用戶回報終端技術障礙: How to change your volume with your HP 2007 Keyboard on Mac",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1769467/how-to-change-your-volume-with-your-hp-2007-keyboard-on-mac"
         },
-        "SU-219009": {
+        "SU-455659": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I move around and otherwise rearrange splits in vim?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/219009/how-do-i-move-around-and-otherwise-rearrange-splits-in-vim"
+            "root_cause": "用戶回報終端技術障礙: On a Mac, how do I use the &#39;special&#39; keyboard keys on a non-Apple keyboard?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/455659/on-a-mac-how-do-i-use-the-special-keyboard-keys-on-a-non-apple-keyboard"
         }
     }
 }
