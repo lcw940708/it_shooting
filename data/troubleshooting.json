@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-12 08:23:51",
+    "updated": "2026-10-12 19:32:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-192706": {
+        "SU-1858009": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix damaged jpeg file on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/192706/how-to-fix-damaged-jpeg-file-on-windows"
+            "root_cause": "用戶回報終端技術障礙: What is the difference between these Nerd Font types: mono, propo, script?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1858009/what-is-the-difference-between-these-nerd-font-types-mono-propo-script"
         },
         "SU-1940892": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can the Data-&gt;Sort command be used with formulae or only column names?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940892/can-the-data-sort-command-be-used-with-formulae-or-only-column-names"
+            "root_cause": "用戶回報終端技術障礙: Sort rows using formula in addition to cell values",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940892/sort-rows-using-formula-in-addition-to-cell-values"
         },
-        "SU-677057": {
+        "SU-1940896": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: VNC viewer does not refresh/update the screen",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/677057/vnc-viewer-does-not-refresh-update-the-screen"
+            "root_cause": "用戶回報終端技術障礙: How can I make Chrome show more than 6 autocomplete suggestions for a form field?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940896/how-can-i-make-chrome-show-more-than-6-autocomplete-suggestions-for-a-form-field"
+        },
+        "SU-1940904": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Site returns HTTP 403 to curl/wget but loads fine in every browser, how do I identify what’s blocking the request?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940904/site-returns-http-403-to-curl-wget-but-loads-fine-in-every-browser-how-do-i-ide"
         },
         "SU-1940890": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to Chain Prompts in Fresh GitHub Copilot Sessions",
+            "root_cause": "用戶回報終端技術障礙: How to chain prompts in fresh GitHub Copilot sessions?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940890/how-to-chain-prompts-in-fresh-github-copilot-sessions"
-        },
-        "SU-1749659": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do colors seem to change when converting GIF to VP9 WebM using FFmpeg?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1749659/why-do-colors-seem-to-change-when-converting-gif-to-vp9-webm-using-ffmpeg"
         }
     }
 }
