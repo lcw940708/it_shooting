@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-13 17:17:07",
+    "updated": "2026-10-13 22:09:12",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1565696": {
+        "SU-1940909": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to check if Apple MacBook webcam is used by any application (if camera is on or off)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1565696/how-to-check-if-apple-macbook-webcam-is-used-by-any-application-if-camera-is-on"
+            "root_cause": "用戶回報終端技術障礙: How to update Microsoft Office Home 2013 side-by-side with Office 2024 Pro on the same system?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940909/how-to-update-microsoft-office-home-2013-side-by-side-with-office-2024-pro-on-th"
         },
-        "SU-1940793": {
+        "SU-1940478": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Powershell script not entering variables?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940793/powershell-script-not-entering-variables"
+            "root_cause": "用戶回報終端技術障礙: Why to activate Windows 11 after reinstalling from USB flash drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940478/why-to-activate-windows-11-after-reinstalling-from-usb-flash-drive"
         },
-        "SU-1133013": {
+        "SU-123338": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove systemctl service in Arch Linux?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1133013/how-to-remove-systemctl-service-in-arch-linux"
+            "root_cause": "用戶回報終端技術障礙: How print multiple independent pages in one print job?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/123338/how-print-multiple-independent-pages-in-one-print-job"
         },
-        "SU-1938130": {
+        "SU-698007": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is this the correct Cron job code to only change the folder permission from 750 to 755?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938130/is-this-the-correct-cron-job-code-to-only-change-the-folder-permission-from-750"
+            "root_cause": "用戶回報終端技術障礙: Why is that when I run “lsusb” I get this error: “unable to initialize libusb: -99?”",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/698007/why-is-that-when-i-run-lsusb-i-get-this-error-unable-to-initialize-libusb"
         },
-        "SU-1940749": {
+        "SU-1940776": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Redirection in a command changes the output format",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940749/redirection-in-a-command-changes-the-output-format"
+            "root_cause": "用戶回報終端技術障礙: My router Wi-Fi is on but my PC does not automatically connect?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940776/my-router-wi-fi-is-on-but-my-pc-does-not-automatically-connect"
         }
     }
 }
