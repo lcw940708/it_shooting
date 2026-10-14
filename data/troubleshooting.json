@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-14 19:54:40",
+    "updated": "2026-10-14 22:55:15",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,11 +22,6 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1606213": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I get back unused disk space from Ubuntu on WSL2?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1606213/how-do-i-get-back-unused-disk-space-from-ubuntu-on-wsl2"
-        },
         "SU-1940958": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I temporarily stop Backblaze from scanning C: while backing up another drive?",
@@ -37,15 +32,20 @@
             "root_cause": "用戶回報終端技術障礙: Windows 11 back up to external disk error - how can I resolve issue of drive / back up files not being recognized?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-back-up-to-external-disk-error-how-can-i-resolve-issue-of-drive-b"
         },
+        "SU-1417024": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What are the Powershell options for the curl included in Windows Server 2016?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1417024/what-are-the-powershell-options-for-the-curl-included-in-windows-server-2016"
+        },
+        "SU-1606213": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I get back unused disk space from Ubuntu on WSL2?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1606213/how-do-i-get-back-unused-disk-space-from-ubuntu-on-wsl2"
+        },
         "SU-1940951": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why do all Windows browsers get a cPanel 404 error while curl works, and Chrome/Firefox load slowly?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940951/why-do-all-windows-browsers-get-a-cpanel-404-error-while-curl-works-and-chrome"
-        },
-        "SU-1940957": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: {AltGr} key does not work in MobaXterm VNC on Debian 13 Trixie KDE",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940957/altgr-key-does-not-work-in-mobaxterm-vnc-on-debian-13-trixie-kde"
         }
     }
 }
