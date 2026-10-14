@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-14 14:48:53",
+    "updated": "2026-10-14 19:54:40",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940949": {
+        "SU-1606213": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I recover mailbox data from an orphaned OST file when the original Exchange mailbox is unavailable?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940949/how-can-i-recover-mailbox-data-from-an-orphaned-ost-file-when-the-original-excha"
+            "root_cause": "用戶回報終端技術障礙: How do I get back unused disk space from Ubuntu on WSL2?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1606213/how-do-i-get-back-unused-disk-space-from-ubuntu-on-wsl2"
         },
-        "SU-1940944": {
+        "SU-1940958": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Desktop flashing after OS boot",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940944/desktop-flashing-after-os-boot"
+            "root_cause": "用戶回報終端技術障礙: How can I temporarily stop Backblaze from scanning C: while backing up another drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940958/how-can-i-temporarily-stop-backblaze-from-scanning-c-while-backing-up-another-d"
         },
-        "SU-1940947": {
+        "SU-1940959": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Microsoft PowerPoint File Saving",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940947/microsoft-powerpoint-file-saving"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 back up to external disk error - how can I resolve issue of drive / back up files not being recognized?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-back-up-to-external-disk-error-how-can-i-resolve-issue-of-drive-b"
         },
-        "SU-1931305": {
+        "SU-1940951": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Extract Metadata &quot;comment&quot; from MP4 using ffmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1931305/extract-metadata-comment-from-mp4-using-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: Why do all Windows browsers get a cPanel 404 error while curl works, and Chrome/Firefox load slowly?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940951/why-do-all-windows-browsers-get-a-cpanel-404-error-while-curl-works-and-chrome"
         },
-        "SU-1940897": {
+        "SU-1940957": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 Pro is stuck on 25H2 and does not offer 26H2, even with ‘Get the latest updates’ turned on",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940897/windows-11-pro-is-stuck-on-25h2-and-does-not-offer-26h2-even-with-get-the-late"
+            "root_cause": "用戶回報終端技術障礙: {AltGr} key does not work in MobaXterm VNC on Debian 13 Trixie KDE",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940957/altgr-key-does-not-work-in-mobaxterm-vnc-on-debian-13-trixie-kde"
         }
     }
 }
