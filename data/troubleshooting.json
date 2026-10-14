@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-14 09:11:31",
+    "updated": "2026-10-14 14:48:53",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1204134": {
+        "SU-1940949": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Hubspot CRM notifications - how to avoid people seeing when I read a mail",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1204134/hubspot-crm-notifications-how-to-avoid-people-seeing-when-i-read-a-mail"
+            "root_cause": "用戶回報終端技術障礙: How can I recover mailbox data from an orphaned OST file when the original Exchange mailbox is unavailable?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940949/how-can-i-recover-mailbox-data-from-an-orphaned-ost-file-when-the-original-excha"
         },
-        "SU-1940937": {
+        "SU-1940944": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Antivirus software to prevent desktop flashing after OS boot",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940937/antivirus-software-to-prevent-desktop-flashing-after-os-boot"
+            "root_cause": "用戶回報終端技術障礙: Desktop flashing after OS boot",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940944/desktop-flashing-after-os-boot"
         },
-        "SU-1940938": {
+        "SU-1940947": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows - How to move selected files from a parent dir along with same named files from subfolders to another folder _ while the same named files ...?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940938/windows-how-to-move-selected-files-from-a-parent-dir-along-with-same-named-fil"
+            "root_cause": "用戶回報終端技術障礙: Microsoft PowerPoint File Saving",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940947/microsoft-powerpoint-file-saving"
         },
-        "SU-230247": {
+        "SU-1931305": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: In Linux, why are folders for configuration files always named *.d?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/230247/in-linux-why-are-folders-for-configuration-files-always-named-d"
+            "root_cause": "用戶回報終端技術障礙: Extract Metadata &quot;comment&quot; from MP4 using ffmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1931305/extract-metadata-comment-from-mp4-using-ffmpeg"
         },
-        "SU-1208941": {
+        "SU-1940897": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I install the Ubuntu Software-Center in Debian?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1208941/how-do-i-install-the-ubuntu-software-center-in-debian"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 Pro is stuck on 25H2 and does not offer 26H2, even with ‘Get the latest updates’ turned on",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940897/windows-11-pro-is-stuck-on-25h2-and-does-not-offer-26h2-even-with-get-the-late"
         }
     }
 }
