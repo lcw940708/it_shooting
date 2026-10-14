@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-14 03:01:44",
+    "updated": "2026-10-14 09:11:31",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,10 +22,20 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1204134": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Hubspot CRM notifications - how to avoid people seeing when I read a mail",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1204134/hubspot-crm-notifications-how-to-avoid-people-seeing-when-i-read-a-mail"
+        },
         "SU-1940937": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Antivirus against desktop flashing",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940937/antivirus-against-desktop-flashing"
+            "root_cause": "用戶回報終端技術障礙: Antivirus software to prevent desktop flashing after OS boot",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940937/antivirus-software-to-prevent-desktop-flashing-after-os-boot"
+        },
+        "SU-1940938": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows - How to move selected files from a parent dir along with same named files from subfolders to another folder _ while the same named files ...?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940938/windows-how-to-move-selected-files-from-a-parent-dir-along-with-same-named-fil"
         },
         "SU-230247": {
             "category": "IT Helpdesk / Community Super User",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How do I install the Ubuntu Software-Center in Debian?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1208941/how-do-i-install-the-ubuntu-software-center-in-debian"
-        },
-        "SU-1940805": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is a command to disable Smart App Control (Windows Security)? Can&#39;t access it via GUI settings",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940805/what-is-a-command-to-disable-smart-app-control-windows-security-cant-access"
-        },
-        "SU-647954": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Download and print multiple files/links at once?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/647954/download-and-print-multiple-files-links-at-once"
         }
     }
 }
