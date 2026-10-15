@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-15 08:44:31",
+    "updated": "2026-10-15 14:35:58",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-390522": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to have different pinned app tabs per tab group?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/390522/is-it-possible-to-have-different-pinned-app-tabs-per-tab-group"
-        },
         "SU-1940962": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I share a website login between GitHub Copilot desktop sessions?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940962/how-can-i-share-a-website-login-between-github-copilot-desktop-sessions"
         },
+        "SU-1940970": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: PC - No signal boot",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940970/pc-no-signal-boot"
+        },
+        "SU-1940083": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to backup a Microsoft Office 365 mailbox for free?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940083/how-to-backup-a-microsoft-office-365-mailbox-for-free"
+        },
+        "SU-390522": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible to have different pinned app tabs per tab group?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/390522/is-it-possible-to-have-different-pinned-app-tabs-per-tab-group"
+        },
         "SU-1466177": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Connection blocked because server only allows public key authentication [PuTTY Fatal Error]",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1466177/connection-blocked-because-server-only-allows-public-key-authentication-putty-f"
-        },
-        "SU-1940954": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I disable the &quot;How likely are you to recommend OneDrive to others, if asked?&quot; prompts in OneDrive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940954/how-do-i-disable-the-how-likely-are-you-to-recommend-onedrive-to-others-if-ask"
-        },
-        "SU-1940958": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I temporarily stop Backblaze from scanning C: while backing up another drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940958/how-can-i-temporarily-stop-backblaze-from-scanning-c-while-backing-up-another-d"
         }
     }
 }
