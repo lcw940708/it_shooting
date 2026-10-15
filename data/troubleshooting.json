@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-15 19:36:19",
+    "updated": "2026-10-15 22:49:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1634960": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to save groups of tabs in Edge or Chrome?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1634960/how-to-save-groups-of-tabs-in-edge-or-chrome"
+        },
+        "SU-1897535": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does my Lenovo IdeaPad 3 (15ITL6) suddenly have a black screen and power lights blinking constantly?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1897535/why-does-my-lenovo-ideapad-3-15itl6-suddenly-have-a-black-screen-and-power-lig"
+        },
+        "SU-1940973": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Bulk Domain name search",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940973/bulk-domain-name-search"
+        },
         "SU-1940976": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to process Vivado ILA captured data for MATLAB bit accurate verification",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t my Dell Inspiron 3421 laptop with Windows 10 join my home WLAN?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940776/why-doesnt-my-dell-inspiron-3421-laptop-with-windows-10-join-my-home-wlan"
-        },
-        "SU-1940944": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Desktop flashing after OS boot",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940944/desktop-flashing-after-os-boot"
-        },
-        "SU-1680706": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does stereo mix work with speakers but stops working with 3.5mm headphones?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1680706/why-does-stereo-mix-work-with-speakers-but-stops-working-with-3-5mm-headphones"
-        },
-        "SU-1940959": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 backup to external disk error - How can I resolve issue of drive/backup files not being recognized?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-backup-to-external-disk-error-how-can-i-resolve-issue-of-drive-back"
         }
     }
 }
