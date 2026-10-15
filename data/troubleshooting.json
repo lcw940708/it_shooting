@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-14 22:55:15",
+    "updated": "2026-10-15 02:41:41",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940962": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I share a website login between GitHub Copilot desktop sessions?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940962/how-can-i-share-a-website-login-between-github-copilot-desktop-sessions"
+        },
+        "SU-1940954": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I disable the &quot;How likely are you to recommend OneDrive to others, if asked?&quot; prompts in OneDrive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940954/how-do-i-disable-the-how-likely-are-you-to-recommend-onedrive-to-others-if-ask"
+        },
         "SU-1940958": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I temporarily stop Backblaze from scanning C: while backing up another drive?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: What are the Powershell options for the curl included in Windows Server 2016?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1417024/what-are-the-powershell-options-for-the-curl-included-in-windows-server-2016"
-        },
-        "SU-1606213": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I get back unused disk space from Ubuntu on WSL2?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1606213/how-do-i-get-back-unused-disk-space-from-ubuntu-on-wsl2"
-        },
-        "SU-1940951": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do all Windows browsers get a cPanel 404 error while curl works, and Chrome/Firefox load slowly?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940951/why-do-all-windows-browsers-get-a-cpanel-404-error-while-curl-works-and-chrome"
         }
     }
 }
