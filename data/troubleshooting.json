@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-16 19:10:39",
+    "updated": "2026-10-16 22:22:53",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1775117": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Does Power BI have an equivalent of Metabase&#39;s X Ray feature (automatic insights and analysis)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775117/does-power-bi-have-an-equivalent-of-metabases-x-ray-feature-automatic-insights"
+        },
+        "SU-1941001": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I search for past chat sessions in the GitHub Copilot Desktop app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941001/how-can-i-search-for-past-chat-sessions-in-the-github-copilot-desktop-app"
+        },
+        "SU-1373405": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: GIT For Windows - Failed to receive handshake, SSL/TLS connection failed",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1373405/git-for-windows-failed-to-receive-handshake-ssl-tls-connection-failed"
+        },
+        "SU-1931280": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Exporting and Importing Printer&#39;s &quot;Advanced Options&quot; PaperSize",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1931280/exporting-and-importing-printers-advanced-options-papersize"
+        },
         "SU-1051546": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: No POST screen, No beeps and No display",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1051546/no-post-screen-no-beeps-and-no-display"
-        },
-        "SU-278893": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can we use an Android tablet as an extended monitor?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/278893/can-we-use-an-android-tablet-as-an-extended-monitor"
-        },
-        "SU-1940983": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Line chart with months as X-axis — How to sort months chronologically?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940983/line-chart-with-months-as-x-axis-how-to-sort-months-chronologically"
-        },
-        "SU-1940989": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a boot issue and freezing while connected to a router?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940989/why-am-i-experiencing-a-boot-issue-and-freezing-while-connected-to-a-router"
-        },
-        "SU-348674": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Which character encoding is used for ALT-codes?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/348674/which-character-encoding-is-used-for-alt-codes"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing no POST screen, no beeps and no display on my system?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1051546/why-am-i-experiencing-no-post-screen-no-beeps-and-no-display-on-my-system"
         }
     }
 }
