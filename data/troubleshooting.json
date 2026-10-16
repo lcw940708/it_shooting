@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-15 22:49:16",
+    "updated": "2026-10-16 02:37:29",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1634960": {
+        "SU-1940983": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to save groups of tabs in Edge or Chrome?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1634960/how-to-save-groups-of-tabs-in-edge-or-chrome"
+            "root_cause": "用戶回報終端技術障礙: Line chart with months as X-axis — How to sort months chronologically?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940983/line-chart-with-months-as-x-axis-how-to-sort-months-chronologically"
         },
-        "SU-1897535": {
+        "SU-1940982": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my Lenovo IdeaPad 3 (15ITL6) suddenly have a black screen and power lights blinking constantly?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1897535/why-does-my-lenovo-ideapad-3-15itl6-suddenly-have-a-black-screen-and-power-lig"
+            "root_cause": "用戶回報終端技術障礙: Why does Wondershare Uniconverter &amp; Filmorax both shut down my system when I try to use them. Anyone have ideas?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940982/why-does-wondershare-uniconverter-filmorax-both-shut-down-my-system-when-i-try"
         },
-        "SU-1940973": {
+        "SU-949380": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Bulk Domain name search",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940973/bulk-domain-name-search"
+            "root_cause": "用戶回報終端技術障礙: Why am I suddenly getting BSOD memory management issue after updating to Windows 10?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/949380/why-am-i-suddenly-getting-bsod-memory-management-issue-after-updating-to-windows"
         },
-        "SU-1940976": {
+        "SU-1719607": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to process Vivado ILA captured data for MATLAB bit accurate verification",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940976/how-to-process-vivado-ila-captured-data-for-matlab-bit-accurate-verification"
+            "root_cause": "用戶回報終端技術障礙: How can I open a whole Chrome tab group on another machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1719607/how-can-i-open-a-whole-chrome-tab-group-on-another-machine"
         },
-        "SU-1940776": {
+        "SU-1826616": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t my Dell Inspiron 3421 laptop with Windows 10 join my home WLAN?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940776/why-doesnt-my-dell-inspiron-3421-laptop-with-windows-10-join-my-home-wlan"
+            "root_cause": "用戶回報終端技術障礙: How do I open whole Chrome tab group on another machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1826616/how-do-i-open-whole-chrome-tab-group-on-another-machine"
         }
     }
 }
