@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-16 08:39:58",
+    "updated": "2026-10-16 14:26:54",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-339931": {
+        "SU-1480144": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I use 7-Zip CLI for Windows to create .tar.gz archives?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/339931/how-do-i-use-7-zip-cli-for-windows-to-create-tar-gz-archives"
+            "root_cause": "用戶回報終端技術障礙: Creating a RAMdisk on MacOS",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1480144/creating-a-ramdisk-on-macos"
         },
-        "SU-1544639": {
+        "SU-1940989": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Option to allow MS Excel to speak cells while I type in another application",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1544639/option-to-allow-ms-excel-to-speak-cells-while-i-type-in-another-application"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a boot issue and freezing while connected to router?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940989/why-am-i-experiencing-a-boot-issue-and-freezing-while-connected-to-router"
         },
-        "SU-1719092": {
+        "SU-1940907": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I have Spotify play music instead of iTunes when pressing the play/F8 key on MacOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1719092/how-can-i-have-spotify-play-music-instead-of-itunes-when-pressing-the-play-f8-ke"
+            "root_cause": "用戶回報終端技術障礙: Customizing arrowheads, node labels, and weights in Gephi",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940907/customizing-arrowheads-node-labels-and-weights-in-gephi"
         },
-        "SU-1940959": {
+        "SU-1248528": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 backup to external disk error - How can I resolve issue of drive/backup files not being recognized?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-backup-to-external-disk-error-how-can-i-resolve-issue-of-drive-back"
+            "root_cause": "用戶回報終端技術障礙: How to remove blank pages from PDF from the command line?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1248528/how-to-remove-blank-pages-from-pdf-from-the-command-line"
         },
-        "SU-1940983": {
+        "SU-1726066": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Line chart with months as X-axis — How to sort months chronologically?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940983/line-chart-with-months-as-x-axis-how-to-sort-months-chronologically"
+            "root_cause": "用戶回報終端技術障礙: How do I check if files have been encrypted by Ransomware?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1726066/how-do-i-check-if-files-have-been-encrypted-by-ransomware"
         }
     }
 }
