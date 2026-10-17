@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-17 13:24:03",
+    "updated": "2026-10-17 16:46:30",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1940982": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does Wondershare Uniconverter and Filmora X both shut down my system when I try to use them?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940982/why-does-wondershare-uniconverter-and-filmora-x-both-shut-down-my-system-when-i"
+        },
+        "SU-1941009": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: error redirection not working from inside a function",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941009/error-redirection-not-working-from-inside-a-function"
+        },
+        "SU-957156": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Where can I get old versions of HP BIOS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/957156/where-can-i-get-old-versions-of-hp-bios"
+        },
+        "SU-1940815": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: DuckDuckGo Address Manipulation",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940815/duckduckgo-address-manipulation"
+        },
         "SU-1133752": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to enable LAN access to OpenVPN clients",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1133752/how-to-enable-lan-access-to-openvpn-clients"
-        },
-        "SU-1941014": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Using Exiftool. Use command-line to split a string of text in a filename",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/using-exiftool-use-command-line-to-split-a-string-of-text-in-a-filename"
-        },
-        "SU-48019": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Save web site usernames but not passwords in Firefox",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/48019/save-web-site-usernames-but-not-passwords-in-firefox"
-        },
-        "SU-957156": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Where can I get old versions of HP bios?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/957156/where-can-i-get-old-versions-of-hp-bios"
-        },
-        "SU-1941010": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: what do you mean of sorfware and harware?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941010/what-do-you-mean-of-sorfware-and-harware"
         }
     }
 }
