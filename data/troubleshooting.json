@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-17 08:10:57",
+    "updated": "2026-10-17 13:24:03",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-614935": {
+        "SU-1133752": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Where is /sys/bus/usb/devices on Mac OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/614935/where-is-sys-bus-usb-devices-on-mac-os-x"
+            "root_cause": "用戶回報終端技術障礙: How to enable LAN access to OpenVPN clients",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1133752/how-to-enable-lan-access-to-openvpn-clients"
         },
-        "SU-1940951": {
+        "SU-1941014": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do all Windows browsers get a cPanel 404 error while curl works, and Chrome/Firefox load slowly?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940951/why-do-all-windows-browsers-get-a-cpanel-404-error-while-curl-works-and-chrome"
+            "root_cause": "用戶回報終端技術障礙: Using Exiftool. Use command-line to split a string of text in a filename",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/using-exiftool-use-command-line-to-split-a-string-of-text-in-a-filename"
         },
-        "SU-1480144": {
+        "SU-48019": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to create a RAM disk on macOS 10.13.6?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1480144/how-to-create-a-ram-disk-on-macos-10-13-6"
+            "root_cause": "用戶回報終端技術障礙: Save web site usernames but not passwords in Firefox",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/48019/save-web-site-usernames-but-not-passwords-in-firefox"
         },
-        "SU-1775117": {
+        "SU-957156": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Does Power BI have an equivalent of Metabase&#39;s X Ray feature (automatic insights and analysis)?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775117/does-power-bi-have-an-equivalent-of-metabases-x-ray-feature-automatic-insights"
+            "root_cause": "用戶回報終端技術障礙: Where can I get old versions of HP bios?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/957156/where-can-i-get-old-versions-of-hp-bios"
         },
-        "SU-1941001": {
+        "SU-1941010": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I search for past chat sessions in the GitHub Copilot Desktop app?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941001/how-can-i-search-for-past-chat-sessions-in-the-github-copilot-desktop-app"
+            "root_cause": "用戶回報終端技術障礙: what do you mean of sorfware and harware?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941010/what-do-you-mean-of-sorfware-and-harware"
         }
     }
 }
