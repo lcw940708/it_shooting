@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-17 02:29:27",
+    "updated": "2026-10-17 08:10:57",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-614935": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Where is /sys/bus/usb/devices on Mac OS X?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/614935/where-is-sys-bus-usb-devices-on-mac-os-x"
+        },
         "SU-1940951": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why do all Windows browsers get a cPanel 404 error while curl works, and Chrome/Firefox load slowly?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I search for past chat sessions in the GitHub Copilot Desktop app?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941001/how-can-i-search-for-past-chat-sessions-in-the-github-copilot-desktop-app"
-        },
-        "SU-1373405": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: GIT For Windows - Failed to receive handshake, SSL/TLS connection failed",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1373405/git-for-windows-failed-to-receive-handshake-ssl-tls-connection-failed"
         }
     }
 }
