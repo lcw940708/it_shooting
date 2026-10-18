@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-18 02:30:10",
+    "updated": "2026-10-18 08:28:04",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1492948": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Define a range using a formula in Excel",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1492948/define-a-range-using-a-formula-in-excel"
+        },
+        "SU-1940982": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does Wondershare Uniconverter and Filmora X both shut down my system when I try to use them?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940982/why-does-wondershare-uniconverter-and-filmora-x-both-shut-down-my-system-when-i"
+        },
+        "SU-1941019": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Does a hidden SSID with no clients still create co-channel interference to the environment?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941019/does-a-hidden-ssid-with-no-clients-still-create-co-channel-interference-to-the-e"
+        },
         "SU-1940983": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Line chart with months as X-axis — How to sort months chronologically?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why does my keyboard and mouse work outside of Windows 11, but don&#39;t respond once the operating system boots, even in safe mode?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941007/why-does-my-keyboard-and-mouse-work-outside-of-windows-11-but-dont-respond-onc"
-        },
-        "SU-1941014": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to use ExifTool to split a string of text in a filename?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/how-to-use-exiftool-to-split-a-string-of-text-in-a-filename"
-        },
-        "SU-1941015": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Android-based Audio Recording Solutions: Termux",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941015/android-based-audio-recording-solutions-termux"
-        },
-        "SU-1941009": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: error redirection not working from inside a function",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941009/error-redirection-not-working-from-inside-a-function"
         }
     }
 }
