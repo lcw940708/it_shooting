@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-18 13:42:32",
+    "updated": "2026-10-18 17:01:31",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-609603": {
+        "SU-1941014": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is Lync/Outlook conversation history not working as expected?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/609603/why-is-lync-outlook-conversation-history-not-working-as-expected"
+            "root_cause": "用戶回報終端技術障礙: How to use ExifTool to split a string of text in a filename?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/how-to-use-exiftool-to-split-a-string-of-text-in-a-filename"
+        },
+        "SU-734830": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Ethernet over powerline adapters - how far will the data travel?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/734830/ethernet-over-powerline-adapters-how-far-will-the-data-travel"
         },
         "SU-1941025": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Fast Startup 0xC00000D4 and SrtTrail.txt",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941025/fast-startup-0xc00000d4-and-srttrail-txt"
         },
-        "SU-1941014": {
+        "SU-609603": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to use ExifTool to split a string of text in a filename?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/how-to-use-exiftool-to-split-a-string-of-text-in-a-filename"
+            "root_cause": "用戶回報終端技術障礙: Why is Lync/Outlook conversation history not working as expected?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/609603/why-is-lync-outlook-conversation-history-not-working-as-expected"
         },
         "SU-1941023": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: List processes with CAP_LINUX_IMMUTABLE capability",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941023/list-processes-with-cap-linux-immutable-capability"
-        },
-        "SU-1833007": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to manually uninstall PGAdmin4 from macOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1833007/how-to-manually-uninstall-pgadmin4-from-macos"
         }
     }
 }
