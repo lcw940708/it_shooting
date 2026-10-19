@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-18 22:11:47",
+    "updated": "2026-10-19 02:44:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941031": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Two onedrives one computer",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941031/two-onedrives-one-computer"
+        },
+        "SU-1941014": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to use ExifTool to split a string of text in a filename?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941014/how-to-use-exiftool-to-split-a-string-of-text-in-a-filename"
+        },
         "SU-1941025": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Fast Startup 0xC00000D4 and SrtTrail.txt",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: What do new Windows 8/10 attributes mean: No scrub file (X), Integrity (V), Pinned (P), Unpinned (U)",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1214542/what-do-new-windows-8-10-attributes-mean-no-scrub-file-x-integrity-v-pinn"
-        },
-        "SU-18573": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: svchost.exe is crashing",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/18573/svchost-exe-is-crashing"
-        },
-        "SU-1941019": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Does a hidden SSID with no clients still create co-channel interference to the environment?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941019/does-a-hidden-ssid-with-no-clients-still-create-co-channel-interference-to-the-e"
         }
     }
 }
