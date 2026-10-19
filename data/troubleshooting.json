@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-19 16:43:55",
+    "updated": "2026-10-19 21:54:39",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941037": {
+        "SU-1637877": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10 clean installation sticking loop before reaching set up screen",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941037/windows-10-clean-installation-sticking-loop-before-reaching-set-up-screen"
+            "root_cause": "用戶回報終端技術障礙: How to install an old Logitech QuickCam 4000 on Windows 10",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1637877/how-to-install-an-old-logitech-quickcam-4000-on-windows-10"
         },
-        "SU-1935370": {
+        "SU-1941043": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to block/hide videos with a certain word in the title on YouTube?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1935370/how-to-block-hide-videos-with-a-certain-word-in-the-title-on-youtube"
+            "root_cause": "用戶回報終端技術障礙: Prevent Firefox&#39;s tendency to lock scrolling to orthogonal",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941043/prevent-firefoxs-tendency-to-lock-scrolling-to-orthogonal"
         },
-        "SU-331220": {
+        "SU-1841423": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: WMIC Path &lt;what&gt;? WMIC Class &lt;what&gt;?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/331220/wmic-path-what-wmic-class-what"
+            "root_cause": "用戶回報終端技術障礙: Audacity: Record both outgoing and incoming sound of a Zoom session",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1841423/audacity-record-both-outgoing-and-incoming-sound-of-a-zoom-session"
         },
-        "SU-1609319": {
+        "SU-90618": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to stop the creation of “.localized” files on macOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1609319/how-to-stop-the-creation-of-localized-files-on-macos"
+            "root_cause": "用戶回報終端技術障礙: Indesign Import XML into Automatic Page generation, data merge",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/90618/indesign-import-xml-into-automatic-page-generation-data-merge"
         },
-        "SU-1941038": {
+        "SU-1940897": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: BeyondTrust zooming issues : is this a known situation?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941038/beyondtrust-zooming-issues-is-this-a-known-situation"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 Pro is stuck on 25H2 and does not offer 26H2, even with ‘Get the latest updates’ turned on",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940897/windows-11-pro-is-stuck-on-25h2-and-does-not-offer-26h2-even-with-get-the-late"
         }
     }
 }
