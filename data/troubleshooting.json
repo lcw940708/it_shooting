@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-20 06:58:22",
+    "updated": "2026-10-20 13:11:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1261678": {
+        "SU-1941053": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I speed up a video by 60x with FFmpeg?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1261678/how-do-i-speed-up-a-video-by-60x-with-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: Why is an older Core i9 better than a newer Core Ultra 9?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941053/why-is-an-older-core-i9-better-than-a-newer-core-ultra-9"
         },
-        "SU-1618537": {
+        "SU-1337800": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Use clipboard through WSL?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1618537/use-clipboard-through-wsl"
+            "root_cause": "用戶回報終端技術障礙: How to make a Command Prompt shortcut to open a different directory",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1337800/how-to-make-a-command-prompt-shortcut-to-open-a-different-directory"
         },
-        "SU-1940959": {
+        "SU-1940718": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 backup to external disk error - How can I resolve issue of drive/backup files not being recognized?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-backup-to-external-disk-error-how-can-i-resolve-issue-of-drive-back"
+            "root_cause": "用戶回報終端技術障礙: Edge &quot;Capture full page&quot; screenshot is saved smaller than the page, text gets blurry",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940718/edge-capture-full-page-screenshot-is-saved-smaller-than-the-page-text-gets-bl"
         },
-        "SU-1940689": {
+        "SU-694761": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there a view (or another program) who can show the &quot;General&quot; information from the Windows event log?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940689/is-there-a-view-or-another-program-who-can-show-the-general-information-from"
+            "root_cause": "用戶回報終端技術障礙: How to run cmd with Admin privileges using command line",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/694761/how-to-run-cmd-with-admin-privileges-using-command-line"
         },
-        "SU-1592365": {
+        "SU-1941051": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Converting scanned PDF from white background to black",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1592365/converting-scanned-pdf-from-white-background-to-black"
+            "root_cause": "用戶回報終端技術障礙: What is this symbol above my selected text in Outlook?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941051/what-is-this-symbol-above-my-selected-text-in-outlook"
         }
     }
 }
