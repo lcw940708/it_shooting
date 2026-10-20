@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-20 00:51:44",
+    "updated": "2026-10-20 06:58:22",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1637877": {
+        "SU-1261678": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to install an old Logitech QuickCam 4000 on Windows 10",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1637877/how-to-install-an-old-logitech-quickcam-4000-on-windows-10"
+            "root_cause": "用戶回報終端技術障礙: How do I speed up a video by 60x with FFmpeg?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1261678/how-do-i-speed-up-a-video-by-60x-with-ffmpeg"
         },
-        "SU-1941043": {
+        "SU-1618537": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Prevent Firefox&#39;s tendency to lock scrolling to orthogonal",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941043/prevent-firefoxs-tendency-to-lock-scrolling-to-orthogonal"
+            "root_cause": "用戶回報終端技術障礙: Use clipboard through WSL?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1618537/use-clipboard-through-wsl"
         },
-        "SU-1841423": {
+        "SU-1940959": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Audacity: Record both outgoing and incoming sound of a Zoom session",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1841423/audacity-record-both-outgoing-and-incoming-sound-of-a-zoom-session"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 backup to external disk error - How can I resolve issue of drive/backup files not being recognized?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940959/windows-11-backup-to-external-disk-error-how-can-i-resolve-issue-of-drive-back"
         },
-        "SU-90618": {
+        "SU-1940689": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Indesign Import XML into Automatic Page generation, data merge",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/90618/indesign-import-xml-into-automatic-page-generation-data-merge"
+            "root_cause": "用戶回報終端技術障礙: Is there a view (or another program) who can show the &quot;General&quot; information from the Windows event log?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940689/is-there-a-view-or-another-program-who-can-show-the-general-information-from"
         },
-        "SU-1940897": {
+        "SU-1592365": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 Pro is stuck on 25H2 and does not offer 26H2, even with ‘Get the latest updates’ turned on",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940897/windows-11-pro-is-stuck-on-25h2-and-does-not-offer-26h2-even-with-get-the-late"
+            "root_cause": "用戶回報終端技術障礙: Converting scanned PDF from white background to black",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1592365/converting-scanned-pdf-from-white-background-to-black"
         }
     }
 }
