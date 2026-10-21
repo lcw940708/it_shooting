@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-21 09:01:54",
+    "updated": "2026-10-21 14:47:41",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1292512": {
+        "SU-1941051": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Listen for screen off event and disable mouse in Windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1292512/listen-for-screen-off-event-and-disable-mouse-in-windows"
+            "root_cause": "用戶回報終端技術障礙: What is this symbol above my selected text in Outlook?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941051/what-is-this-symbol-above-my-selected-text-in-outlook"
         },
-        "SU-1941063": {
+        "SU-1940718": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I struggling to install Xubuntu on a new computer?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941063/why-am-i-struggling-to-install-xubuntu-on-a-new-computer"
+            "root_cause": "用戶回報終端技術障礙: Edge &quot;Capture full page&quot; screenshot is saved smaller than the page, text gets blurry",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940718/edge-capture-full-page-screenshot-is-saved-smaller-than-the-page-text-gets-bl"
         },
-        "SU-1811028": {
+        "SU-1941043": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Wireguard Error &quot;Unable to create network adapter&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1811028/wireguard-error-unable-to-create-network-adapter"
+            "root_cause": "用戶回報終端技術障礙: How to prevent Firefox&#39;s tendency to lock scrolling to an orthogonal axis?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941043/how-to-prevent-firefoxs-tendency-to-lock-scrolling-to-an-orthogonal-axis"
         },
-        "SU-533595": {
+        "SU-517986": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is the Google Chrome keyboard shortcut to pin/unpin a tab?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/533595/what-is-the-google-chrome-keyboard-shortcut-to-pin-unpin-a-tab"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to delete some pages of a PDF document?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/517986/is-it-possible-to-delete-some-pages-of-a-pdf-document"
         },
-        "SU-1940845": {
+        "SU-1893676": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to have control over the automatic mounting of USB drives on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/how-to-have-control-over-the-automatic-mounting-of-usb-drives-on-windows"
+            "root_cause": "用戶回報終端技術障礙: How to download Windows 10 ISO for Linux USB creation in 2025?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1893676/how-to-download-windows-10-iso-for-linux-usb-creation-in-2025"
         }
     }
 }
