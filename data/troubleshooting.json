@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-21 02:49:51",
+    "updated": "2026-10-21 09:01:54",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1164368": {
+        "SU-1292512": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I fully kill a program and/or Python code running on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1164368/how-can-i-fully-kill-a-program-and-or-python-code-running-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Listen for screen off event and disable mouse in Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1292512/listen-for-screen-off-event-and-disable-mouse-in-windows"
         },
-        "SU-1809413": {
+        "SU-1941063": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there a command line in ChromeOS which is equivalent to the terminal in Linux?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1809413/is-there-a-command-line-in-chromeos-which-is-equivalent-to-the-terminal-in-linux"
+            "root_cause": "用戶回報終端技術障礙: Why am I struggling to install Xubuntu on a new computer?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941063/why-am-i-struggling-to-install-xubuntu-on-a-new-computer"
         },
-        "SU-429940": {
+        "SU-1811028": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to start-up desktop shortcuts when Windows starts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/429940/how-to-start-up-desktop-shortcuts-when-windows-starts"
+            "root_cause": "用戶回報終端技術障礙: Wireguard Error &quot;Unable to create network adapter&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1811028/wireguard-error-unable-to-create-network-adapter"
         },
-        "SU-1776488": {
+        "SU-533595": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t Windows 11 remote desktopremember domain name / removes domain name every time?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1776488/why-doesnt-windows-11-remote-desktopremember-domain-name-removes-domain-name"
+            "root_cause": "用戶回報終端技術障礙: What is the Google Chrome keyboard shortcut to pin/unpin a tab?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/533595/what-is-the-google-chrome-keyboard-shortcut-to-pin-unpin-a-tab"
         },
-        "SU-1941053": {
+        "SU-1940845": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is an older Core i9 better than a newer Core Ultra 9?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941053/why-is-an-older-core-i9-better-than-a-newer-core-ultra-9"
+            "root_cause": "用戶回報終端技術障礙: How to have control over the automatic mounting of USB drives on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940845/how-to-have-control-over-the-automatic-mounting-of-usb-drives-on-windows"
         }
     }
 }
