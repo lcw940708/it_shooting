@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-21 14:47:41",
+    "updated": "2026-10-21 19:51:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941051": {
+        "SU-1941023": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is this symbol above my selected text in Outlook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941051/what-is-this-symbol-above-my-selected-text-in-outlook"
+            "root_cause": "用戶回報終端技術障礙: List processes with CAP_LINUX_IMMUTABLE capability",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941023/list-processes-with-cap-linux-immutable-capability"
         },
-        "SU-1940718": {
+        "SU-1941082": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Edge &quot;Capture full page&quot; screenshot is saved smaller than the page, text gets blurry",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940718/edge-capture-full-page-screenshot-is-saved-smaller-than-the-page-text-gets-bl"
+            "root_cause": "用戶回報終端技術障礙: How to Get Rid of Space Above FN Separator?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941082/how-to-get-rid-of-space-above-fn-separator"
         },
-        "SU-1941043": {
+        "SU-981100": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent Firefox&#39;s tendency to lock scrolling to an orthogonal axis?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941043/how-to-prevent-firefoxs-tendency-to-lock-scrolling-to-an-orthogonal-axis"
+            "root_cause": "用戶回報終端技術障礙: Why can’t I download macOS 10.11 (El Capitan)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/981100/why-can-t-i-download-macos-10-11-el-capitan"
         },
-        "SU-517986": {
+        "SU-330661": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to delete some pages of a PDF document?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/517986/is-it-possible-to-delete-some-pages-of-a-pdf-document"
+            "root_cause": "用戶回報終端技術障礙: How to install a specific package version with yum?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/330661/how-to-install-a-specific-package-version-with-yum"
         },
-        "SU-1893676": {
+        "SU-1941080": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to download Windows 10 ISO for Linux USB creation in 2025?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1893676/how-to-download-windows-10-iso-for-linux-usb-creation-in-2025"
+            "root_cause": "用戶回報終端技術障礙: Is My Raspberry Pi 5 killing SD Cards?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941080/is-my-raspberry-pi-5-killing-sd-cards"
         }
     }
 }
