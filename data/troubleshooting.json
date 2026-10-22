@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-22 09:04:19",
+    "updated": "2026-10-22 14:47:47",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-390011": {
+        "SU-1941102": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Fuzzy find within file in Vim",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/390011/fuzzy-find-within-file-in-vim"
+            "root_cause": "用戶回報終端技術障礙: Unable to change the RGB color of pre-installed case fans",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941102/unable-to-change-the-rgb-color-of-pre-installed-case-fans"
         },
-        "SU-1941092": {
+        "SU-164489": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Copying Files and Hard Links from one hard drive to another",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941092/copying-files-and-hard-links-from-one-hard-drive-to-another"
+            "root_cause": "用戶回報終端技術障礙: Is there a Google Chrome extension that acts like Firefox&#39;s keyword quicksearch bookmarks?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/164489/is-there-a-google-chrome-extension-that-acts-like-firefoxs-keyword-quicksearch"
         },
-        "SU-1333563": {
+        "SU-540076": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disable history in Chromium?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1333563/disable-history-in-chromium"
+            "root_cause": "用戶回報終端技術障礙: How to add keyword to bookmark in Chrome?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/540076/how-to-add-keyword-to-bookmark-in-chrome"
         },
-        "SU-1941088": {
+        "SU-1733615": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: how to prevent apache getting stuck after fail2ban jail triggers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941088/how-to-prevent-apache-getting-stuck-after-fail2ban-jail-triggers"
+            "root_cause": "用戶回報終端技術障礙: How can I add a full screen popup alert for Google Calendar events on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1733615/how-can-i-add-a-full-screen-popup-alert-for-google-calendar-events-on-windows"
         },
-        "SU-1941087": {
+        "SU-1941095": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: are process stats supposed to be available from /server-status?auto?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941087/are-process-stats-supposed-to-be-available-from-server-statusauto"
+            "root_cause": "用戶回報終端技術障礙: How to fix CMD on Windows 11 taskbar?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-fix-cmd-on-windows-11-taskbar"
         }
     }
 }
