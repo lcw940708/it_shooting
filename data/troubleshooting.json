@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-23 19:41:44",
+    "updated": "2026-10-23 22:48:38",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-351231": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can you make MS Word display a black background with white text, but print the inverse?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/351231/can-you-make-ms-word-display-a-black-background-with-white-text-but-print-the-i"
+        },
+        "SU-1941136": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to copy all questions and replies by the Google Gemini AI?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941136/how-to-copy-all-questions-and-replies-by-the-google-gemini-ai"
+        },
+        "SU-1941137": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Russound MCA-88 not playing audio",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941137/russound-mca-88-not-playing-audio"
+        },
         "SU-1941135": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Is the latest upgrade to Windows 11 good to apply?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: A series of DeviceSetupManager warnings in Windows 10 event logs",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/952890/a-series-of-devicesetupmanager-warnings-in-windows-10-event-logs"
-        },
-        "SU-1941092": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to copy files and hard links from one hard drive to another?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941092/how-to-copy-files-and-hard-links-from-one-hard-drive-to-another"
-        },
-        "SU-1941133": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: GitHub Copilot Desktop: failed to create session: RPC error -32603",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941133/github-copilot-desktop-failed-to-create-session-rpc-error-32603"
-        },
-        "SU-1941095": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to pin CMD on the Windows 11 taskbar?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-pin-cmd-on-the-windows-11-taskbar"
         }
     }
 }
