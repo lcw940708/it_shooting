@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-23 14:34:14",
+    "updated": "2026-10-23 19:41:44",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941126": {
+        "SU-1941135": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Upgrade to Transmission 3.00",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941126/upgrade-to-transmission-3-00"
+            "root_cause": "用戶回報終端技術障礙: Is the latest upgrade to Windows 11 good to apply?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941135/is-the-latest-upgrade-to-windows-11-good-to-apply"
         },
-        "SU-1238880": {
+        "SU-952890": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Sysprep was not able to validate Windows Installation",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1238880/sysprep-was-not-able-to-validate-windows-installation"
+            "root_cause": "用戶回報終端技術障礙: A series of DeviceSetupManager warnings in Windows 10 event logs",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/952890/a-series-of-devicesetupmanager-warnings-in-windows-10-event-logs"
         },
-        "SU-1812169": {
+        "SU-1941092": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: 2nd monitor not displaying at native resolution",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812169/2nd-monitor-not-displaying-at-native-resolution"
+            "root_cause": "用戶回報終端技術障礙: How to copy files and hard links from one hard drive to another?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941092/how-to-copy-files-and-hard-links-from-one-hard-drive-to-another"
         },
-        "SU-1786066": {
+        "SU-1941133": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: W11 context menu: moving &quot;Create a shortcut&quot; to primary context menu",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1786066/w11-context-menu-moving-create-a-shortcut-to-primary-context-menu"
+            "root_cause": "用戶回報終端技術障礙: GitHub Copilot Desktop: failed to create session: RPC error -32603",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941133/github-copilot-desktop-failed-to-create-session-rpc-error-32603"
         },
-        "SU-1941105": {
+        "SU-1941095": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to get apps enabled in zoom meeting toolbar when already enabled in advanced settings?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941105/how-to-get-apps-enabled-in-zoom-meeting-toolbar-when-already-enabled-in-advanced"
+            "root_cause": "用戶回報終端技術障礙: How to pin CMD on the Windows 11 taskbar?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-pin-cmd-on-the-windows-11-taskbar"
         }
     }
 }
