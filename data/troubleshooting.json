@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-23 08:59:01",
+    "updated": "2026-10-23 14:34:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1419833": {
+        "SU-1941126": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there a device or executable on Windows that can provide cryptographically secure random bytes via CMD or Powershell?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1419833/is-there-a-device-or-executable-on-windows-that-can-provide-cryptographically-se"
+            "root_cause": "用戶回報終端技術障礙: Upgrade to Transmission 3.00",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941126/upgrade-to-transmission-3-00"
         },
-        "SU-1941111": {
+        "SU-1238880": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t the internal network on a Hypervisor get an internet connection?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941111/why-can-t-the-internal-network-on-a-hypervisor-get-an-internet-connection"
+            "root_cause": "用戶回報終端技術障礙: Sysprep was not able to validate Windows Installation",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1238880/sysprep-was-not-able-to-validate-windows-installation"
         },
-        "SU-1941088": {
+        "SU-1812169": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent Apache getting stuck after Fail2Ban jail triggers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941088/how-to-prevent-apache-getting-stuck-after-fail2ban-jail-triggers"
+            "root_cause": "用戶回報終端技術障礙: 2nd monitor not displaying at native resolution",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812169/2nd-monitor-not-displaying-at-native-resolution"
         },
-        "SU-1941001": {
+        "SU-1786066": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I search for past chat sessions in the GitHub Copilot Desktop app?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941001/how-can-i-search-for-past-chat-sessions-in-the-github-copilot-desktop-app"
+            "root_cause": "用戶回報終端技術障礙: W11 context menu: moving &quot;Create a shortcut&quot; to primary context menu",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1786066/w11-context-menu-moving-create-a-shortcut-to-primary-context-menu"
         },
-        "SU-1941112": {
+        "SU-1941105": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What to do when a binary RPM requires an older version of an installed package?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941112/what-to-do-when-a-binary-rpm-requires-an-older-version-of-an-installed-package"
+            "root_cause": "用戶回報終端技術障礙: How to get apps enabled in zoom meeting toolbar when already enabled in advanced settings?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941105/how-to-get-apps-enabled-in-zoom-meeting-toolbar-when-already-enabled-in-advanced"
         }
     }
 }
