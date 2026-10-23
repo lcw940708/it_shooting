@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-22 22:54:07",
+    "updated": "2026-10-23 02:51:58",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941088": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to prevent Apache getting stuck after Fail2Ban jail triggers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941088/how-to-prevent-apache-getting-stuck-after-fail2ban-jail-triggers"
+        },
+        "SU-1941001": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I search for past chat sessions in the GitHub Copilot Desktop app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941001/how-can-i-search-for-past-chat-sessions-in-the-github-copilot-desktop-app"
+        },
         "SU-1941111": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Internal Network On Hypervisor Can&#39;t Get Internet",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941111/internal-network-on-hypervisor-cant-get-internet"
+            "root_cause": "用戶回報終端技術障礙: Why can’t the internal network on a Hypervisor get an internet connection?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941111/why-can-t-the-internal-network-on-a-hypervisor-get-an-internet-connection"
+        },
+        "SU-1941112": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What to do when a binary RPM requires an older version of an installed package?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941112/what-to-do-when-a-binary-rpm-requires-an-older-version-of-an-installed-package"
         },
         "SU-1941102": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why am I unable to change the RGB color of pre-installed case fans?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941102/why-am-i-unable-to-change-the-rgb-color-of-pre-installed-case-fans"
-        },
-        "SU-931809": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my attempt to install Git on RHEL returns a 404 error?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/931809/why-does-my-attempt-to-install-git-on-rhel-returns-a-404-error"
-        },
-        "SU-1941109": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to sync a OneDrive directory if I can&#39;t register external Microsoft apps such as rclone?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941109/how-to-sync-a-onedrive-directory-if-i-cant-register-external-microsoft-apps-suc"
-        },
-        "SU-1941092": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to copy files and hard links from one hard drive to another?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941092/how-to-copy-files-and-hard-links-from-one-hard-drive-to-another"
         }
     }
 }
