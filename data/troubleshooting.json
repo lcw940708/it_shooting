@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-24 02:49:01",
+    "updated": "2026-10-24 08:33:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-302339": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Find Location of an IP with Accuracy to the City or Street Level",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/302339/find-location-of-an-ip-with-accuracy-to-the-city-or-street-level"
+        },
+        "SU-1941095": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to pin CMD on the Windows 11 taskbar?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-pin-cmd-on-the-windows-11-taskbar"
+        },
+        "SU-1941112": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What to do when a binary RPM requires an older version of an installed package?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941112/what-to-do-when-a-binary-rpm-requires-an-older-version-of-an-installed-package"
+        },
         "SU-1939831": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to fix HEVC files with &quot;Parameter Sets in Bitstream&quot; using ffmpeg",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Videos appear truncated unless with VLC and Films &amp; TV video readers",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1896463/videos-appear-truncated-unless-with-vlc-and-films-tv-video-readers"
-        },
-        "SU-1941137": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Russound MCA-88 not playing audio",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941137/russound-mca-88-not-playing-audio"
-        },
-        "SU-351231": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can you make MS Word display a black background with white text, but print the inverse?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/351231/can-you-make-ms-word-display-a-black-background-with-white-text-but-print-the-i"
-        },
-        "SU-1941136": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to copy all questions and replies by the Google Gemini AI?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941136/how-to-copy-all-questions-and-replies-by-the-google-gemini-ai"
         }
     }
 }
