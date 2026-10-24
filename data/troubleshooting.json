@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-23 22:48:38",
+    "updated": "2026-10-24 02:49:01",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1939831": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to fix HEVC files with &quot;Parameter Sets in Bitstream&quot; using ffmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939831/how-to-fix-hevc-files-with-parameter-sets-in-bitstream-using-ffmpeg"
+        },
+        "SU-1896463": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Videos appear truncated unless with VLC and Films &amp; TV video readers",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1896463/videos-appear-truncated-unless-with-vlc-and-films-tv-video-readers"
+        },
+        "SU-1941137": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Russound MCA-88 not playing audio",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941137/russound-mca-88-not-playing-audio"
+        },
         "SU-351231": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Can you make MS Word display a black background with white text, but print the inverse?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to copy all questions and replies by the Google Gemini AI?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941136/how-to-copy-all-questions-and-replies-by-the-google-gemini-ai"
-        },
-        "SU-1941137": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Russound MCA-88 not playing audio",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941137/russound-mca-88-not-playing-audio"
-        },
-        "SU-1941135": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is the latest upgrade to Windows 11 good to apply?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941135/is-the-latest-upgrade-to-windows-11-good-to-apply"
-        },
-        "SU-952890": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: A series of DeviceSetupManager warnings in Windows 10 event logs",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/952890/a-series-of-devicesetupmanager-warnings-in-windows-10-event-logs"
         }
     }
 }
