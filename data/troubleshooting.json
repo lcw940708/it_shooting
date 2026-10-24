@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-24 20:02:36",
+    "updated": "2026-10-24 23:54:32",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1777337": {
+        "SU-1941153": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: RoboCopy Resume large file",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1777337/robocopy-resume-large-file"
+            "root_cause": "用戶回報終端技術障礙: How can I prevent and detect bit rot in a hard drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941153/how-can-i-prevent-and-detect-bit-rot-in-a-hard-drive"
         },
-        "SU-1941148": {
+        "SU-1941152": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: If I recovered a file using btrfs restore, is the file that&#39;s recovered bit perfect to the original?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941148/if-i-recovered-a-file-using-btrfs-restore-is-the-file-thats-recovered-bit-perf"
+            "root_cause": "用戶回報終端技術障礙: Why can’t my CPU run any encryption reliably?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941152/why-can-t-my-cpu-run-any-encryption-reliably"
         },
-        "SU-1812561": {
+        "SU-1765370": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disconnect Microsoft account from my local account in Windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812561/disconnect-microsoft-account-from-my-local-account-in-windows-11"
+            "root_cause": "用戶回報終端技術障礙: Cannot locate .wslconfig in user profile on windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1765370/cannot-locate-wslconfig-in-user-profile-on-windows-11"
         },
-        "SU-1935666": {
+        "SU-1941092": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Some invalid files from action camera reported by ffmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1935666/some-invalid-files-from-action-camera-reported-by-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: How to copy files and hard links from one hard drive to another?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941092/how-to-copy-files-and-hard-links-from-one-hard-drive-to-another"
         },
-        "SU-1941111": {
+        "SU-1941095": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t the internal network on a Hypervisor get an internet connection?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941111/why-can-t-the-internal-network-on-a-hypervisor-get-an-internet-connection"
+            "root_cause": "用戶回報終端技術障礙: How to pin CMD on the Windows 11 taskbar?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-pin-cmd-on-the-windows-11-taskbar"
         }
     }
 }
