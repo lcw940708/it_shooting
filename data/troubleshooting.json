@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-24 08:33:00",
+    "updated": "2026-10-24 13:46:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1935666": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Some invalid files from action camera reported by ffmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1935666/some-invalid-files-from-action-camera-reported-by-ffmpeg"
+        },
+        "SU-1941111": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why can’t the internal network on a Hypervisor get an internet connection?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941111/why-can-t-the-internal-network-on-a-hypervisor-get-an-internet-connection"
+        },
+        "SU-1938490": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to attach an oddly named shared drive (“Mummy&#39;s Drive”) on Linux?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938490/how-to-attach-an-oddly-named-shared-drive-mummys-drive-on-linux"
+        },
         "SU-302339": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Find Location of an IP with Accuracy to the City or Street Level",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to pin CMD on the Windows 11 taskbar?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941095/how-to-pin-cmd-on-the-windows-11-taskbar"
-        },
-        "SU-1941112": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What to do when a binary RPM requires an older version of an installed package?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941112/what-to-do-when-a-binary-rpm-requires-an-older-version-of-an-installed-package"
-        },
-        "SU-1939831": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix HEVC files with &quot;Parameter Sets in Bitstream&quot; using ffmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939831/how-to-fix-hevc-files-with-parameter-sets-in-bitstream-using-ffmpeg"
-        },
-        "SU-1896463": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Videos appear truncated unless with VLC and Films &amp; TV video readers",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1896463/videos-appear-truncated-unless-with-vlc-and-films-tv-video-readers"
         }
     }
 }
