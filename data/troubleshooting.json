@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-25 14:02:44",
+    "updated": "2026-10-25 18:39:09",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1889440": {
+        "SU-1941088": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I show the omnibox (for URLs or searching) on the Chrome new tab page in fullscreen mode?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1889440/how-can-i-show-the-omnibox-for-urls-or-searching-on-the-chrome-new-tab-page-in"
+            "root_cause": "用戶回報終端技術障礙: How to prevent Apache getting stuck after Fail2Ban jail triggers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941088/how-to-prevent-apache-getting-stuck-after-fail2ban-jail-triggers"
+        },
+        "SU-1768809": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Linux: How to reset the bluetooth adapter without rebooting the operating system?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1768809/linux-how-to-reset-the-bluetooth-adapter-without-rebooting-the-operating-system"
         },
         "SU-1941165": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: &quot;Invalid use of property&quot; error when assigning a value in Word VBA",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941165/invalid-use-of-property-error-when-assigning-a-value-in-word-vba"
         },
-        "SU-1941166": {
+        "SU-1812561": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I make GitHub Copilot use descriptive names for session folders?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941166/how-can-i-make-github-copilot-use-descriptive-names-for-session-folders"
+            "root_cause": "用戶回報終端技術障礙: Disconnect Microsoft account from my local account in Windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812561/disconnect-microsoft-account-from-my-local-account-in-windows-11"
         },
-        "SU-1340139": {
+        "SU-1938390": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can&#39;t I access my FTP server from outside of my network?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1340139/why-cant-i-access-my-ftp-server-from-outside-of-my-network"
-        },
-        "SU-1689267": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Stop Windows from constantly creating the IE Favorites folder",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1689267/stop-windows-from-constantly-creating-the-ie-favorites-folder"
+            "root_cause": "用戶回報終端技術障礙: PDFTK file size decreased unexpectedly when I added pages from one pdf to another",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938390/pdftk-file-size-decreased-unexpectedly-when-i-added-pages-from-one-pdf-to-anothe"
         }
     }
 }
