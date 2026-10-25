@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-25 08:51:52",
+    "updated": "2026-10-25 14:02:44",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941148": {
+        "SU-1889440": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: If I recovered a file using btrfs restore, is the file that&#39;s recovered bit perfect to the original?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941148/if-i-recovered-a-file-using-btrfs-restore-is-the-file-thats-recovered-bit-perf"
+            "root_cause": "用戶回報終端技術障礙: How can I show the omnibox (for URLs or searching) on the Chrome new tab page in fullscreen mode?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1889440/how-can-i-show-the-omnibox-for-urls-or-searching-on-the-chrome-new-tab-page-in"
         },
-        "SU-227481": {
+        "SU-1941165": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: recovering web-browser form input data on refresh",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/227481/recovering-web-browser-form-input-data-on-refresh"
+            "root_cause": "用戶回報終端技術障礙: &quot;Invalid use of property&quot; error when assigning a value in Word VBA",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941165/invalid-use-of-property-error-when-assigning-a-value-in-word-vba"
         },
-        "SU-1768809": {
+        "SU-1941166": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Linux: How to reset the bluetooth adapter without rebooting the operating system?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1768809/linux-how-to-reset-the-bluetooth-adapter-without-rebooting-the-operating-system"
+            "root_cause": "用戶回報終端技術障礙: How can I make GitHub Copilot use descriptive names for session folders?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941166/how-can-i-make-github-copilot-use-descriptive-names-for-session-folders"
         },
-        "SU-1941158": {
+        "SU-1340139": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix a partition table total_sectors mismatch with drive size for VHD disk image",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941158/how-to-fix-a-partition-table-total-sectors-mismatch-with-drive-size-for-vhd-disk"
+            "root_cause": "用戶回報終端技術障礙: Why can&#39;t I access my FTP server from outside of my network?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1340139/why-cant-i-access-my-ftp-server-from-outside-of-my-network"
         },
-        "SU-1499923": {
+        "SU-1689267": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove a zero-width space on macOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1499923/how-to-remove-a-zero-width-space-on-macos"
+            "root_cause": "用戶回報終端技術障礙: Stop Windows from constantly creating the IE Favorites folder",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1689267/stop-windows-from-constantly-creating-the-ie-favorites-folder"
         }
     }
 }
