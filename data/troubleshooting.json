@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-25 18:39:09",
+    "updated": "2026-10-25 22:13:17",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1939019": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to store decryption keys of my BitLocker-encrypted 2nd internal drive to TPM so I don&#39;t have to enter the key on every boot in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939019/how-to-store-decryption-keys-of-my-bitlocker-encrypted-2nd-internal-drive-to-tpm"
+        },
+        "SU-1469959": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: PC How to record phone call - other side speech is NOT recorded?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1469959/pc-how-to-record-phone-call-other-side-speech-is-not-recorded"
+        },
         "SU-1941088": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to prevent Apache getting stuck after Fail2Ban jail triggers?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: &quot;Invalid use of property&quot; error when assigning a value in Word VBA",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941165/invalid-use-of-property-error-when-assigning-a-value-in-word-vba"
-        },
-        "SU-1812561": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disconnect Microsoft account from my local account in Windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1812561/disconnect-microsoft-account-from-my-local-account-in-windows-11"
-        },
-        "SU-1938390": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: PDFTK file size decreased unexpectedly when I added pages from one pdf to another",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938390/pdftk-file-size-decreased-unexpectedly-when-i-added-pages-from-one-pdf-to-anothe"
         }
     }
 }
