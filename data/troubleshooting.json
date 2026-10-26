@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-26 09:33:20",
+    "updated": "2026-10-26 16:24:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1541786": {
+        "SU-1934695": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Print all open tabs in a Chrome window",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1541786/print-all-open-tabs-in-a-chrome-window"
+            "root_cause": "用戶回報終端技術障礙: How to disable Ctrl + Q shortcut used to exit Foxit Reader on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934695/how-to-disable-ctrl-q-shortcut-used-to-exit-foxit-reader-on-windows"
         },
-        "SU-123338": {
+        "SU-1941203": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How print multiple independent pages in one print job?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/123338/how-print-multiple-independent-pages-in-one-print-job"
+            "root_cause": "用戶回報終端技術障礙: Stream Video from One Device on LAN and access from others using VLC",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941203/stream-video-from-one-device-on-lan-and-access-from-others-using-vlc"
         },
-        "SU-1597819": {
+        "SU-1941206": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Microsoft Outlook: How to add a shortcut for good looking quoting? (So that it is also permanently available.)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1597819/microsoft-outlook-how-to-add-a-shortcut-for-good-looking-quoting-so-that-it-i"
+            "root_cause": "用戶回報終端技術障礙: Running batch files on NAS",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941206/running-batch-files-on-nas"
         },
-        "SU-448585": {
+        "SU-1941196": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there an implementation of tmpfs for Mac OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/448585/is-there-an-implementation-of-tmpfs-for-mac-os-x"
+            "root_cause": "用戶回報終端技術障礙: Lenovo NAS - IX4-300D - coil whine from motherboard. How to identify and fix?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941196/lenovo-nas-ix4-300d-coil-whine-from-motherboard-how-to-identify-and-fix"
         },
-        "SU-1941178": {
+        "SU-1941204": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my pfSense DNS resolver not resolving my subdomains?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941178/why-is-my-pfsense-dns-resolver-not-resolving-my-subdomains"
+            "root_cause": "用戶回報終端技術障礙: Kubuntu keyboard layout shortcuts Ctrl+Shift+[number] are mapped to Ctrl+[Shift+number symbol in current layout], not usable in other layouts",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941204/kubuntu-keyboard-layout-shortcuts-ctrlshiftnumber-are-mapped-to-ctrlshift"
         }
     }
 }
