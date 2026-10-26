@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-26 16:24:02",
+    "updated": "2026-10-26 22:09:23",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1934695": {
+        "SU-1775293": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable Ctrl + Q shortcut used to exit Foxit Reader on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934695/how-to-disable-ctrl-q-shortcut-used-to-exit-foxit-reader-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Converting text files to docx via dotx",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775293/converting-text-files-to-docx-via-dotx"
         },
-        "SU-1941203": {
+        "SU-1076160": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Stream Video from One Device on LAN and access from others using VLC",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941203/stream-video-from-one-device-on-lan-and-access-from-others-using-vlc"
+            "root_cause": "用戶回報終端技術障礙: Make Chrome display only page (no tabs or URL bar)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1076160/make-chrome-display-only-page-no-tabs-or-url-bar"
+        },
+        "SU-655861": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I get my built-in webcam on my Windows 8 laptop to work again?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/655861/how-do-i-get-my-built-in-webcam-on-my-windows-8-laptop-to-work-again"
         },
         "SU-1941206": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Running batch files on NAS",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941206/running-batch-files-on-nas"
+            "root_cause": "用戶回報終端技術障礙: How to run Batch files on a NAS device?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941206/how-to-run-batch-files-on-a-nas-device"
         },
-        "SU-1941196": {
+        "SU-1941166": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Lenovo NAS - IX4-300D - coil whine from motherboard. How to identify and fix?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941196/lenovo-nas-ix4-300d-coil-whine-from-motherboard-how-to-identify-and-fix"
-        },
-        "SU-1941204": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Kubuntu keyboard layout shortcuts Ctrl+Shift+[number] are mapped to Ctrl+[Shift+number symbol in current layout], not usable in other layouts",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941204/kubuntu-keyboard-layout-shortcuts-ctrlshiftnumber-are-mapped-to-ctrlshift"
+            "root_cause": "用戶回報終端技術障礙: How can I make GitHub Copilot use descriptive names for session folders?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941166/how-can-i-make-github-copilot-use-descriptive-names-for-session-folders"
         }
     }
 }
