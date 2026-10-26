@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-26 02:38:35",
+    "updated": "2026-10-26 09:33:20",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1023898": {
+        "SU-1541786": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to share applications between users in Windows 10?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1023898/how-to-share-applications-between-users-in-windows-10"
+            "root_cause": "用戶回報終端技術障礙: Print all open tabs in a Chrome window",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1541786/print-all-open-tabs-in-a-chrome-window"
         },
-        "SU-1941152": {
+        "SU-123338": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t my CPU run any encryption reliably?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941152/why-can-t-my-cpu-run-any-encryption-reliably"
+            "root_cause": "用戶回報終端技術障礙: How print multiple independent pages in one print job?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/123338/how-print-multiple-independent-pages-in-one-print-job"
         },
-        "SU-746708": {
+        "SU-1597819": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my Focusrite Scarlett 2i4 no longer recognized?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/746708/why-is-my-focusrite-scarlett-2i4-no-longer-recognized"
+            "root_cause": "用戶回報終端技術障礙: Microsoft Outlook: How to add a shortcut for good looking quoting? (So that it is also permanently available.)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1597819/microsoft-outlook-how-to-add-a-shortcut-for-good-looking-quoting-so-that-it-i"
+        },
+        "SU-448585": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is there an implementation of tmpfs for Mac OS X?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/448585/is-there-an-implementation-of-tmpfs-for-mac-os-x"
         },
         "SU-1941178": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why is my pfSense DNS resolver not resolving my subdomains?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941178/why-is-my-pfsense-dns-resolver-not-resolving-my-subdomains"
-        },
-        "SU-636504": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to recover unsaved PSD file on macOS",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/636504/how-to-recover-unsaved-psd-file-on-macos"
         }
     }
 }
