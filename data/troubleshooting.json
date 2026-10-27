@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-27 15:39:26",
+    "updated": "2026-10-27 20:21:17",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940550": {
+        "SU-263486": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a &quot;Lease Does Not Exist&quot; error when running a Nextflow job while running a Docker prune command?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940550/why-am-i-experiencing-a-lease-does-not-exist-error-when-running-a-nextflow-job"
+            "root_cause": "用戶回報終端技術障礙: Getting date and time of system startup in Linux",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/263486/getting-date-and-time-of-system-startup-in-linux"
         },
-        "SU-1941223": {
+        "SU-1940881": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I keep my browser tabs from closing when Windows restarts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941223/how-can-i-keep-my-browser-tabs-from-closing-when-windows-restarts"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to install Windows 7 on an older MacBook Air via external DVD player?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940881/is-it-possible-to-install-windows-7-on-an-older-macbook-air-via-external-dvd-pla"
         },
-        "SU-1941166": {
+        "SU-1941233": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I make GitHub Copilot use descriptive names for session folders?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941166/how-can-i-make-github-copilot-use-descriptive-names-for-session-folders"
+            "root_cause": "用戶回報終端技術障礙: How to find password of an unknown wifi network",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941233/how-to-find-password-of-an-unknown-wifi-network"
         },
-        "SU-1941211": {
+        "SU-1941232": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I see in GitHub Copilot which plugins my organization requires in the GitHub Copilot desktop app?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941211/how-can-i-see-in-github-copilot-which-plugins-my-organization-requires-in-the-gi"
+            "root_cause": "用戶回報終端技術障礙: LynnaLab: Extracting data from a GUI-based program",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941232/lynnalab-extracting-data-from-a-gui-based-program"
         },
-        "SU-1941224": {
+        "SU-1941231": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Router Page Not Opening Even Though the Internet Is Working",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941224/router-page-not-opening-even-though-the-internet-is-working"
+            "root_cause": "用戶回報終端技術障礙: How do I display gridlines in Paint.net?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941231/how-do-i-display-gridlines-in-paint-net"
         }
     }
 }
