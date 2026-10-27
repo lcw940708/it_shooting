@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-27 03:13:32",
+    "updated": "2026-10-27 09:30:22",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1491104": {
+        "SU-1844355": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to copy SVG &#39;objects&#39; from a web page into a drawing program?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1491104/is-it-possible-to-copy-svg-objects-from-a-web-page-into-a-drawing-program"
+            "root_cause": "用戶回報終端技術障礙: How to convert .mbox to .pst using FLOSS or a script on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1844355/how-to-convert-mbox-to-pst-using-floss-or-a-script-on-windows"
         },
-        "SU-1939011": {
+        "SU-1941206": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: The term &#39;powershell&#39; is not recognized as the name of a cmdlet, function, script file, or operable program",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939011/the-term-powershell-is-not-recognized-as-the-name-of-a-cmdlet-function-scrip"
+            "root_cause": "用戶回報終端技術障礙: How to run Batch files on a NAS device?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941206/how-to-run-batch-files-on-a-nas-device"
         },
-        "SU-1424478": {
+        "SU-1803773": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can I hide native tabs at the top of Firefox?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1424478/can-i-hide-native-tabs-at-the-top-of-firefox"
+            "root_cause": "用戶回報終端技術障礙: Xbox One Controller not identifiable in Windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1803773/xbox-one-controller-not-identifiable-in-windows-11"
         },
-        "SU-1775293": {
+        "SU-1941126": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to convert thousands of text files to DOCx via DOTx?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775293/how-to-convert-thousands-of-text-files-to-docx-via-dotx"
+            "root_cause": "用戶回報終端技術障礙: How to upgrade to Transmission 3.00 on Linux BusyBox?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941126/how-to-upgrade-to-transmission-3-00-on-linux-busybox"
         },
-        "SU-1076160": {
+        "SU-1941163": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Make Chrome display only page (no tabs or URL bar)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1076160/make-chrome-display-only-page-no-tabs-or-url-bar"
+            "root_cause": "用戶回報終端技術障礙: How to expose a virtual drive on Windows for on-the-fly file reads over 50 MB without admin rights?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941163/how-to-expose-a-virtual-drive-on-windows-for-on-the-fly-file-reads-over-50-mb-wi"
         }
     }
 }
