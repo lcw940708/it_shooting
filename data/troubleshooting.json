@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-27 09:30:22",
+    "updated": "2026-10-27 15:39:26",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1844355": {
+        "SU-1940550": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to convert .mbox to .pst using FLOSS or a script on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1844355/how-to-convert-mbox-to-pst-using-floss-or-a-script-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a &quot;Lease Does Not Exist&quot; error when running a Nextflow job while running a Docker prune command?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940550/why-am-i-experiencing-a-lease-does-not-exist-error-when-running-a-nextflow-job"
         },
-        "SU-1941206": {
+        "SU-1941223": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to run Batch files on a NAS device?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941206/how-to-run-batch-files-on-a-nas-device"
+            "root_cause": "用戶回報終端技術障礙: How can I keep my browser tabs from closing when Windows restarts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941223/how-can-i-keep-my-browser-tabs-from-closing-when-windows-restarts"
         },
-        "SU-1803773": {
+        "SU-1941166": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Xbox One Controller not identifiable in Windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1803773/xbox-one-controller-not-identifiable-in-windows-11"
+            "root_cause": "用戶回報終端技術障礙: How can I make GitHub Copilot use descriptive names for session folders?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941166/how-can-i-make-github-copilot-use-descriptive-names-for-session-folders"
         },
-        "SU-1941126": {
+        "SU-1941211": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to upgrade to Transmission 3.00 on Linux BusyBox?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941126/how-to-upgrade-to-transmission-3-00-on-linux-busybox"
+            "root_cause": "用戶回報終端技術障礙: How can I see in GitHub Copilot which plugins my organization requires in the GitHub Copilot desktop app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941211/how-can-i-see-in-github-copilot-which-plugins-my-organization-requires-in-the-gi"
         },
-        "SU-1941163": {
+        "SU-1941224": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to expose a virtual drive on Windows for on-the-fly file reads over 50 MB without admin rights?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941163/how-to-expose-a-virtual-drive-on-windows-for-on-the-fly-file-reads-over-50-mb-wi"
+            "root_cause": "用戶回報終端技術障礙: Router Page Not Opening Even Though the Internet Is Working",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941224/router-page-not-opening-even-though-the-internet-is-working"
         }
     }
 }
