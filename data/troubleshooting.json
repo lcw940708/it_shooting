@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-27 20:21:17",
+    "updated": "2026-10-28 00:51:42",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-263486": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Getting date and time of system startup in Linux",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/263486/getting-date-and-time-of-system-startup-in-linux"
-        },
-        "SU-1940881": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to install Windows 7 on an older MacBook Air via external DVD player?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940881/is-it-possible-to-install-windows-7-on-an-older-macbook-air-via-external-dvd-pla"
-        },
-        "SU-1941233": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to find password of an unknown wifi network",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941233/how-to-find-password-of-an-unknown-wifi-network"
-        },
-        "SU-1941232": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: LynnaLab: Extracting data from a GUI-based program",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941232/lynnalab-extracting-data-from-a-gui-based-program"
-        },
         "SU-1941231": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I display gridlines in Paint.net?",
+            "root_cause": "用戶回報終端技術障礙: How do I display gridlines in Paint.NET?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941231/how-do-i-display-gridlines-in-paint-net"
+        },
+        "SU-1941241": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: linux default copy selection behaviour",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941241/linux-default-copy-selection-behaviour"
+        },
+        "SU-1786066": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: W11 context menu: moving &quot;Create a shortcut&quot; to primary context menu",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1786066/w11-context-menu-moving-create-a-shortcut-to-primary-context-menu"
+        },
+        "SU-1253440": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to remove date/time from the Windows 10 lock screen?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1253440/how-to-remove-date-time-from-the-windows-10-lock-screen"
+        },
+        "SU-1612546": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to use a local qBittorrent as way to control a remote qBittorrent server?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1612546/how-to-use-a-local-qbittorrent-as-way-to-control-a-remote-qbittorrent-server"
         }
     }
 }
