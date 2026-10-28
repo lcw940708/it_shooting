@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-28 14:45:53",
+    "updated": "2026-10-28 20:42:53",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1467001": {
+        "SU-1941261": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Using task list values as variables",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1467001/using-task-list-values-as-variables"
+            "root_cause": "用戶回報終端技術障礙: How to add short description to HTML title tag on ticket pages in Service Now?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941261/how-to-add-short-description-to-html-title-tag-on-ticket-pages-in-service-now"
         },
-        "SU-1941255": {
+        "SU-1851706": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: no access to router using Windows 10",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941255/no-access-to-router-using-windows-10"
+            "root_cause": "用戶回報終端技術障礙: How to make menu always visible in new IntelliJ IDEA?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1851706/how-to-make-menu-always-visible-in-new-intellij-idea"
         },
-        "SU-1941248": {
+        "SU-1000678": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can GitHub CoPilot export its own conversations",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941248/how-can-github-copilot-export-its-own-conversations"
+            "root_cause": "用戶回報終端技術障礙: Disable Win + Space keyboard layout switch in Windows 10",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1000678/disable-win-space-keyboard-layout-switch-in-windows-10"
         },
-        "SU-322578": {
+        "SU-1941260": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn’t “screen” -x show UTF-8 characters?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/322578/why-doesn-t-screen-x-show-utf-8-characters"
+            "root_cause": "用戶回報終端技術障礙: How do I find an HDMI port address for GPU pass through to VirtManager Windows guest on Debian PC?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941260/how-do-i-find-an-hdmi-port-address-for-gpu-pass-through-to-virtmanager-windows-g"
         },
-        "SU-1941253": {
+        "SU-1941262": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to do permanent file redirection on Windows 11?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941253/how-to-do-permanent-file-redirection-on-windows-11"
+            "root_cause": "用戶回報終端技術障礙: Why does Windows 11 tear down a strongSwan VPN connection?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941262/why-does-windows-11-tear-down-a-strongswan-vpn-connection"
         }
     }
 }
