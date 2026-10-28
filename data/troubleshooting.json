@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-28 00:51:42",
+    "updated": "2026-10-28 07:48:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -27,11 +27,6 @@
             "root_cause": "用戶回報終端技術障礙: How do I display gridlines in Paint.NET?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941231/how-do-i-display-gridlines-in-paint-net"
         },
-        "SU-1941241": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: linux default copy selection behaviour",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941241/linux-default-copy-selection-behaviour"
-        },
         "SU-1786066": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: W11 context menu: moving &quot;Create a shortcut&quot; to primary context menu",
@@ -46,6 +41,11 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to use a local qBittorrent as way to control a remote qBittorrent server?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1612546/how-to-use-a-local-qbittorrent-as-way-to-control-a-remote-qbittorrent-server"
+        },
+        "SU-373665": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Which program can open a .DJVU file?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/373665/which-program-can-open-a-djvu-file"
         }
     }
 }
