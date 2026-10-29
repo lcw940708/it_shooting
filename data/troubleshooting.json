@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-29 01:28:01",
+    "updated": "2026-10-29 07:53:57",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941270": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: My gmail is full how can i store my email data offline?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941270/my-gmail-is-full-how-can-i-store-my-email-data-offline"
+        },
+        "SU-1941253": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to do permanent file redirection on Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941253/how-to-do-permanent-file-redirection-on-windows-11"
+        },
+        "SU-1941268": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows 11 windows do not line up between identical monitors",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941268/windows-11-windows-do-not-line-up-between-identical-monitors"
+        },
         "SU-520527": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to set a command line execution time limit in Windows?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why can’t my CPU run any encryption reliably?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941152/why-can-t-my-cpu-run-any-encryption-reliably"
-        },
-        "SU-1941261": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to add short description to HTML title tag on ticket pages in Service Now?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941261/how-to-add-short-description-to-html-title-tag-on-ticket-pages-in-service-now"
-        },
-        "SU-1851706": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to make menu always visible in new IntelliJ IDEA?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1851706/how-to-make-menu-always-visible-in-new-intellij-idea"
-        },
-        "SU-1000678": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Disable Win + Space keyboard layout switch in Windows 10",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1000678/disable-win-space-keyboard-layout-switch-in-windows-10"
         }
     }
 }
