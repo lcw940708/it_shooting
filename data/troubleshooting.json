@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-29 20:47:06",
+    "updated": "2026-10-30 01:29:18",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1467001": {
+        "SU-1941292": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Using task list values as variables",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1467001/using-task-list-values-as-variables"
+            "root_cause": "用戶回報終端技術障礙: flameshot capture &gt; png by script. How to change quality of output image?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941292/flameshot-capture-png-by-script-how-to-change-quality-of-output-image"
+        },
+        "SU-1941290": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to save Shopify receipts in Firefox?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941290/how-to-save-shopify-receipts-in-firefox"
         },
         "SU-1710307": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Remote desktop shows horizonal scroll bar when maximized even there are space for it on local PC",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1710307/remote-desktop-shows-horizonal-scroll-bar-when-maximized-even-there-are-space-fo"
         },
-        "SU-1941268": {
+        "SU-372218": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn’t Windows 11 windows line up between identical monitors?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941268/why-doesn-t-windows-11-windows-line-up-between-identical-monitors"
+            "root_cause": "用戶回報終端技術障礙: How to stream Desktop using FFmpeg in Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/372218/how-to-stream-desktop-using-ffmpeg-in-windows"
         },
-        "SU-1934182": {
+        "SU-1548982": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What can I do to run “Microsoft Picture! Digital Image Pro” on a modern, 64 Bit Windows 11 computer?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1934182/what-can-i-do-to-run-microsoft-picture-digital-image-pro-on-a-modern-64-bit"
-        },
-        "SU-814593": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: cannot access /dev/null: Permission denied, although crw-rw-rw- 1 root root 1, 3 Sep 21 12:05 /dev/null",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/814593/cannot-access-dev-null-permission-denied-although-crw-rw-rw-1-root-root-1-3"
+            "root_cause": "用戶回報終端技術障礙: Task Manager, Registry Editor, Control Panel, Group Policy Editor Dark Mode",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1548982/task-manager-registry-editor-control-panel-group-policy-editor-dark-mode"
         }
     }
 }
