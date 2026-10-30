@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-30 14:49:18",
+    "updated": "2026-10-30 20:17:50",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1505150": {
+        "SU-1941292": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Subtitle formats for youtube-dl",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1505150/subtitle-formats-for-youtube-dl"
-        },
-        "SU-1404804": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to color some text with .vtt and ffmpeg hardcode burn",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1404804/how-to-color-some-text-with-vtt-and-ffmpeg-hardcode-burn"
-        },
-        "SU-917958": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I stop OS X from combining spaces when I unplug a monitor?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/917958/how-can-i-stop-os-x-from-combining-spaces-when-i-unplug-a-monitor"
+            "root_cause": "用戶回報終端技術障礙: How to change quality of output image with Flameshot capture to PNG by script?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941292/how-to-change-quality-of-output-image-with-flameshot-capture-to-png-by-script"
         },
         "SU-1941300": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Eizo FlexScan EV2795/EV2781 wake up problems",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941300/eizo-flexscan-ev2795-ev2781-wake-up-problems"
         },
-        "SU-1941292": {
+        "SU-1941309": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to change quality of output image with Flameshot capture to PNG by script?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941292/how-to-change-quality-of-output-image-with-flameshot-capture-to-png-by-script"
+            "root_cause": "用戶回報終端技術障礙: What is wrong with using AI?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941309/what-is-wrong-with-using-ai"
+        },
+        "SU-1740705": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Cannot drag file into minimized Google Chrome browser",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1740705/cannot-drag-file-into-minimized-google-chrome-browser"
+        },
+        "SU-1809738": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Android File Transfer is not working on macOS since I upgraded to Ventura",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1809738/android-file-transfer-is-not-working-on-macos-since-i-upgraded-to-ventura"
         }
     }
 }
