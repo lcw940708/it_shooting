@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-31 07:51:20",
+    "updated": "2026-10-31 14:09:55",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941314": {
+        "SU-1941281": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I fix the error &quot;Invalid state: Received duplicate &lt;spake-message&gt;&quot; in Chrome Remote Desktop?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941314/how-can-i-fix-the-error-invalid-state-received-duplicate-spake-message-in-c"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 laptop screen remains off when being waken up from sleep",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941281/windows-11-laptop-screen-remains-off-when-being-waken-up-from-sleep"
         },
-        "SU-1494398": {
+        "SU-1941321": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is the PortableBaseLayer Disk",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1494398/what-is-the-portablebaselayer-disk"
+            "root_cause": "用戶回報終端技術障礙: Can scan from MSPaint but not from Photoshop, weird error messages",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/can-scan-from-mspaint-but-not-from-photoshop-weird-error-messages"
         },
-        "SU-1941315": {
+        "SU-1941202": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my hibernated laptop power on after charging?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941315/why-does-my-hibernated-laptop-power-on-after-charging"
+            "root_cause": "用戶回報終端技術障礙: How to get to the UEFI partition on a Zotac CI320 “Bay Trail” computer?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941202/how-to-get-to-the-uefi-partition-on-a-zotac-ci320-bay-trail-computer"
         },
-        "SU-1941316": {
+        "SU-1922058": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 guest&#39;s screen slanted (sheared diagonally) in VMware Workstation, and how can I fix it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941316/why-is-my-windows-11-guests-screen-slanted-sheared-diagonally-in-vmware-works"
+            "root_cause": "用戶回報終端技術障礙: Autohotkey v2 ahk2 open only one instance of calculator when calculator button is pressed",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1922058/autohotkey-v2-ahk2-open-only-one-instance-of-calculator-when-calculator-button-i"
         },
-        "SU-1607254": {
+        "SU-1941319": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why my USB disk is not showing up?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1607254/why-my-usb-disk-is-not-showing-up"
+            "root_cause": "用戶回報終端技術障礙: Graphics card confusion",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941319/graphics-card-confusion"
         }
     }
 }
