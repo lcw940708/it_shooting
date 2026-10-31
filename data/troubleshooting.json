@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-31 14:09:55",
+    "updated": "2026-10-31 19:39:23",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,15 +22,20 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941323": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to backup virtual server from within itself",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941323/how-to-backup-virtual-server-from-within-itself"
+        },
         "SU-1941281": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 laptop screen remains off when being waken up from sleep",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941281/windows-11-laptop-screen-remains-off-when-being-waken-up-from-sleep"
+            "root_cause": "用戶回報終端技術障礙: Why does my Windows 11 laptop screen remain off when being waken up from sleep?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941281/why-does-my-windows-11-laptop-screen-remain-off-when-being-waken-up-from-sleep"
         },
         "SU-1941321": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can scan from MSPaint but not from Photoshop, weird error messages",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/can-scan-from-mspaint-but-not-from-photoshop-weird-error-messages"
+            "root_cause": "用戶回報終端技術障礙: Why does Photoshop refuse to scan, complains about access denied or disk space, but MS Paint scans fine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/why-does-photoshop-refuse-to-scan-complains-about-access-denied-or-disk-space"
         },
         "SU-1941202": {
             "category": "IT Helpdesk / Community Super User",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Autohotkey v2 ahk2 open only one instance of calculator when calculator button is pressed",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1922058/autohotkey-v2-ahk2-open-only-one-instance-of-calculator-when-calculator-button-i"
-        },
-        "SU-1941319": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Graphics card confusion",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941319/graphics-card-confusion"
         }
     }
 }
