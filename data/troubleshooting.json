@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-31 01:19:48",
+    "updated": "2026-10-31 07:51:20",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941314": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I fix the error &quot;Invalid state: Received duplicate &lt;spake-message&gt;&quot; in Chrome Remote Desktop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941314/how-can-i-fix-the-error-invalid-state-received-duplicate-spake-message-in-c"
+        },
+        "SU-1494398": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What is the PortableBaseLayer Disk",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1494398/what-is-the-portablebaselayer-disk"
+        },
         "SU-1941315": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why does my hibernated laptop power on after charging?",
@@ -32,20 +42,10 @@
             "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 guest&#39;s screen slanted (sheared diagonally) in VMware Workstation, and how can I fix it?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941316/why-is-my-windows-11-guests-screen-slanted-sheared-diagonally-in-vmware-works"
         },
-        "SU-1941314": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I fix the error &quot;Invalid state: Received duplicate &lt;spake-message&gt;&quot; in Chrome Remote Desktop?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941314/how-can-i-fix-the-error-invalid-state-received-duplicate-spake-message-in-c"
-        },
         "SU-1607254": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why my USB disk is not showing up?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1607254/why-my-usb-disk-is-not-showing-up"
-        },
-        "SU-1941312": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: usb flash drive not found in windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941312/usb-flash-drive-not-found-in-windows-11"
         }
     }
 }
