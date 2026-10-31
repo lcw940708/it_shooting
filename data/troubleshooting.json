@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-30 20:17:50",
+    "updated": "2026-10-31 01:19:48",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941292": {
+        "SU-1941315": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to change quality of output image with Flameshot capture to PNG by script?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941292/how-to-change-quality-of-output-image-with-flameshot-capture-to-png-by-script"
+            "root_cause": "用戶回報終端技術障礙: Why does my hibernated laptop power on after charging?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941315/why-does-my-hibernated-laptop-power-on-after-charging"
         },
-        "SU-1941300": {
+        "SU-1941316": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Eizo FlexScan EV2795/EV2781 wake up problems",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941300/eizo-flexscan-ev2795-ev2781-wake-up-problems"
+            "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 guest&#39;s screen slanted (sheared diagonally) in VMware Workstation, and how can I fix it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941316/why-is-my-windows-11-guests-screen-slanted-sheared-diagonally-in-vmware-works"
         },
-        "SU-1941309": {
+        "SU-1941314": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is wrong with using AI?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941309/what-is-wrong-with-using-ai"
+            "root_cause": "用戶回報終端技術障礙: How can I fix the error &quot;Invalid state: Received duplicate &lt;spake-message&gt;&quot; in Chrome Remote Desktop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941314/how-can-i-fix-the-error-invalid-state-received-duplicate-spake-message-in-c"
         },
-        "SU-1740705": {
+        "SU-1607254": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Cannot drag file into minimized Google Chrome browser",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1740705/cannot-drag-file-into-minimized-google-chrome-browser"
+            "root_cause": "用戶回報終端技術障礙: Why my USB disk is not showing up?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1607254/why-my-usb-disk-is-not-showing-up"
         },
-        "SU-1809738": {
+        "SU-1941312": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Android File Transfer is not working on macOS since I upgraded to Ventura",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1809738/android-file-transfer-is-not-working-on-macos-since-i-upgraded-to-ventura"
+            "root_cause": "用戶回報終端技術障礙: usb flash drive not found in windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941312/usb-flash-drive-not-found-in-windows-11"
         }
     }
 }
