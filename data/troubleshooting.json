@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-10-31 22:57:30",
+    "updated": "2026-11-01 03:42:51",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941325": {
+        "SU-1941330": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Dpc latency and frame stutters",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941325/dpc-latency-and-frame-stutters"
+            "root_cause": "用戶回報終端技術障礙: Why is copying files to my USB 3.1-connected SD card only running at about 14 MB/s?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941330/why-is-copying-files-to-my-usb-3-1-connected-sd-card-only-running-at-about-14-mb"
         },
-        "SU-1266065": {
+        "SU-1941329": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to limit the headphone volume range in Windows 10?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1266065/how-to-limit-the-headphone-volume-range-in-windows-10"
+            "root_cause": "用戶回報終端技術障礙: Cnic images text to Excel",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941329/cnic-images-text-to-excel"
         },
         "SU-1941323": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to backup virtual server from within itself",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941323/how-to-backup-virtual-server-from-within-itself"
+            "root_cause": "用戶回報終端技術障礙: How to backup a virtual server from within itself?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941323/how-to-backup-a-virtual-server-from-within-itself"
         },
-        "SU-1941281": {
+        "SU-1941315": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my Windows 11 laptop screen remain off when being waken up from sleep?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941281/why-does-my-windows-11-laptop-screen-remain-off-when-being-waken-up-from-sleep"
+            "root_cause": "用戶回報終端技術障礙: Why does my hibernated laptop power on after charging?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941315/why-does-my-hibernated-laptop-power-on-after-charging"
         },
-        "SU-1941321": {
+        "SU-1941325": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Photoshop refuse to scan, complains about access denied or disk space, but MS Paint scans fine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/why-does-photoshop-refuse-to-scan-complains-about-access-denied-or-disk-space"
+            "root_cause": "用戶回報終端技術障礙: DPC latency and frame stutters",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941325/dpc-latency-and-frame-stutters"
         }
     }
 }
