@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-01 17:28:52",
+    "updated": "2026-11-01 21:34:07",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941342": {
+        "SU-1941346": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I log out of superuser.com website? I can&#39;t find the LOGOUT anywhere",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941342/how-do-i-log-out-of-superuser-com-website-i-cant-find-the-logout-anywhere"
+            "root_cause": "用戶回報終端技術障礙: Prevent 802.1X credentials dialog on MacOS with Ubiquiti MAC-based control",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/prevent-802-1x-credentials-dialog-on-macos-with-ubiquiti-mac-based-control"
         },
-        "SU-1941339": {
+        "SU-1941344": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: PHP security vulnerability: Internet Access is blocked for all users",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941339/php-security-vulnerability-internet-access-is-blocked-for-all-users"
+            "root_cause": "用戶回報終端技術障礙: Mysql source command fails with long path name",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/mysql-source-command-fails-with-long-path-name"
+        },
+        "SU-1744709": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does pressing &#39;b&#39;, &#39;n&#39;, &#39;=&#39;, F4, or F8 activate Windows Key? Is keyboard damaged?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1744709/why-does-pressing-b-n-f4-or-f8-activate-windows-key-is-keyboard-dam"
         },
         "SU-1941330": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why is copying files to my USB 3.1-connected SD card only running at about 14 MB/s?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941330/why-is-copying-files-to-my-usb-3-1-connected-sd-card-only-running-at-about-14-mb"
         },
-        "SU-1941262": {
+        "SU-1941342": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Windows 11 tear down a strongSwan VPN connection?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941262/why-does-windows-11-tear-down-a-strongswan-vpn-connection"
-        },
-        "SU-911842": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Strange issue in Downloading via HTTP(GET) proxy in IDM (int.D manager) vs IDA (Int.D accelerator)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/911842/strange-issue-in-downloading-via-httpget-proxy-in-idm-int-d-manager-vs-ida"
+            "root_cause": "用戶回報終端技術障礙: How do I log out of superuser.com website? I can&#39;t find the LOGOUT anywhere",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941342/how-do-i-log-out-of-superuser-com-website-i-cant-find-the-logout-anywhere"
         }
     }
 }
