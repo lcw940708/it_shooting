@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-02 08:42:34",
+    "updated": "2026-11-02 19:55:21",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941368": {
+        "SU-1941370": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: UEFI Shell on boot after reinstalling system drive: no FSx: entries in map",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941368/uefi-shell-on-boot-after-reinstalling-system-drive-no-fsx-entries-in-map"
+            "root_cause": "用戶回報終端技術障礙: Librewolf cookie whitelist is not working, no way to block all cookies",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941370/librewolf-cookie-whitelist-is-not-working-no-way-to-block-all-cookies"
         },
-        "SU-1824692": {
+        "SU-1941375": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Two separate menu issues with the MacBook Pro",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1824692/two-separate-menu-issues-with-the-macbook-pro"
+            "root_cause": "用戶回報終端技術障礙: Windows Store Missing From Settings Apps",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941375/windows-store-missing-from-settings-apps"
         },
-        "SU-1727934": {
+        "SU-1055144": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: vCenter - Unable to get deployment status",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1727934/vcenter-unable-to-get-deployment-status"
+            "root_cause": "用戶回報終端技術障礙: Why can&#39;t I open email attachments (files) in Microsoft Office?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1055144/why-cant-i-open-email-attachments-files-in-microsoft-office"
         },
-        "SU-1750084": {
+        "SU-528698": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Show seconds in system clock in Windows 11",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1750084/show-seconds-in-system-clock-in-windows-11"
+            "root_cause": "用戶回報終端技術障礙: How to check which font the system uses?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/528698/how-to-check-which-font-the-system-uses"
         },
-        "SU-67814": {
+        "SU-1774046": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Preventing laptop wake up when opening the lid on linux",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/67814/preventing-laptop-wake-up-when-opening-the-lid-on-linux"
+            "root_cause": "用戶回報終端技術障礙: Fonts in LibreOfficePortable\\Data\\fonts are not used",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1774046/fonts-in-libreofficeportable-data-fonts-are-not-used"
         }
     }
 }
