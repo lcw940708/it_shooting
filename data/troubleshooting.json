@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-01 21:34:07",
+    "updated": "2026-11-02 01:10:08",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-324648": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to get Windows to remember a recent admin authorization?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/324648/how-to-get-windows-to-remember-a-recent-admin-authorization"
+        },
         "SU-1941346": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Prevent 802.1X credentials dialog on MacOS with Ubiquiti MAC-based control",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/prevent-802-1x-credentials-dialog-on-macos-with-ubiquiti-mac-based-control"
+            "root_cause": "用戶回報終端技術障礙: How to prevent the 802.1x credentials dialog from constantly coming up on macOS with Ubiquiti MAC-based access control?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/how-to-prevent-the-802-1x-credentials-dialog-from-constantly-coming-up-on-macos"
+        },
+        "SU-1173951": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Divide a sum formula by the total of cells that have a value",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1173951/divide-a-sum-formula-by-the-total-of-cells-that-have-a-value"
+        },
+        "SU-374131": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Remember the administrator password on Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/374131/remember-the-administrator-password-on-windows"
         },
         "SU-1941344": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Mysql source command fails with long path name",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/mysql-source-command-fails-with-long-path-name"
-        },
-        "SU-1744709": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does pressing &#39;b&#39;, &#39;n&#39;, &#39;=&#39;, F4, or F8 activate Windows Key? Is keyboard damaged?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1744709/why-does-pressing-b-n-f4-or-f8-activate-windows-key-is-keyboard-dam"
-        },
-        "SU-1941330": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is copying files to my USB 3.1-connected SD card only running at about 14 MB/s?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941330/why-is-copying-files-to-my-usb-3-1-connected-sd-card-only-running-at-about-14-mb"
-        },
-        "SU-1941342": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I log out of superuser.com website? I can&#39;t find the LOGOUT anywhere",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941342/how-do-i-log-out-of-superuser-com-website-i-cant-find-the-logout-anywhere"
+            "root_cause": "用戶回報終端技術障礙: Why does my MySQL “source” command fail with long path name?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/why-does-my-mysql-source-command-fail-with-long-path-name"
         }
     }
 }
