@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-02 01:10:08",
+    "updated": "2026-11-02 08:42:34",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-324648": {
+        "SU-1941368": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to get Windows to remember a recent admin authorization?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/324648/how-to-get-windows-to-remember-a-recent-admin-authorization"
+            "root_cause": "用戶回報終端技術障礙: UEFI Shell on boot after reinstalling system drive: no FSx: entries in map",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941368/uefi-shell-on-boot-after-reinstalling-system-drive-no-fsx-entries-in-map"
         },
-        "SU-1941346": {
+        "SU-1824692": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent the 802.1x credentials dialog from constantly coming up on macOS with Ubiquiti MAC-based access control?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/how-to-prevent-the-802-1x-credentials-dialog-from-constantly-coming-up-on-macos"
+            "root_cause": "用戶回報終端技術障礙: Two separate menu issues with the MacBook Pro",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1824692/two-separate-menu-issues-with-the-macbook-pro"
         },
-        "SU-1173951": {
+        "SU-1727934": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Divide a sum formula by the total of cells that have a value",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1173951/divide-a-sum-formula-by-the-total-of-cells-that-have-a-value"
+            "root_cause": "用戶回報終端技術障礙: vCenter - Unable to get deployment status",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1727934/vcenter-unable-to-get-deployment-status"
         },
-        "SU-374131": {
+        "SU-1750084": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Remember the administrator password on Windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/374131/remember-the-administrator-password-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Show seconds in system clock in Windows 11",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1750084/show-seconds-in-system-clock-in-windows-11"
         },
-        "SU-1941344": {
+        "SU-67814": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my MySQL “source” command fail with long path name?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/why-does-my-mysql-source-command-fail-with-long-path-name"
+            "root_cause": "用戶回報終端技術障礙: Preventing laptop wake up when opening the lid on linux",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/67814/preventing-laptop-wake-up-when-opening-the-lid-on-linux"
         }
     }
 }
