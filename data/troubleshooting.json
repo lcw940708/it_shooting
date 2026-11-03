@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-02 19:55:21",
+    "updated": "2026-11-03 01:56:37",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,10 +22,15 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941370": {
+        "SU-1941346": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Librewolf cookie whitelist is not working, no way to block all cookies",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941370/librewolf-cookie-whitelist-is-not-working-no-way-to-block-all-cookies"
+            "root_cause": "用戶回報終端技術障礙: How to prevent the 802.1x credentials dialog from constantly coming up on macOS with Ubiquiti MAC-based access control?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/how-to-prevent-the-802-1x-credentials-dialog-from-constantly-coming-up-on-macos"
+        },
+        "SU-1941377": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is there any revocable notification in Microsoft Teams?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941377/is-there-any-revocable-notification-in-microsoft-teams"
         },
         "SU-1941375": {
             "category": "IT Helpdesk / Community Super User",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to check which font the system uses?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/528698/how-to-check-which-font-the-system-uses"
-        },
-        "SU-1774046": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Fonts in LibreOfficePortable\\Data\\fonts are not used",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1774046/fonts-in-libreofficeportable-data-fonts-are-not-used"
         }
     }
 }
