@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-03 17:27:36",
+    "updated": "2026-11-03 22:45:12",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941388": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Put two files with different capitalization into one compressed archive (jar)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941388/put-two-files-with-different-capitalization-into-one-compressed-archive-jar"
+        },
         "SU-1564114": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I quickly capture all of a websites MathML to use in Word?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Does Power BI have an equivalent of Metabase&#39;s X Ray feature (automatic insights and analysis)?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775117/does-power-bi-have-an-equivalent-of-metabases-x-ray-feature-automatic-insights"
-        },
-        "SU-348881": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I find out which program creates a file/folder in my C: drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/348881/how-can-i-find-out-which-program-creates-a-file-folder-in-my-c-drive"
         }
     }
 }
