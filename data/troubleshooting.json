@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-03 08:58:51",
+    "updated": "2026-11-03 17:27:36",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940443": {
+        "SU-1564114": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does saving a full page screenshot as JPEG barely shrink the file compared to PNG?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940443/why-does-saving-a-full-page-screenshot-as-jpeg-barely-shrink-the-file-compared-t"
+            "root_cause": "用戶回報終端技術障礙: How can I quickly capture all of a websites MathML to use in Word?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1564114/how-can-i-quickly-capture-all-of-a-websites-mathml-to-use-in-word"
         },
-        "SU-25538": {
+        "SU-334095": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to download files from command line in Windows like wget or curl",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/25538/how-to-download-files-from-command-line-in-windows-like-wget-or-curl"
+            "root_cause": "用戶回報終端技術障礙: How do I get a remind for emails I sent that remain unanswered after a period of time?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/334095/how-do-i-get-a-remind-for-emails-i-sent-that-remain-unanswered-after-a-period-of"
         },
-        "SU-1041334": {
+        "SU-1941330": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I open OneDrive log (ODL) files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1041334/how-do-i-open-onedrive-log-odl-files"
+            "root_cause": "用戶回報終端技術障礙: Why is copying files to my USB 3.1-connected SD card only running at about 14 MB/s?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941330/why-is-copying-files-to-my-usb-3-1-connected-sd-card-only-running-at-about-14-mb"
         },
-        "SU-1941346": {
+        "SU-1775117": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent the 802.1x credentials dialog from constantly coming up on macOS with Ubiquiti MAC-based access control?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941346/how-to-prevent-the-802-1x-credentials-dialog-from-constantly-coming-up-on-macos"
+            "root_cause": "用戶回報終端技術障礙: Does Power BI have an equivalent of Metabase&#39;s X Ray feature (automatic insights and analysis)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1775117/does-power-bi-have-an-equivalent-of-metabases-x-ray-feature-automatic-insights"
         },
-        "SU-1941377": {
+        "SU-348881": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there any revocable notification in Microsoft Teams?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941377/is-there-any-revocable-notification-in-microsoft-teams"
+            "root_cause": "用戶回報終端技術障礙: How can I find out which program creates a file/folder in my C: drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/348881/how-can-i-find-out-which-program-creates-a-file-folder-in-my-c-drive"
         }
     }
 }
