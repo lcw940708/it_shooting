@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-04 13:36:25",
+    "updated": "2026-11-04 20:37:52",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941395": {
+        "SU-1876918": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t macOS Monterey allow camera and microphone permissions?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941395/why-doesnt-macos-monterey-allow-camera-and-microphone-permissions"
+            "root_cause": "用戶回報終端技術障礙: Why is my Ugreen USB 3.0 switch not working with USB-A to USB-C cable?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1876918/why-is-my-ugreen-usb-3-0-switch-not-working-with-usb-a-to-usb-c-cable"
         },
-        "SU-1941388": {
+        "SU-1855236": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Put two files with different capitalization into one compressed archive (jar)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941388/put-two-files-with-different-capitalization-into-one-compressed-archive-jar"
+            "root_cause": "用戶回報終端技術障礙: Unknown video format in v4l2 --- is there an easy way to add support?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1855236/unknown-video-format-in-v4l2-is-there-an-easy-way-to-add-support"
         },
-        "SU-1936087": {
+        "SU-1927207": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to get &quot;pwsh.exe&quot; to exist and to work on my Windows-11 machine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1936087/how-to-get-pwsh-exe-to-exist-and-to-work-on-my-windows-11-machine"
+            "root_cause": "用戶回報終端技術障礙: How to remove the “Store” results from the Start Menu?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1927207/how-to-remove-the-store-results-from-the-start-menu"
         },
-        "SU-1941344": {
+        "SU-1941389": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my MySQL “source” command fail with long path name?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/why-does-my-mysql-source-command-fail-with-long-path-name"
+            "root_cause": "用戶回報終端技術障礙: DISM error 0x800f0915 &quot;Repair content could not be found,&quot; even using /Source and /LimitAccess",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941389/dism-error-0x800f0915-repair-content-could-not-be-found-even-using-source-an"
         },
-        "SU-1408639": {
+        "SU-43089": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Task Manager shows only 50% of RAM usage",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1408639/task-manager-shows-only-50-of-ram-usage"
+            "root_cause": "用戶回報終端技術障礙: Function keys with an external keyboard",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/43089/function-keys-with-an-external-keyboard"
         }
     }
 }
