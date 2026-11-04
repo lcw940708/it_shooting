@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-04 04:20:07",
+    "updated": "2026-11-04 13:36:25",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941268": {
+        "SU-1941395": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why don’t Windows 11 windows line up between identical monitors?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941268/why-don-t-windows-11-windows-line-up-between-identical-monitors"
-        },
-        "SU-1371796": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to change the exit shortcut for the new Chome version?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1371796/how-to-change-the-exit-shortcut-for-the-new-chome-version"
-        },
-        "SU-1399965": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is the Windows Store missing from my Windows 10 Lite system and is there any way I can install it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1399965/why-is-the-windows-store-missing-from-my-windows-10-lite-system-and-is-there-any"
-        },
-        "SU-1941389": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: DISM error 0x800f0915 &quot;Repair content could not be found,&quot; even using /Source and /LimitAccess",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941389/dism-error-0x800f0915-repair-content-could-not-be-found-even-using-source-an"
+            "root_cause": "用戶回報終端技術障礙: Why doesn&#39;t macOS Monterey allow camera and microphone permissions?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941395/why-doesnt-macos-monterey-allow-camera-and-microphone-permissions"
         },
         "SU-1941388": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Put two files with different capitalization into one compressed archive (jar)",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941388/put-two-files-with-different-capitalization-into-one-compressed-archive-jar"
+        },
+        "SU-1936087": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to get &quot;pwsh.exe&quot; to exist and to work on my Windows-11 machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1936087/how-to-get-pwsh-exe-to-exist-and-to-work-on-my-windows-11-machine"
+        },
+        "SU-1941344": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does my MySQL “source” command fail with long path name?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941344/why-does-my-mysql-source-command-fail-with-long-path-name"
+        },
+        "SU-1408639": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Task Manager shows only 50% of RAM usage",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1408639/task-manager-shows-only-50-of-ram-usage"
         }
     }
 }
