@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-04 20:37:52",
+    "updated": "2026-11-05 01:55:49",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1876918": {
+        "SU-204257": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my Ugreen USB 3.0 switch not working with USB-A to USB-C cable?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1876918/why-is-my-ugreen-usb-3-0-switch-not-working-with-usb-a-to-usb-c-cable"
+            "root_cause": "用戶回報終端技術障礙: Get ls to always show the modified time in hours/minutes",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/204257/get-ls-to-always-show-the-modified-time-in-hours-minutes"
         },
-        "SU-1855236": {
+        "SU-962633": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Unknown video format in v4l2 --- is there an easy way to add support?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1855236/unknown-video-format-in-v4l2-is-there-an-easy-way-to-add-support"
+            "root_cause": "用戶回報終端技術障礙: Windows 10 &quot;auto login&quot; after connecting via rdp (mstsc)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/962633/windows-10-auto-login-after-connecting-via-rdp-mstsc"
         },
-        "SU-1927207": {
+        "SU-1732867": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove the “Store” results from the Start Menu?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1927207/how-to-remove-the-store-results-from-the-start-menu"
+            "root_cause": "用戶回報終端技術障礙: How do I mount a local folder to a drive letter without SUBST?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1732867/how-do-i-mount-a-local-folder-to-a-drive-letter-without-subst"
         },
-        "SU-1941389": {
+        "SU-1903381": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: DISM error 0x800f0915 &quot;Repair content could not be found,&quot; even using /Source and /LimitAccess",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941389/dism-error-0x800f0915-repair-content-could-not-be-found-even-using-source-an"
+            "root_cause": "用戶回報終端技術障礙: how to reload keyboard layout in KDE using wayland?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1903381/how-to-reload-keyboard-layout-in-kde-using-wayland"
         },
-        "SU-43089": {
+        "SU-1570247": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Function keys with an external keyboard",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/43089/function-keys-with-an-external-keyboard"
+            "root_cause": "用戶回報終端技術障礙: How to view HEIC format pictures in Explorer and the Photos app on Windows 10?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1570247/how-to-view-heic-format-pictures-in-explorer-and-the-photos-app-on-windows-10"
         }
     }
 }
