@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-05 08:52:54",
+    "updated": "2026-11-05 17:47:58",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941413": {
+        "SU-1941421": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What do you usually use your VPS for?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941413/what-do-you-usually-use-your-vps-for"
+            "root_cause": "用戶回報終端技術障礙: SuperUser Browser Compatibility on Windows 10?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941421/superuser-browser-compatibility-on-windows-10"
         },
-        "SU-1508519": {
+        "SU-1246096": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Where can I view the size (in bytes) of whatever my clipboard is currently holding in Microsoft Windows 7?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1508519/where-can-i-view-the-size-in-bytes-of-whatever-my-clipboard-is-currently-holdi"
+            "root_cause": "用戶回報終端技術障礙: Excel - Subtract time from",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1246096/excel-subtract-time-from"
         },
-        "SU-933890": {
+        "SU-1941375": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I restart the plasma shell in KDE5?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/933890/how-do-i-restart-the-plasma-shell-in-kde5"
+            "root_cause": "用戶回報終端技術障礙: Windows Store Will Not Install Pale Moon Browser",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941375/windows-store-will-not-install-pale-moon-browser"
         },
-        "SU-1941410": {
+        "SU-1941418": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 26H2 new Start menu settings appear and disappear unpredictably",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941410/windows-11-26h2-new-start-menu-settings-appear-and-disappear-unpredictably"
+            "root_cause": "用戶回報終端技術障礙: How do I configure a service in IncusOS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941418/how-do-i-configure-a-service-in-incusos"
         },
-        "SU-1849822": {
+        "SU-1876918": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does FFmpeg extract my video&#39;s AAC stream with broken duration/bitrate information?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1849822/why-does-ffmpeg-extract-my-videos-aac-stream-with-broken-duration-bitrate-infor"
+            "root_cause": "用戶回報終端技術障礙: Why is my Ugreen USB 3.0 switch not working with a USB-A to USB-C cable?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1876918/why-is-my-ugreen-usb-3-0-switch-not-working-with-a-usb-a-to-usb-c-cable"
         }
     }
 }
