@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-05 01:55:49",
+    "updated": "2026-11-05 08:52:54",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-204257": {
+        "SU-1941413": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Get ls to always show the modified time in hours/minutes",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/204257/get-ls-to-always-show-the-modified-time-in-hours-minutes"
+            "root_cause": "用戶回報終端技術障礙: What do you usually use your VPS for?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941413/what-do-you-usually-use-your-vps-for"
         },
-        "SU-962633": {
+        "SU-1508519": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10 &quot;auto login&quot; after connecting via rdp (mstsc)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/962633/windows-10-auto-login-after-connecting-via-rdp-mstsc"
+            "root_cause": "用戶回報終端技術障礙: Where can I view the size (in bytes) of whatever my clipboard is currently holding in Microsoft Windows 7?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1508519/where-can-i-view-the-size-in-bytes-of-whatever-my-clipboard-is-currently-holdi"
         },
-        "SU-1732867": {
+        "SU-933890": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I mount a local folder to a drive letter without SUBST?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1732867/how-do-i-mount-a-local-folder-to-a-drive-letter-without-subst"
+            "root_cause": "用戶回報終端技術障礙: How do I restart the plasma shell in KDE5?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/933890/how-do-i-restart-the-plasma-shell-in-kde5"
         },
-        "SU-1903381": {
+        "SU-1941410": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: how to reload keyboard layout in KDE using wayland?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1903381/how-to-reload-keyboard-layout-in-kde-using-wayland"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 26H2 new Start menu settings appear and disappear unpredictably",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941410/windows-11-26h2-new-start-menu-settings-appear-and-disappear-unpredictably"
         },
-        "SU-1570247": {
+        "SU-1849822": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to view HEIC format pictures in Explorer and the Photos app on Windows 10?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1570247/how-to-view-heic-format-pictures-in-explorer-and-the-photos-app-on-windows-10"
+            "root_cause": "用戶回報終端技術障礙: Why does FFmpeg extract my video&#39;s AAC stream with broken duration/bitrate information?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1849822/why-does-ffmpeg-extract-my-videos-aac-stream-with-broken-duration-bitrate-infor"
         }
     }
 }
