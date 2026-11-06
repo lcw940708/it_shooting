@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-05 23:06:38",
+    "updated": "2026-11-06 04:36:41",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-383161": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Lossless cutting of MPEG TS files in Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/383161/lossless-cutting-of-mpeg-ts-files-in-windows"
+        },
+        "SU-1941429": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing a portlet display error on wiki skin in recent versions of MediaWiki?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941429/why-am-i-experiencing-a-portlet-display-error-on-wiki-skin-in-recent-versions-of"
+        },
+        "SU-1876918": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why is my Ugreen USB 3.0 switch not working with a USB-A to USB-C cable?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1876918/why-is-my-ugreen-usb-3-0-switch-not-working-with-a-usb-a-to-usb-c-cable"
+        },
         "SU-1941427": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Installing a secondary IMAP server for the purpose of sync&#39;ing and proxying IMAP from the primary remote IMAP server",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941427/installing-a-secondary-imap-server-for-the-purpose-of-syncing-and-proxying-imap"
         },
-        "SU-1550622": {
+        "SU-1941424": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Move WSL2 file system to another drive",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1550622/move-wsl2-file-system-to-another-drive"
-        },
-        "SU-1683590": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Reset windows 10 password",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1683590/reset-windows-10-password"
-        },
-        "SU-1601909": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I get Tails to boot?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1601909/how-can-i-get-tails-to-boot"
-        },
-        "SU-1195676": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to have Docker running inside of VMware?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1195676/is-it-possible-to-have-docker-running-inside-of-vmware"
+            "root_cause": "用戶回報終端技術障礙: Zoom Window disappears when monitors change",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941424/zoom-window-disappears-when-monitors-change"
         }
     }
 }
