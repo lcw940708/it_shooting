@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-07 01:29:38",
+    "updated": "2026-11-07 08:06:29",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,16 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-97554": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Scanning multiple pictures, then automatic cropping",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/97554/scanning-multiple-pictures-then-automatic-cropping"
+        },
+        "SU-1941418": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I configure a service in IncusOS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941418/how-do-i-configure-a-service-in-incusos"
+        },
         "SU-1941439": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I search GitHub Copilot Desktop chat history for sessions containing both specific text and an image?",
@@ -36,16 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: DISM error 0x800f0915 &quot;Repair content could not be found,&quot; even using /Source and /LimitAccess",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941389/dism-error-0x800f0915-repair-content-could-not-be-found-even-using-source-an"
-        },
-        "SU-1941427": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Installing a secondary IMAP server for the purpose of sync&#39;ing and proxying IMAP from the primary remote IMAP server",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941427/installing-a-secondary-imap-server-for-the-purpose-of-syncing-and-proxying-imap"
-        },
-        "SU-1941424": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Zoom Window disappears when monitors change",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941424/zoom-window-disappears-when-monitors-change"
         }
     }
 }
