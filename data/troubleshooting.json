@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-07 16:00:31",
+    "updated": "2026-11-07 21:17:12",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1077528": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why is ping faster through VPN than without a VPN?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1077528/why-is-ping-faster-through-vpn-than-without-a-vpn"
+        },
+        "SU-1940953": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I tell when OneDrive has finished syncing before running a backup?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940953/how-can-i-tell-when-onedrive-has-finished-syncing-before-running-a-backup"
+        },
+        "SU-1941436": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
+        },
+        "SU-1941443": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What are some legitimate ways to find publicly available contact information associated with a Gmail address and Apple ID?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941443/what-are-some-legitimate-ways-to-find-publicly-available-contact-information-ass"
+        },
         "SU-1941321": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why does Photoshop refuse to scan, complains about access denied or disk space, but MS Paint scans fine?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/why-does-photoshop-refuse-to-scan-complains-about-access-denied-or-disk-space"
-        },
-        "SU-1814873": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Installing GRUB2 to a USB drive as a backup bootloader",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1814873/installing-grub2-to-a-usb-drive-as-a-backup-bootloader"
-        },
-        "SU-1940805": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is a command to disable Smart App Control (Windows Security)? Can&#39;t access it via GUI settings",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940805/what-is-a-command-to-disable-smart-app-control-windows-security-cant-access"
-        },
-        "SU-97554": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Scanning multiple pictures, then automatic cropping",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/97554/scanning-multiple-pictures-then-automatic-cropping"
-        },
-        "SU-1941418": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I configure a service in IncusOS?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941418/how-do-i-configure-a-service-in-incusos"
         }
     }
 }
