@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-07 21:17:12",
+    "updated": "2026-11-08 00:59:21",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941424": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Zoom window disappears when monitors change",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941424/zoom-window-disappears-when-monitors-change"
+        },
+        "SU-1941446": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Any way or strategies to get root access to Amazon Panorama",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941446/any-way-or-strategies-to-get-root-access-to-amazon-panorama"
+        },
+        "SU-1941445": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I import Chrome cookies and passwords into GitHub Copilot Desktop’s built-in browser?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941445/how-can-i-import-chrome-cookies-and-passwords-into-github-copilot-desktop-s-buil"
+        },
         "SU-1077528": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why is ping faster through VPN than without a VPN?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How can I tell when OneDrive has finished syncing before running a backup?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940953/how-can-i-tell-when-onedrive-has-finished-syncing-before-running-a-backup"
-        },
-        "SU-1941436": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
-        },
-        "SU-1941443": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What are some legitimate ways to find publicly available contact information associated with a Gmail address and Apple ID?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941443/what-are-some-legitimate-ways-to-find-publicly-available-contact-information-ass"
-        },
-        "SU-1941321": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Photoshop refuse to scan, complains about access denied or disk space, but MS Paint scans fine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941321/why-does-photoshop-refuse-to-scan-complains-about-access-denied-or-disk-space"
         }
     }
 }
