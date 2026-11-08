@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-08 00:59:21",
+    "updated": "2026-11-08 08:25:39",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-358434": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to check if a binary is 32- or 64-bit on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/358434/how-to-check-if-a-binary-is-32-or-64-bit-on-windows"
+        },
+        "SU-1941448": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to use youtube without breaking mdm scalefusion on laptop",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941448/how-to-use-youtube-without-breaking-mdm-scalefusion-on-laptop"
+        },
+        "SU-1766064": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: multi boot: deleting a GPT partition with sgdisk before the Windows 10 partition breaks Windows 10 boot",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1766064/multi-boot-deleting-a-gpt-partition-with-sgdisk-before-the-windows-10-partition"
+        },
         "SU-1941424": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Zoom window disappears when monitors change",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Any way or strategies to get root access to Amazon Panorama",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941446/any-way-or-strategies-to-get-root-access-to-amazon-panorama"
-        },
-        "SU-1941445": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I import Chrome cookies and passwords into GitHub Copilot Desktop’s built-in browser?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941445/how-can-i-import-chrome-cookies-and-passwords-into-github-copilot-desktop-s-buil"
-        },
-        "SU-1077528": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is ping faster through VPN than without a VPN?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1077528/why-is-ping-faster-through-vpn-than-without-a-vpn"
-        },
-        "SU-1940953": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I tell when OneDrive has finished syncing before running a backup?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940953/how-can-i-tell-when-onedrive-has-finished-syncing-before-running-a-backup"
         }
     }
 }
