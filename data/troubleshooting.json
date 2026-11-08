@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-08 08:25:39",
+    "updated": "2026-11-08 16:28:24",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-358434": {
+        "SU-1941457": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to check if a binary is 32- or 64-bit on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/358434/how-to-check-if-a-binary-is-32-or-64-bit-on-windows"
+            "root_cause": "用戶回報終端技術障礙: FFmpeg live encoding with fixed 6s latency buffer (SDI to libx264 to ASI)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941457/ffmpeg-live-encoding-with-fixed-6s-latency-buffer-sdi-to-libx264-to-asi"
         },
-        "SU-1941448": {
+        "SU-1941451": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to use youtube without breaking mdm scalefusion on laptop",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941448/how-to-use-youtube-without-breaking-mdm-scalefusion-on-laptop"
+            "root_cause": "用戶回報終端技術障礙: Disable incoming IP addresses without DNs resolution in apache using fail2ban without HostnameLookups",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941451/disable-incoming-ip-addresses-without-dns-resolution-in-apache-using-fail2ban-wi"
         },
-        "SU-1766064": {
+        "SU-1113516": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: multi boot: deleting a GPT partition with sgdisk before the Windows 10 partition breaks Windows 10 boot",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1766064/multi-boot-deleting-a-gpt-partition-with-sgdisk-before-the-windows-10-partition"
+            "root_cause": "用戶回報終端技術障礙: Is it possible to view a page in Firefox using &quot;print&quot; media type?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1113516/is-it-possible-to-view-a-page-in-firefox-using-print-media-type"
         },
-        "SU-1941424": {
+        "SU-1936009": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Zoom window disappears when monitors change",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941424/zoom-window-disappears-when-monitors-change"
+            "root_cause": "用戶回報終端技術障礙: Why are videos very slow to open with VLC 3.0.23 in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1936009/why-are-videos-very-slow-to-open-with-vlc-3-0-23-in-windows-11"
         },
-        "SU-1941446": {
+        "SU-1935953": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Any way or strategies to get root access to Amazon Panorama",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941446/any-way-or-strategies-to-get-root-access-to-amazon-panorama"
+            "root_cause": "用戶回報終端技術障礙: Is an NVMe M.2 SSD faster than the SSD soldered in my laptop?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1935953/is-an-nvme-m-2-ssd-faster-than-the-ssd-soldered-in-my-laptop"
         }
     }
 }
