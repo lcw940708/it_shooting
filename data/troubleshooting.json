@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-09 08:56:15",
+    "updated": "2026-11-09 20:20:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1858774": {
+        "SU-1663606": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I getting operation not permitted with Homebrew?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1858774/why-am-i-getting-operation-not-permitted-with-homebrew"
+            "root_cause": "用戶回報終端技術障礙: Why does `history -s` wipe my command history?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1663606/why-does-history-s-wipe-my-command-history"
         },
-        "SU-1941451": {
+        "SU-810471": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable incoming IP addresses without DNs resolution in Apache using Fail2Ban without HostnameLookups?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941451/how-to-disable-incoming-ip-addresses-without-dns-resolution-in-apache-using-fail"
+            "root_cause": "用戶回報終端技術障礙: Remove .mp4 video top and bottom black bars using ffmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/810471/remove-mp4-video-top-and-bottom-black-bars-using-ffmpeg"
         },
-        "SU-1941468": {
+        "SU-430792": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to reproduce xf86-input-synaptics touchpad behaviour with Wayland/libinput?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941468/how-to-reproduce-xf86-input-synaptics-touchpad-behaviour-with-wayland-libinput"
+            "root_cause": "用戶回報終端技術障礙: How can I change a specific website&#39;s style?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/430792/how-can-i-change-a-specific-websites-style"
         },
-        "SU-1776689": {
+        "SU-1628796": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I mount an f2fs partitioned SD card on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1776689/how-do-i-mount-an-f2fs-partitioned-sd-card-on-windows"
+            "root_cause": "用戶回報終端技術障礙: How to lock position of tables in Microsoft Word",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1628796/how-to-lock-position-of-tables-in-microsoft-word"
         },
-        "SU-1093986": {
+        "SU-1941473": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Boot with wimboot a Windows x64 image on UEFI 32 bits",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1093986/boot-with-wimboot-a-windows-x64-image-on-uefi-32-bits"
+            "root_cause": "用戶回報終端技術障礙: How can I recover DuckDuckGo bookmarks with only access to its internal folder?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941473/how-can-i-recover-duckduckgo-bookmarks-with-only-access-to-its-internal-folder"
         }
     }
 }
