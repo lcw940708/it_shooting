@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-09 01:20:36",
+    "updated": "2026-11-09 08:56:15",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,11 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1858774": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why am I getting operation not permitted with Homebrew?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1858774/why-am-i-getting-operation-not-permitted-with-homebrew"
+        },
         "SU-1941451": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to disable incoming IP addresses without DNs resolution in Apache using Fail2Ban without HostnameLookups?",
@@ -41,11 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Boot with wimboot a Windows x64 image on UEFI 32 bits",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1093986/boot-with-wimboot-a-windows-x64-image-on-uefi-32-bits"
-        },
-        "SU-1152134": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: untrunc error while repairing mp4 file",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1152134/untrunc-error-while-repairing-mp4-file"
         }
     }
 }
