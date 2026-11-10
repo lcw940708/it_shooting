@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-10 12:00:10",
+    "updated": "2026-11-10 19:34:37",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1940422": {
+        "SU-1941485": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Fix a laptop that won&#39;t boot after failed OS install",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1940422/fix-a-laptop-that-wont-boot-after-failed-os-install"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 25H2 update fails to install - Restorations has no effect",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941485/windows-11-25h2-update-fails-to-install-restorations-has-no-effect"
+        },
+        "SU-1941486": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows 11 - Legacy application fails with &quot;Class not registered&quot; (DAO 3.5 CLSID)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941486/windows-11-legacy-application-fails-with-class-not-registered-dao-3-5-clsid"
+        },
+        "SU-1941476": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does Excel seem to be using cached data for linked cells?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/why-does-excel-seem-to-be-using-cached-data-for-linked-cells"
         },
         "SU-1941472": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How do I configure GnuPG in MSYS2?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941472/how-do-i-configure-gnupg-in-msys2"
         },
-        "SU-75271": {
+        "SU-1941382": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Starting Firefox with a specified profile from the dock (Mac OS X)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/75271/starting-firefox-with-a-specified-profile-from-the-dock-mac-os-x"
-        },
-        "SU-1697576": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Docker Desktop for Windows GUI is not starting",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1697576/docker-desktop-for-windows-gui-is-not-starting"
-        },
-        "SU-1941476": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Excel using cached data for linked cells",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/excel-using-cached-data-for-linked-cells"
+            "root_cause": "用戶回報終端技術障礙: Backslash not working from &#39;xdotool&#39; when connecting to Windows host over xfreerdp",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941382/backslash-not-working-from-xdotool-when-connecting-to-windows-host-over-xfreer"
         }
     }
 }
