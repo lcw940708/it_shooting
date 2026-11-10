@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-09 20:20:02",
+    "updated": "2026-11-10 03:55:32",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,25 +22,25 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1663606": {
+        "SU-1941472": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does `history -s` wipe my command history?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1663606/why-does-history-s-wipe-my-command-history"
+            "root_cause": "用戶回報終端技術障礙: How do I configure GnuPG in MSYS2?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941472/how-do-i-configure-gnupg-in-msys2"
         },
-        "SU-810471": {
+        "SU-1941476": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Remove .mp4 video top and bottom black bars using ffmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/810471/remove-mp4-video-top-and-bottom-black-bars-using-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: Excel using cached data for linked cells",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/excel-using-cached-data-for-linked-cells"
         },
-        "SU-430792": {
+        "SU-1683296": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I change a specific website&#39;s style?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/430792/how-can-i-change-a-specific-websites-style"
+            "root_cause": "用戶回報終端技術障礙: Where does the new notepad with Windows 11 save the window position?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1683296/where-does-the-new-notepad-with-windows-11-save-the-window-position"
         },
-        "SU-1628796": {
+        "SU-1941478": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to lock position of tables in Microsoft Word",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1628796/how-to-lock-position-of-tables-in-microsoft-word"
+            "root_cause": "用戶回報終端技術障礙: GitHub Copilot app shows context usage at 521%. How can it go over 100%?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941478/github-copilot-app-shows-context-usage-at-521-how-can-it-go-over-100"
         },
         "SU-1941473": {
             "category": "IT Helpdesk / Community Super User",
