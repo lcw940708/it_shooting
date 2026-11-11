@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-11 17:37:11",
+    "updated": "2026-11-11 23:55:25",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941495": {
+        "SU-1941506": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can Proton VPN be made to coexist with OpenVPN on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941495/can-proton-vpn-be-made-to-coexist-with-openvpn-on-windows"
+            "root_cause": "用戶回報終端技術障礙: VirtualBox VM stays on a black screen when booting the official Windows 11 26H2 ISO",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941506/virtualbox-vm-stays-on-a-black-screen-when-booting-the-official-windows-11-26h2"
         },
-        "SU-613153": {
+        "SU-1941504": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Boot ISO image from GRUB4DOS on EFI machines",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/613153/boot-iso-image-from-grub4dos-on-efi-machines"
+            "root_cause": "用戶回報終端技術障礙: Is is possible to copy text from a cell to the sheet title (or vice versa)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941504/is-is-possible-to-copy-text-from-a-cell-to-the-sheet-title-or-vice-versa"
         },
-        "SU-1624000": {
+        "SU-1941392": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: using rsync to quickly show only files that have different content",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1624000/using-rsync-to-quickly-show-only-files-that-have-different-content"
+            "root_cause": "用戶回報終端技術障礙: Gtk3 change progress bar within existing theme, Adwaita-dark [solved]",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941392/gtk3-change-progress-bar-within-existing-theme-adwaita-dark-solved"
         },
-        "SU-147091": {
+        "SU-914005": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How does increasing the number of transistors in a chip increase its speed?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/147091/how-does-increasing-the-number-of-transistors-in-a-chip-increase-its-speed"
+            "root_cause": "用戶回報終端技術障礙: How do completely wipe Adobe Creative Cloud from my Yosemite OS X machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/914005/how-do-completely-wipe-adobe-creative-cloud-from-my-yosemite-os-x-machine"
         },
-        "SU-687565": {
+        "SU-611058": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: _Working_ sub-pixel rendering with Linux",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/687565/working-sub-pixel-rendering-with-linux"
+            "root_cause": "用戶回報終端技術障礙: How to repair broken JPEG files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/611058/how-to-repair-broken-jpeg-files"
         }
     }
 }
