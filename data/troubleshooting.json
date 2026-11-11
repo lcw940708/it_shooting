@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-10 19:34:37",
+    "updated": "2026-11-11 00:22:01",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941485": {
+        "SU-1571061": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 25H2 update fails to install - Restorations has no effect",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941485/windows-11-25h2-update-fails-to-install-restorations-has-no-effect"
+            "root_cause": "用戶回報終端技術障礙: Exclude data points in an excel graph without deleting them",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1571061/exclude-data-points-in-an-excel-graph-without-deleting-them"
         },
-        "SU-1941486": {
+        "SU-1941492": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 - Legacy application fails with &quot;Class not registered&quot; (DAO 3.5 CLSID)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941486/windows-11-legacy-application-fails-with-class-not-registered-dao-3-5-clsid"
+            "root_cause": "用戶回報終端技術障礙: Unable to recover an old Gmail account despite successfully verifying my original phone number",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941492/unable-to-recover-an-old-gmail-account-despite-successfully-verifying-my-origina"
+        },
+        "SU-1941487": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is Windows assigning a drive letter to RUFUS_BOOT normal, or could something be wrong?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941487/is-windows-assigning-a-drive-letter-to-rufus-boot-normal-or-could-something-be"
         },
         "SU-1941476": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Why does Excel seem to be using cached data for linked cells?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/why-does-excel-seem-to-be-using-cached-data-for-linked-cells"
         },
-        "SU-1941472": {
+        "SU-1941488": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I configure GnuPG in MSYS2?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941472/how-do-i-configure-gnupg-in-msys2"
-        },
-        "SU-1941382": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Backslash not working from &#39;xdotool&#39; when connecting to Windows host over xfreerdp",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941382/backslash-not-working-from-xdotool-when-connecting-to-windows-host-over-xfreer"
+            "root_cause": "用戶回報終端技術障礙: Windows 10 Administrator versus Local admin",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941488/windows-10-administrator-versus-local-admin"
         }
     }
 }
