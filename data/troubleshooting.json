@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-11 08:42:28",
+    "updated": "2026-11-11 17:37:11",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,6 +22,21 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941495": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can Proton VPN be made to coexist with OpenVPN on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941495/can-proton-vpn-be-made-to-coexist-with-openvpn-on-windows"
+        },
+        "SU-613153": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Boot ISO image from GRUB4DOS on EFI machines",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/613153/boot-iso-image-from-grub4dos-on-efi-machines"
+        },
+        "SU-1624000": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: using rsync to quickly show only files that have different content",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1624000/using-rsync-to-quickly-show-only-files-that-have-different-content"
+        },
         "SU-147091": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How does increasing the number of transistors in a chip increase its speed?",
@@ -31,21 +46,6 @@
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: _Working_ sub-pixel rendering with Linux",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/687565/working-sub-pixel-rendering-with-linux"
-        },
-        "SU-1941410": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 26H2 new Start menu settings appear and disappear unpredictably",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941410/windows-11-26h2-new-start-menu-settings-appear-and-disappear-unpredictably"
-        },
-        "SU-1941424": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Zoom window disappears when monitors change",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941424/zoom-window-disappears-when-monitors-change"
-        },
-        "SU-1566136": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is the &quot;.sha256&quot; file format formally defined somewhere? How should it be parsed?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1566136/is-the-sha256-file-format-formally-defined-somewhere-how-should-it-be-parsed"
         }
     }
 }
