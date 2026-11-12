@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-12 05:21:16",
+    "updated": "2026-11-12 14:26:07",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941510": {
+        "SU-1904483": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to delete all images in the subfolders of a root folder and bring the files in the subfolders of the subfolders a level up in Windows 11?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941510/how-to-delete-all-images-in-the-subfolders-of-a-root-folder-and-bring-the-files"
+            "root_cause": "用戶回報終端技術障礙: How to send recurring Outlook emails using Outlook?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1904483/how-to-send-recurring-outlook-emails-using-outlook"
         },
-        "SU-1941506": {
+        "SU-1085734": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my VirtualBox VM stay on a black screen when booting the official Windows 11 26H2 ISO? (UEFI, multiple vCPUs, Hyper-V enabled on the host)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941506/why-does-my-virtualbox-vm-stay-on-a-black-screen-when-booting-the-official-windo"
+            "root_cause": "用戶回報終端技術障礙: How do I find the DPI of my laptop’s screen?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1085734/how-do-i-find-the-dpi-of-my-laptop-s-screen"
         },
-        "SU-1941495": {
+        "SU-1847458": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can Proton VPN be made to coexist with OpenVPN on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941495/can-proton-vpn-be-made-to-coexist-with-openvpn-on-windows"
+            "root_cause": "用戶回報終端技術障礙: How to prevent resizing snapped windows in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1847458/how-to-prevent-resizing-snapped-windows-in-windows-11"
         },
-        "SU-1867333": {
+        "SU-1743638": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: VLC Saved m3u8 File Plays Multiple Audio Tracks Simultaneously",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1867333/vlc-saved-m3u8-file-plays-multiple-audio-tracks-simultaneously"
+            "root_cause": "用戶回報終端技術障礙: PowerPoint 365 reading order warning persists even when slide master layout and slide are correct",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1743638/powerpoint-365-reading-order-warning-persists-even-when-slide-master-layout-and"
         },
-        "SU-1147371": {
+        "SU-110350": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I disable automatic Windows 7/8/10 audio ducking?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1147371/how-can-i-disable-automatic-windows-7-8-10-audio-ducking"
+            "root_cause": "用戶回報終端技術障礙: How to use Notepad++ to find files in a directory that do not contain string",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/110350/how-to-use-notepad-to-find-files-in-a-directory-that-do-not-contain-string"
         }
     }
 }
