@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-12 14:26:07",
+    "updated": "2026-11-12 21:59:22",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1904483": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to send recurring Outlook emails using Outlook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1904483/how-to-send-recurring-outlook-emails-using-outlook"
-        },
-        "SU-1085734": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I find the DPI of my laptop’s screen?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1085734/how-do-i-find-the-dpi-of-my-laptop-s-screen"
-        },
-        "SU-1847458": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent resizing snapped windows in Windows 11?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1847458/how-to-prevent-resizing-snapped-windows-in-windows-11"
-        },
-        "SU-1743638": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: PowerPoint 365 reading order warning persists even when slide master layout and slide are correct",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1743638/powerpoint-365-reading-order-warning-persists-even-when-slide-master-layout-and"
-        },
         "SU-110350": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How to use Notepad++ to find files in a directory that do not contain string",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/110350/how-to-use-notepad-to-find-files-in-a-directory-that-do-not-contain-string"
+        },
+        "SU-1939897": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to change the page numbers of these files in reverse order with Find and Regex?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1939897/how-to-change-the-page-numbers-of-these-files-in-reverse-order-with-find-and-reg"
+        },
+        "SU-1941527": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to move the content in the subfolder of a subfolder of a root folder to its parent folder without flattening them using PowerShell?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941527/how-to-move-the-content-in-the-subfolder-of-a-subfolder-of-a-root-folder-to-its"
+        },
+        "SU-1941528": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I 100% cleanly uninstall Adobe Creative Cloud on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941528/how-can-i-100-cleanly-uninstall-adobe-creative-cloud-on-windows"
+        },
+        "SU-1941526": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How does one configure Windows computers to stop blocking &quot;rude&quot; Egyptian hieroglyphs?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941526/how-does-one-configure-windows-computers-to-stop-blocking-rude-egyptian-hierog"
         }
     }
 }
