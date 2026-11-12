@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-11 23:55:25",
+    "updated": "2026-11-12 05:21:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941510": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to delete all images in the subfolders of a root folder and bring the files in the subfolders of the subfolders a level up in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941510/how-to-delete-all-images-in-the-subfolders-of-a-root-folder-and-bring-the-files"
+        },
         "SU-1941506": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: VirtualBox VM stays on a black screen when booting the official Windows 11 26H2 ISO",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941506/virtualbox-vm-stays-on-a-black-screen-when-booting-the-official-windows-11-26h2"
+            "root_cause": "用戶回報終端技術障礙: Why does my VirtualBox VM stay on a black screen when booting the official Windows 11 26H2 ISO? (UEFI, multiple vCPUs, Hyper-V enabled on the host)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941506/why-does-my-virtualbox-vm-stay-on-a-black-screen-when-booting-the-official-windo"
         },
-        "SU-1941504": {
+        "SU-1941495": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is is possible to copy text from a cell to the sheet title (or vice versa)?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941504/is-is-possible-to-copy-text-from-a-cell-to-the-sheet-title-or-vice-versa"
+            "root_cause": "用戶回報終端技術障礙: Can Proton VPN be made to coexist with OpenVPN on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941495/can-proton-vpn-be-made-to-coexist-with-openvpn-on-windows"
         },
-        "SU-1941392": {
+        "SU-1867333": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Gtk3 change progress bar within existing theme, Adwaita-dark [solved]",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941392/gtk3-change-progress-bar-within-existing-theme-adwaita-dark-solved"
+            "root_cause": "用戶回報終端技術障礙: VLC Saved m3u8 File Plays Multiple Audio Tracks Simultaneously",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1867333/vlc-saved-m3u8-file-plays-multiple-audio-tracks-simultaneously"
         },
-        "SU-914005": {
+        "SU-1147371": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do completely wipe Adobe Creative Cloud from my Yosemite OS X machine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/914005/how-do-completely-wipe-adobe-creative-cloud-from-my-yosemite-os-x-machine"
-        },
-        "SU-611058": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to repair broken JPEG files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/611058/how-to-repair-broken-jpeg-files"
+            "root_cause": "用戶回報終端技術障礙: How can I disable automatic Windows 7/8/10 audio ducking?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1147371/how-can-i-disable-automatic-windows-7-8-10-audio-ducking"
         }
     }
 }
