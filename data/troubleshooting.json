@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-13 11:46:16",
+    "updated": "2026-11-13 19:01:51",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941545": {
+        "SU-613153": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Random &quot;Device Disconnect&quot; sound but WMI __InstanceDeletionEvent doesn&#39;t log anything",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941545/random-device-disconnect-sound-but-wmi-instancedeletionevent-doesnt-log-any"
+            "root_cause": "用戶回報終端技術障礙: Boot ISO image from GRUB4DOS on EFI machines",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/613153/boot-iso-image-from-grub4dos-on-efi-machines"
         },
-        "SU-1581871": {
+        "SU-884376": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I compress a PDF file to a selected size?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1581871/how-can-i-compress-a-pdf-file-to-a-selected-size"
+            "root_cause": "用戶回報終端技術障礙: How do I print the line only with the last occurrence of a regex?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/884376/how-do-i-print-the-line-only-with-the-last-occurrence-of-a-regex"
         },
-        "SU-1786578": {
+        "SU-1428981": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What is this variable &quot;RlsSvcPort&quot; in my System environment variable?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1786578/what-is-this-variable-rlssvcport-in-my-system-environment-variable"
+            "root_cause": "用戶回報終端技術障礙: pam_sss(sshd:account): Access denied for user AD",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1428981/pam-ssssshdaccount-access-denied-for-user-ad"
         },
-        "SU-1783338": {
+        "SU-1941548": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Chrome: Override autocomplete=off for text field on web form",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1783338/chrome-override-autocomplete-off-for-text-field-on-web-form"
+            "root_cause": "用戶回報終端技術障礙: Strange behaviour of the &quot;tee&quot; command",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941548/strange-behaviour-of-the-tee-command"
         },
-        "SU-1941486": {
+        "SU-326629": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 - Legacy application fails with &quot;Class not registered&quot; (DAO 3.5 CLSID)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941486/windows-11-legacy-application-fails-with-class-not-registered-dao-3-5-clsid"
+            "root_cause": "用戶回報終端技術障礙: How can I make ffmpeg be quieter/less verbose?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/326629/how-can-i-make-ffmpeg-be-quieter-less-verbose"
         }
     }
 }
