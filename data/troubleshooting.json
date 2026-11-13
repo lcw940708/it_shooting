@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-13 02:28:55",
+    "updated": "2026-11-13 11:46:16",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941528": {
+        "SU-1941545": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I 100% cleanly uninstall Adobe Creative Cloud on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941528/how-can-i-100-cleanly-uninstall-adobe-creative-cloud-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Random &quot;Device Disconnect&quot; sound but WMI __InstanceDeletionEvent doesn&#39;t log anything",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941545/random-device-disconnect-sound-but-wmi-instancedeletionevent-doesnt-log-any"
         },
-        "SU-1640330": {
+        "SU-1581871": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Failed Openssh conenction",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1640330/failed-openssh-conenction"
+            "root_cause": "用戶回報終端技術障礙: How can I compress a PDF file to a selected size?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1581871/how-can-i-compress-a-pdf-file-to-a-selected-size"
         },
-        "SU-884376": {
+        "SU-1786578": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I print the line only with the last occurrence of a regex?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/884376/how-do-i-print-the-line-only-with-the-last-occurrence-of-a-regex"
+            "root_cause": "用戶回報終端技術障礙: What is this variable &quot;RlsSvcPort&quot; in my System environment variable?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1786578/what-is-this-variable-rlssvcport-in-my-system-environment-variable"
         },
-        "SU-1941473": {
+        "SU-1783338": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I recover DuckDuckGo bookmarks with only access to its internal folder?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941473/how-can-i-recover-duckduckgo-bookmarks-with-only-access-to-its-internal-folder"
+            "root_cause": "用戶回報終端技術障礙: Chrome: Override autocomplete=off for text field on web form",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1783338/chrome-override-autocomplete-off-for-text-field-on-web-form"
         },
-        "SU-1941527": {
+        "SU-1941486": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to move a nested folders contents up one level without flattening using PowerShell?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941527/how-to-move-a-nested-folders-contents-up-one-level-without-flattening-using-powe"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 - Legacy application fails with &quot;Class not registered&quot; (DAO 3.5 CLSID)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941486/windows-11-legacy-application-fails-with-class-not-registered-dao-3-5-clsid"
         }
     }
 }
