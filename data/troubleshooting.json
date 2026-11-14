@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-13 19:01:51",
+    "updated": "2026-11-14 00:36:00",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-613153": {
+        "SU-1941557": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Boot ISO image from GRUB4DOS on EFI machines",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/613153/boot-iso-image-from-grub4dos-on-efi-machines"
+            "root_cause": "用戶回報終端技術障礙: How do I get Greenshot to start automatically and open photoshop as an external command?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941557/how-do-i-get-greenshot-to-start-automatically-and-open-photoshop-as-an-external"
         },
-        "SU-884376": {
+        "SU-1598430": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I print the line only with the last occurrence of a regex?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/884376/how-do-i-print-the-line-only-with-the-last-occurrence-of-a-regex"
+            "root_cause": "用戶回報終端技術障礙: Date, find out the number of days in a month",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1598430/date-find-out-the-number-of-days-in-a-month"
         },
-        "SU-1428981": {
+        "SU-1941558": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: pam_sss(sshd:account): Access denied for user AD",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1428981/pam-ssssshdaccount-access-denied-for-user-ad"
+            "root_cause": "用戶回報終端技術障礙: JavaScript Synchronous Code",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941558/javascript-synchronous-code"
         },
-        "SU-1941548": {
+        "SU-1026277": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Strange behaviour of the &quot;tee&quot; command",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941548/strange-behaviour-of-the-tee-command"
+            "root_cause": "用戶回報終端技術障礙: Windows 10 Remote Desktop Credentials",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1026277/windows-10-remote-desktop-credentials"
         },
-        "SU-326629": {
+        "SU-1941436": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I make ffmpeg be quieter/less verbose?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/326629/how-can-i-make-ffmpeg-be-quieter-less-verbose"
+            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
         }
     }
 }
