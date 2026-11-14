@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-14 16:17:41",
+    "updated": "2026-11-14 21:52:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1938087": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Pandoc gives two right quotes instead of left and right",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1938087/pandoc-gives-two-right-quotes-instead-of-left-and-right"
-        },
-        "SU-1941564": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Asus B650E: can&#39;t launch EFI shell from USB drive",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941564/asus-b650e-cant-launch-efi-shell-from-usb-drive"
-        },
         "SU-1941180": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: MP4 won&#39;t open in WMP, but others work fine. It does open In Media Player just fine",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941180/mp4-wont-open-in-wmp-but-others-work-fine-it-does-open-in-media-player-just-f"
         },
-        "SU-1941566": {
+        "SU-1941571": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Microphone speech recognition improved after launching and updating Windows Sound Recorder",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941566/microphone-speech-recognition-improved-after-launching-and-updating-windows-soun"
+            "root_cause": "用戶回報終端技術障礙: Is there an alternative for Windows 11&#39;s bootrec command available on Ubuntu 26.1?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941571/is-there-an-alternative-for-windows-11s-bootrec-command-available-on-ubuntu-26"
         },
-        "SU-1941557": {
+        "SU-1941476": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I get Greenshot to start automatically and open Photoshop as an external command?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941557/how-do-i-get-greenshot-to-start-automatically-and-open-photoshop-as-an-external"
+            "root_cause": "用戶回報終端技術障礙: Why does Excel seem to be using cached data for linked cells?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/why-does-excel-seem-to-be-using-cached-data-for-linked-cells"
+        },
+        "SU-1941569": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: I forgot bios password its lock dell Inspiron 15 3521",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941569/i-forgot-bios-password-its-lock-dell-inspiron-15-3521"
+        },
+        "SU-1684861": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Placeholder Amazon store Windows subsystem for Android WSA",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1684861/placeholder-amazon-store-windows-subsystem-for-android-wsa"
         }
     }
 }
