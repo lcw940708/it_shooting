@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-15 08:41:55",
+    "updated": "2026-11-15 16:44:08",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-426583": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Show Keys on Screen",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/426583/show-keys-on-screen"
+        },
+        "SU-594140": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible to show key presses and mouse input visually?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/594140/is-it-possible-to-show-key-presses-and-mouse-input-visually"
+        },
+        "SU-1941488": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Windows 10 Administrator versus Local admin",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941488/windows-10-administrator-versus-local-admin"
+        },
+        "SU-1941578": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is it possible to disable the broadband in HDMI?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941578/is-it-possible-to-disable-the-broadband-in-hdmi"
+        },
         "SU-1941548": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: Strange behaviour of the &quot;tee&quot; command",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941548/strange-behaviour-of-the-tee-command"
-        },
-        "SU-1855677": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What type of NAT does iptables MASQUERADE implement?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1855677/what-type-of-nat-does-iptables-masquerade-implement"
-        },
-        "SU-799747": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can the router owner access a user&#39;s internet history?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/799747/can-the-router-owner-access-a-users-internet-history"
-        },
-        "SU-1719394": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Find hotspot password in Windows 10 using command line or registry editor",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1719394/find-hotspot-password-in-windows-10-using-command-line-or-registry-editor"
-        },
-        "SU-1941566": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why did microphone speech recognition improve after launching and updating Windows Sound Recorder?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941566/why-did-microphone-speech-recognition-improve-after-launching-and-updating-windo"
         }
     }
 }
