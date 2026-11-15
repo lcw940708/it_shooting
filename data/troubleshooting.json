@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-15 16:44:08",
+    "updated": "2026-11-15 22:21:59",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-426583": {
+        "SU-483086": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Show Keys on Screen",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/426583/show-keys-on-screen"
+            "root_cause": "用戶回報終端技術障礙: How do I remove automatically added keyboard layouts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/483086/how-do-i-remove-automatically-added-keyboard-layouts"
         },
-        "SU-594140": {
+        "SU-932688": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to show key presses and mouse input visually?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/594140/is-it-possible-to-show-key-presses-and-mouse-input-visually"
+            "root_cause": "用戶回報終端技術障礙: &quot;Security&quot; Issue: Retained Cropped Screenshots",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/932688/security-issue-retained-cropped-screenshots"
         },
-        "SU-1941488": {
+        "SU-1941589": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 10 Administrator versus Local admin",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941488/windows-10-administrator-versus-local-admin"
+            "root_cause": "用戶回報終端技術障礙: How do I convert from iec61966-2-1/srgb to bt709 transfer function in ffmpeg, while keeping the look of the content the same?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941589/how-do-i-convert-from-iec61966-2-1-srgb-to-bt709-transfer-function-in-ffmpeg-wh"
         },
-        "SU-1941578": {
+        "SU-1941588": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to disable the broadband in HDMI?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941578/is-it-possible-to-disable-the-broadband-in-hdmi"
+            "root_cause": "用戶回報終端技術障礙: What is the “screenshot border” in the Windows Snipping Tool?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941588/what-is-the-screenshot-border-in-the-windows-snipping-tool"
         },
-        "SU-1941548": {
+        "SU-418549": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Strange behaviour of the &quot;tee&quot; command",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941548/strange-behaviour-of-the-tee-command"
+            "root_cause": "用戶回報終端技術障礙: How can I get FireFox to automatically fill in an entire form?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/418549/how-can-i-get-firefox-to-automatically-fill-in-an-entire-form"
         }
     }
 }
