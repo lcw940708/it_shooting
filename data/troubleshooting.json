@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-15 01:28:06",
+    "updated": "2026-11-15 08:41:55",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941575": {
+        "SU-1941548": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: VirtualBox clone crashes VBoxSVC and leaves a folder with no .vbox file",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941575/virtualbox-clone-crashes-vboxsvc-and-leaves-a-folder-with-no-vbox-file"
+            "root_cause": "用戶回報終端技術障礙: Strange behaviour of the &quot;tee&quot; command",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941548/strange-behaviour-of-the-tee-command"
         },
-        "SU-1941550": {
+        "SU-1855677": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: GitHub Copilot Desktop (v1.4.0): failed to create session: RPC error -32603",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941550/github-copilot-desktop-v1-4-0-failed-to-create-session-rpc-error-32603"
+            "root_cause": "用戶回報終端技術障礙: What type of NAT does iptables MASQUERADE implement?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1855677/what-type-of-nat-does-iptables-masquerade-implement"
         },
-        "SU-1686967": {
+        "SU-799747": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix &quot; Failed to mount /system_root (invalid arguement)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1686967/how-to-fix-failed-to-mount-system-root-invalid-arguement"
+            "root_cause": "用戶回報終端技術障礙: Can the router owner access a user&#39;s internet history?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/799747/can-the-router-owner-access-a-users-internet-history"
         },
-        "SU-1684861": {
+        "SU-1719394": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I getting a placeholder Amazon store message on Windows subsystem for Android WSA?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1684861/why-am-i-getting-a-placeholder-amazon-store-message-on-windows-subsystem-for-and"
+            "root_cause": "用戶回報終端技術障礙: Find hotspot password in Windows 10 using command line or registry editor",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1719394/find-hotspot-password-in-windows-10-using-command-line-or-registry-editor"
         },
-        "SU-1941180": {
+        "SU-1941566": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: MP4 won&#39;t open in WMP, but others work fine. It does open In Media Player just fine",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941180/mp4-wont-open-in-wmp-but-others-work-fine-it-does-open-in-media-player-just-f"
+            "root_cause": "用戶回報終端技術障礙: Why did microphone speech recognition improve after launching and updating Windows Sound Recorder?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941566/why-did-microphone-speech-recognition-improve-after-launching-and-updating-windo"
         }
     }
 }
