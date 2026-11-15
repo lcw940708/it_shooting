@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-14 21:52:14",
+    "updated": "2026-11-15 01:28:06",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941575": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: VirtualBox clone crashes VBoxSVC and leaves a folder with no .vbox file",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941575/virtualbox-clone-crashes-vboxsvc-and-leaves-a-folder-with-no-vbox-file"
+        },
+        "SU-1941550": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: GitHub Copilot Desktop (v1.4.0): failed to create session: RPC error -32603",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941550/github-copilot-desktop-v1-4-0-failed-to-create-session-rpc-error-32603"
+        },
+        "SU-1686967": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to fix &quot; Failed to mount /system_root (invalid arguement)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1686967/how-to-fix-failed-to-mount-system-root-invalid-arguement"
+        },
+        "SU-1684861": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why am I getting a placeholder Amazon store message on Windows subsystem for Android WSA?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1684861/why-am-i-getting-a-placeholder-amazon-store-message-on-windows-subsystem-for-and"
+        },
         "SU-1941180": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: MP4 won&#39;t open in WMP, but others work fine. It does open In Media Player just fine",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941180/mp4-wont-open-in-wmp-but-others-work-fine-it-does-open-in-media-player-just-f"
-        },
-        "SU-1941571": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there an alternative for Windows 11&#39;s bootrec command available on Ubuntu 26.1?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941571/is-there-an-alternative-for-windows-11s-bootrec-command-available-on-ubuntu-26"
-        },
-        "SU-1941476": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does Excel seem to be using cached data for linked cells?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941476/why-does-excel-seem-to-be-using-cached-data-for-linked-cells"
-        },
-        "SU-1941569": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I forgot bios password its lock dell Inspiron 15 3521",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941569/i-forgot-bios-password-its-lock-dell-inspiron-15-3521"
-        },
-        "SU-1684861": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Placeholder Amazon store Windows subsystem for Android WSA",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1684861/placeholder-amazon-store-windows-subsystem-for-android-wsa"
         }
     }
 }
