@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-16 14:28:22",
+    "updated": "2026-11-16 23:56:27",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941615": {
+        "SU-1941608": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 M.2 SATA SSD hits 100% active time at boot and stays there, with almost no throughput",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941615/windows-11-m-2-sata-ssd-hits-100-active-time-at-boot-and-stays-there-with-almo"
+            "root_cause": "用戶回報終端技術障礙: How do I stop brackets numbers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941608/how-do-i-stop-brackets-numbers"
         },
-        "SU-519151": {
+        "SU-1941564": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Mouse double-click min interval",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/519151/mouse-double-click-min-interval"
+            "root_cause": "用戶回報終端技術障礙: Why can’t I launch EFI shell from a USB flash drive on a Asus B650E?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941564/why-can-t-i-launch-efi-shell-from-a-usb-flash-drive-on-a-asus-b650e"
         },
-        "SU-1941589": {
+        "SU-1941528": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I convert from iec61966-2-1/srgb to bt709 transfer function in ffmpeg, while keeping the look of the content the same?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941589/how-do-i-convert-from-iec61966-2-1-srgb-to-bt709-transfer-function-in-ffmpeg-wh"
+            "root_cause": "用戶回報終端技術障礙: How can I 100% cleanly uninstall Adobe Creative Cloud on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941528/how-can-i-100-cleanly-uninstall-adobe-creative-cloud-on-windows"
         },
-        "SU-1941436": {
+        "SU-1823697": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
+            "root_cause": "用戶回報終端技術障礙: Lenovo Legion 5 15ARH05 the RAM lid causes the black screen",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1823697/lenovo-legion-5-15arh05-the-ram-lid-causes-the-black-screen"
         },
-        "SU-1941578": {
+        "SU-1338064": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it possible to disable the broadband in HDMI?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941578/is-it-possible-to-disable-the-broadband-in-hdmi"
+            "root_cause": "用戶回報終端技術障礙: How to change ownership of a file in Windows 10 when it reruns an &quot;Access is denied&quot; message?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1338064/how-to-change-ownership-of-a-file-in-windows-10-when-it-reruns-an-access-is-den"
         }
     }
 }
