@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-17 06:24:40",
+    "updated": "2026-11-17 17:16:20",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941545": {
+        "SU-850985": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Random &quot;Device Disconnect&quot; sound but WMI __InstanceDeletionEvent doesn&#39;t log anything",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941545/random-device-disconnect-sound-but-wmi-instancedeletionevent-doesnt-log-any"
+            "root_cause": "用戶回報終端技術障礙: forensic disk image of randomly disconnecting disk",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/850985/forensic-disk-image-of-randomly-disconnecting-disk"
         },
-        "SU-1941445": {
+        "SU-1941436": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I import Chrome cookies and passwords into GitHub Copilot Desktop’s built-in browser?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941445/how-can-i-import-chrome-cookies-and-passwords-into-github-copilot-desktop-s-buil"
+            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
         },
-        "SU-1941620": {
+        "SU-1941634": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What do I need to do to migrate a root on ZFS install of Ubuntu to a new drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941620/what-do-i-need-to-do-to-migrate-a-root-on-zfs-install-of-ubuntu-to-a-new-drive"
+            "root_cause": "用戶回報終端技術障礙: Dell Latitude 7420 running Windows 11 turns off display and locks after inactivity despite sleep and display timeouts set to Never",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941634/dell-latitude-7420-running-windows-11-turns-off-display-and-locks-after-inactivi"
         },
-        "SU-1011460": {
+        "SU-58811": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is it that my printer works fine but somehow refuses to show up in devices and printers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1011460/why-is-it-that-my-printer-works-fine-but-somehow-refuses-to-show-up-in-devices-a"
+            "root_cause": "用戶回報終端技術障礙: Util for trimming output to terminal width?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/58811/util-for-trimming-output-to-terminal-width"
         },
-        "SU-519151": {
+        "SU-1849424": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to set a mouse minimum double-click interval?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/519151/how-to-set-a-mouse-minimum-double-click-interval"
+            "root_cause": "用戶回報終端技術障礙: Make copilot key work as right-CTRL again under Linux",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1849424/make-copilot-key-work-as-right-ctrl-again-under-linux"
         }
     }
 }
