@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-16 23:56:27",
+    "updated": "2026-11-17 06:24:40",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941608": {
+        "SU-1941545": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I stop brackets numbers?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941608/how-do-i-stop-brackets-numbers"
+            "root_cause": "用戶回報終端技術障礙: Random &quot;Device Disconnect&quot; sound but WMI __InstanceDeletionEvent doesn&#39;t log anything",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941545/random-device-disconnect-sound-but-wmi-instancedeletionevent-doesnt-log-any"
         },
-        "SU-1941564": {
+        "SU-1941445": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t I launch EFI shell from a USB flash drive on a Asus B650E?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941564/why-can-t-i-launch-efi-shell-from-a-usb-flash-drive-on-a-asus-b650e"
+            "root_cause": "用戶回報終端技術障礙: How can I import Chrome cookies and passwords into GitHub Copilot Desktop’s built-in browser?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941445/how-can-i-import-chrome-cookies-and-passwords-into-github-copilot-desktop-s-buil"
         },
-        "SU-1941528": {
+        "SU-1941620": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I 100% cleanly uninstall Adobe Creative Cloud on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941528/how-can-i-100-cleanly-uninstall-adobe-creative-cloud-on-windows"
+            "root_cause": "用戶回報終端技術障礙: What do I need to do to migrate a root on ZFS install of Ubuntu to a new drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941620/what-do-i-need-to-do-to-migrate-a-root-on-zfs-install-of-ubuntu-to-a-new-drive"
         },
-        "SU-1823697": {
+        "SU-1011460": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Lenovo Legion 5 15ARH05 the RAM lid causes the black screen",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1823697/lenovo-legion-5-15arh05-the-ram-lid-causes-the-black-screen"
+            "root_cause": "用戶回報終端技術障礙: Why is it that my printer works fine but somehow refuses to show up in devices and printers?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1011460/why-is-it-that-my-printer-works-fine-but-somehow-refuses-to-show-up-in-devices-a"
         },
-        "SU-1338064": {
+        "SU-519151": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to change ownership of a file in Windows 10 when it reruns an &quot;Access is denied&quot; message?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1338064/how-to-change-ownership-of-a-file-in-windows-10-when-it-reruns-an-access-is-den"
+            "root_cause": "用戶回報終端技術障礙: How to set a mouse minimum double-click interval?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/519151/how-to-set-a-mouse-minimum-double-click-interval"
         }
     }
 }
