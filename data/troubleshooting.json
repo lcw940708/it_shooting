@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-17 17:16:20",
+    "updated": "2026-11-18 00:19:50",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-850985": {
+        "SU-1704386": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: forensic disk image of randomly disconnecting disk",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/850985/forensic-disk-image-of-randomly-disconnecting-disk"
+            "root_cause": "用戶回報終端技術障礙: How do I show a label of the last log from Google Cloud Platform&#39;s &quot;Logs-Based Metrics&quot; instead as a value (!) in Grafana? How a second last one?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1704386/how-do-i-show-a-label-of-the-last-log-from-google-cloud-platforms-logs-based-m"
         },
-        "SU-1941436": {
+        "SU-1941644": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my laptop BIOS have to try multiple times to boot?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941436/why-does-my-laptop-bios-have-to-try-multiple-times-to-boot"
+            "root_cause": "用戶回報終端技術障礙: Run batch script as adminstrator on startup",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941644/run-batch-script-as-adminstrator-on-startup"
         },
-        "SU-1941634": {
+        "SU-1941640": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Dell Latitude 7420 running Windows 11 turns off display and locks after inactivity despite sleep and display timeouts set to Never",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941634/dell-latitude-7420-running-windows-11-turns-off-display-and-locks-after-inactivi"
+            "root_cause": "用戶回報終端技術障礙: Trying to connect a Amiga 1200 85MB 2.5&quot; IDE hard drive to modern PC. Disk image fails at 0KB",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941640/trying-to-connect-a-amiga-1200-85mb-2-5-ide-hard-drive-to-modern-pc-disk-image"
         },
-        "SU-58811": {
+        "SU-1051546": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Util for trimming output to terminal width?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/58811/util-for-trimming-output-to-terminal-width"
+            "root_cause": "用戶回報終端技術障礙: Why am I experiencing no POST screen, no beeps and no display on my system?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1051546/why-am-i-experiencing-no-post-screen-no-beeps-and-no-display-on-my-system"
         },
-        "SU-1849424": {
+        "SU-1937181": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Make copilot key work as right-CTRL again under Linux",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1849424/make-copilot-key-work-as-right-ctrl-again-under-linux"
+            "root_cause": "用戶回報終端技術障礙: How do I change my time zone in Windows 11?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1937181/how-do-i-change-my-time-zone-in-windows-11"
         }
     }
 }
