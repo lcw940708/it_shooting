@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-18 00:19:50",
+    "updated": "2026-11-18 09:35:55",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1704386": {
+        "SU-536702": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I show a label of the last log from Google Cloud Platform&#39;s &quot;Logs-Based Metrics&quot; instead as a value (!) in Grafana? How a second last one?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1704386/how-do-i-show-a-label-of-the-last-log-from-google-cloud-platforms-logs-based-m"
+            "root_cause": "用戶回報終端技術障礙: Outlook: Is it possible to warn me before I&#39;m sending an email to the number of recipients?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/536702/outlook-is-it-possible-to-warn-me-before-im-sending-an-email-to-the-number-of"
         },
-        "SU-1941644": {
+        "SU-1941649": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Run batch script as adminstrator on startup",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941644/run-batch-script-as-adminstrator-on-startup"
+            "root_cause": "用戶回報終端技術障礙: Urgent Help Needed = Can&#39;t Clone Boot Drive with Acronis (worked for years)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941649/urgent-help-needed-cant-clone-boot-drive-with-acronis-worked-for-years"
         },
-        "SU-1941640": {
+        "SU-1941180": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Trying to connect a Amiga 1200 85MB 2.5&quot; IDE hard drive to modern PC. Disk image fails at 0KB",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941640/trying-to-connect-a-amiga-1200-85mb-2-5-ide-hard-drive-to-modern-pc-disk-image"
+            "root_cause": "用戶回報終端技術障礙: MP4 won&#39;t open in WMP, but others work fine. It does open In Media Player just fine",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941180/mp4-wont-open-in-wmp-but-others-work-fine-it-does-open-in-media-player-just-f"
         },
-        "SU-1051546": {
+        "SU-1643432": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why am I experiencing no POST screen, no beeps and no display on my system?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1051546/why-am-i-experiencing-no-post-screen-no-beeps-and-no-display-on-my-system"
+            "root_cause": "用戶回報終端技術障礙: ffmpeg: how to convert libaom-av1 to whatsapp format",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1643432/ffmpeg-how-to-convert-libaom-av1-to-whatsapp-format"
         },
-        "SU-1937181": {
+        "SU-1941651": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I change my time zone in Windows 11?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1937181/how-do-i-change-my-time-zone-in-windows-11"
+            "root_cause": "用戶回報終端技術障礙: Make KDE Plasma Systemd services respect MemorySwapMax option",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941651/make-kde-plasma-systemd-services-respect-memoryswapmax-option"
         }
     }
 }
