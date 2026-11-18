@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-18 09:35:55",
+    "updated": "2026-11-18 18:33:33",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-536702": {
+        "SU-1941640": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Outlook: Is it possible to warn me before I&#39;m sending an email to the number of recipients?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/536702/outlook-is-it-possible-to-warn-me-before-im-sending-an-email-to-the-number-of"
+            "root_cause": "用戶回報終端技術障礙: Trying to connect a Amiga 1200 85MB 2.5&quot; IDE hard drive to modern PC. Disk image fails at 0KB",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941640/trying-to-connect-a-amiga-1200-85mb-2-5-ide-hard-drive-to-modern-pc-disk-image"
         },
-        "SU-1941649": {
+        "SU-1893377": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Urgent Help Needed = Can&#39;t Clone Boot Drive with Acronis (worked for years)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941649/urgent-help-needed-cant-clone-boot-drive-with-acronis-worked-for-years"
+            "root_cause": "用戶回報終端技術障礙: Extremely slow Terminal startup on macOS Sequoia (M3 Mac Pro)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1893377/extremely-slow-terminal-startup-on-macos-sequoia-m3-mac-pro"
         },
-        "SU-1941180": {
+        "SU-1043415": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: MP4 won&#39;t open in WMP, but others work fine. It does open In Media Player just fine",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941180/mp4-wont-open-in-wmp-but-others-work-fine-it-does-open-in-media-player-just-f"
+            "root_cause": "用戶回報終端技術障礙: Firefox doesn&#39;t ask me for a certificate when visiting a site that needs one",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1043415/firefox-doesnt-ask-me-for-a-certificate-when-visiting-a-site-that-needs-one"
         },
-        "SU-1643432": {
+        "SU-448133": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: ffmpeg: how to convert libaom-av1 to whatsapp format",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1643432/ffmpeg-how-to-convert-libaom-av1-to-whatsapp-format"
+            "root_cause": "用戶回報終端技術障礙: Batch Search directories/files for several separate strings with results for each string",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/448133/batch-search-directories-files-for-several-separate-strings-with-results-for-eac"
         },
-        "SU-1941651": {
+        "SU-1941657": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Make KDE Plasma Systemd services respect MemorySwapMax option",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941651/make-kde-plasma-systemd-services-respect-memoryswapmax-option"
+            "root_cause": "用戶回報終端技術障礙: UEFI application built with Yocto is chainloading to the wrong partition",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941657/uefi-application-built-with-yocto-is-chainloading-to-the-wrong-partition"
         }
     }
 }
