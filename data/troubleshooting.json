@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-19 01:36:08",
+    "updated": "2026-11-19 09:42:58",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-639402": {
+        "SU-695704": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Convert specific video and audio track&#160;only with FFmpeg",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/639402/convert-specific-video-and-audio-track-only-with-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: Do I need both x64 and x86 versions of the C++ redist",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/695704/do-i-need-both-x64-and-x86-versions-of-the-c-redist"
         },
-        "SU-1941482": {
+        "SU-1941680": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to strip 5 out of 6 audio channels from *.mp4 video file with FFmpeg?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941482/how-to-strip-5-out-of-6-audio-channels-from-mp4-video-file-with-ffmpeg"
+            "root_cause": "用戶回報終端技術障礙: How do I generate a sitemap.xml for a small static HTML website on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941680/how-do-i-generate-a-sitemap-xml-for-a-small-static-html-website-on-windows"
         },
-        "SU-1941620": {
+        "SU-1941678": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What do I need to do to migrate a root on ZFS install of Ubuntu to a new drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941620/what-do-i-need-to-do-to-migrate-a-root-on-zfs-install-of-ubuntu-to-a-new-drive"
+            "root_cause": "用戶回報終端技術障礙: Ngnix on Ubuntu stops serving websites on replacing Ubuntu&#39;s Ngnix with the mainline repository",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941678/ngnix-on-ubuntu-stops-serving-websites-on-replacing-ubuntus-ngnix-with-the-main"
         },
-        "SU-1941665": {
+        "SU-976751": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to download MP2T videos from from the website?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941665/how-to-download-mp2t-videos-from-from-the-website"
+            "root_cause": "用戶回報終端技術障礙: Will Outlook 2016 connect to Exchange using EAS?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/976751/will-outlook-2016-connect-to-exchange-using-eas"
         },
-        "SU-1941663": {
+        "SU-1715715": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Remote profiles directory are not accessible with administrator account [Windows Server 2022 + Active Directory]",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941663/remote-profiles-directory-are-not-accessible-with-administrator-account-windows"
+            "root_cause": "用戶回報終端技術障礙: Can I enable Unicode UTF-8 WorldWide Support in Windows 11, but set another encoding for a specific app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1715715/can-i-enable-unicode-utf-8-worldwide-support-in-windows-11-but-set-another-enco"
         }
     }
 }
