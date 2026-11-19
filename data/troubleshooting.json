@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-18 18:33:33",
+    "updated": "2026-11-19 01:36:08",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941640": {
+        "SU-639402": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Trying to connect a Amiga 1200 85MB 2.5&quot; IDE hard drive to modern PC. Disk image fails at 0KB",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941640/trying-to-connect-a-amiga-1200-85mb-2-5-ide-hard-drive-to-modern-pc-disk-image"
+            "root_cause": "用戶回報終端技術障礙: Convert specific video and audio track&#160;only with FFmpeg",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/639402/convert-specific-video-and-audio-track-only-with-ffmpeg"
         },
-        "SU-1893377": {
+        "SU-1941482": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Extremely slow Terminal startup on macOS Sequoia (M3 Mac Pro)",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1893377/extremely-slow-terminal-startup-on-macos-sequoia-m3-mac-pro"
+            "root_cause": "用戶回報終端技術障礙: How to strip 5 out of 6 audio channels from *.mp4 video file with FFmpeg?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941482/how-to-strip-5-out-of-6-audio-channels-from-mp4-video-file-with-ffmpeg"
         },
-        "SU-1043415": {
+        "SU-1941620": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Firefox doesn&#39;t ask me for a certificate when visiting a site that needs one",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1043415/firefox-doesnt-ask-me-for-a-certificate-when-visiting-a-site-that-needs-one"
+            "root_cause": "用戶回報終端技術障礙: What do I need to do to migrate a root on ZFS install of Ubuntu to a new drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941620/what-do-i-need-to-do-to-migrate-a-root-on-zfs-install-of-ubuntu-to-a-new-drive"
         },
-        "SU-448133": {
+        "SU-1941665": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Batch Search directories/files for several separate strings with results for each string",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/448133/batch-search-directories-files-for-several-separate-strings-with-results-for-eac"
+            "root_cause": "用戶回報終端技術障礙: How to download MP2T videos from from the website?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941665/how-to-download-mp2t-videos-from-from-the-website"
         },
-        "SU-1941657": {
+        "SU-1941663": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: UEFI application built with Yocto is chainloading to the wrong partition",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941657/uefi-application-built-with-yocto-is-chainloading-to-the-wrong-partition"
+            "root_cause": "用戶回報終端技術障礙: Remote profiles directory are not accessible with administrator account [Windows Server 2022 + Active Directory]",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941663/remote-profiles-directory-are-not-accessible-with-administrator-account-windows"
         }
     }
 }
