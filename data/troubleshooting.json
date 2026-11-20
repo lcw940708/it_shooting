@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-20 09:30:29",
+    "updated": "2026-11-20 18:12:19",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-876348": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to remove rows that match?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/876348/how-to-remove-rows-that-match"
-        },
-        "SU-1941705": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: I keep seeing MyMoneyRain Entension site when syncing Chrome, but don&#39;t see it in Chrome Entensions",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941705/i-keep-seeing-mymoneyrain-entension-site-when-syncing-chrome-but-dont-see-it-i"
-        },
-        "SU-1941700": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Does Backblaze&#39;s bzfileids.dat shrink after deleting files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941700/does-backblazes-bzfileids-dat-shrink-after-deleting-files"
-        },
-        "SU-1941316": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 guest&#39;s screen slanted (sheared diagonally) in VMware Workstation, and how can I fix it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941316/why-is-my-windows-11-guests-screen-slanted-sheared-diagonally-in-vmware-works"
-        },
         "SU-1941701": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do external disc drives repeatedly connect to and disconnect from Windows 11, even after disabling selective suspend?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941701/why-do-external-disc-drives-repeatedly-connect-to-and-disconnect-from-windows-11"
+            "root_cause": "用戶回報終端技術障礙: Why do external CD/DVD drives repeatedly connect to and disconnect from Windows 11, even after disabling selective suspend?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941701/why-do-external-cd-dvd-drives-repeatedly-connect-to-and-disconnect-from-windows"
+        },
+        "SU-1941695": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does ffprobe show `smpte170` for some MPEG-2 / DVD video streams?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941695/why-does-ffprobe-show-smpte170-for-some-mpeg-2-dvd-video-streams"
+        },
+        "SU-263422": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to see a list of all installed Firefox extensions and export it?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/263422/how-to-see-a-list-of-all-installed-firefox-extensions-and-export-it"
+        },
+        "SU-1941708": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: What controls the fan on Razer Blade?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941708/what-controls-the-fan-on-razer-blade"
+        },
+        "SU-455853": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Can I delete the folder C:\\ProgramData\\Package Cache\\?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/455853/can-i-delete-the-folder-c-programdata-package-cache"
         }
     }
 }
