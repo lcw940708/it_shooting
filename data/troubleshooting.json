@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-21 17:02:02",
+    "updated": "2026-11-21 22:40:06",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -27,25 +27,25 @@
             "root_cause": "用戶回報終端技術障礙: running an Windows Store Apps from command line with arguments",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698293/running-an-windows-store-apps-from-command-line-with-arguments"
         },
-        "SU-884376": {
+        "SU-931012": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I print the line only with the last occurrence of a regex?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/884376/how-do-i-print-the-line-only-with-the-last-occurrence-of-a-regex"
+            "root_cause": "用戶回報終端技術障礙: Can Firefox auto-detect the language for spellchecking?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/931012/can-firefox-auto-detect-the-language-for-spellchecking"
         },
-        "SU-476940": {
+        "SU-1941726": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: View RAW message source of an email in Outlook 2013",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/476940/view-raw-message-source-of-an-email-in-outlook-2013"
+            "root_cause": "用戶回報終端技術障礙: How to copy arbitrary RIFF chunk to output by ChunkId with FFmpeg?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941726/how-to-copy-arbitrary-riff-chunk-to-output-by-chunkid-with-ffmpeg"
         },
-        "SU-1826096": {
+        "SU-1131190": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I keep values the same when converting from XLSX to CSV? Export to CSV with expanded numbers and not scientific notation?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1826096/how-do-i-keep-values-the-same-when-converting-from-xlsx-to-csv-export-to-csv-wi"
+            "root_cause": "用戶回報終端技術障礙: Configuring DNSMasq Address/Internal IP pairs by port?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1131190/configuring-dnsmasq-address-internal-ip-pairs-by-port"
         },
-        "SU-1941722": {
+        "SU-1941725": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why aren&#39;t Windows opening the default app for JPG files?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941722/why-arent-windows-opening-the-default-app-for-jpg-files"
+            "root_cause": "用戶回報終端技術障礙: Failure When Pinging Default Gateway on Linux Mint 22.3 Virtual Machine",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941725/failure-when-pinging-default-gateway-on-linux-mint-22-3-virtual-machine"
         }
     }
 }
