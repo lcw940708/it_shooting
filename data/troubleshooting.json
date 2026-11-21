@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-21 09:02:02",
+    "updated": "2026-11-21 17:02:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1423126": {
+        "SU-1698293": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I refresh files that have been changed outside of Visual Studio?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1423126/how-can-i-refresh-files-that-have-been-changed-outside-of-visual-studio"
+            "root_cause": "用戶回報終端技術障礙: running an Windows Store Apps from command line with arguments",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698293/running-an-windows-store-apps-from-command-line-with-arguments"
         },
-        "SU-1941680": {
+        "SU-884376": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I generate a sitemap.xml for a small static HTML website on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941680/how-do-i-generate-a-sitemap-xml-for-a-small-static-html-website-on-windows"
+            "root_cause": "用戶回報終端技術障礙: How do I print the line only with the last occurrence of a regex?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/884376/how-do-i-print-the-line-only-with-the-last-occurrence-of-a-regex"
         },
-        "SU-1153829": {
+        "SU-476940": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there anyway to run a .bat command on Chromebook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1153829/is-there-anyway-to-run-a-bat-command-on-chromebook"
+            "root_cause": "用戶回報終端技術障礙: View RAW message source of an email in Outlook 2013",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/476940/view-raw-message-source-of-an-email-in-outlook-2013"
         },
-        "SU-1941716": {
+        "SU-1826096": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I delete Minecraft Education skin packs on Chromebook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941716/how-do-i-delete-minecraft-education-skin-packs-on-chromebook"
+            "root_cause": "用戶回報終端技術障礙: How do I keep values the same when converting from XLSX to CSV? Export to CSV with expanded numbers and not scientific notation?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1826096/how-do-i-keep-values-the-same-when-converting-from-xlsx-to-csv-export-to-csv-wi"
         },
-        "SU-1105173": {
+        "SU-1941722": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Exact hour of Windows 10 free upgrade period end",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1105173/exact-hour-of-windows-10-free-upgrade-period-end"
+            "root_cause": "用戶回報終端技術障礙: Why aren&#39;t Windows opening the default app for JPG files?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941722/why-arent-windows-opening-the-default-app-for-jpg-files"
         }
     }
 }
