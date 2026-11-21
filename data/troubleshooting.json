@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-21 01:00:16",
+    "updated": "2026-11-21 09:02:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1365482": {
+        "SU-1423126": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to view a PDF with more than 2 pages side by side?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1365482/how-to-view-a-pdf-with-more-than-2-pages-side-by-side"
+            "root_cause": "用戶回報終端技術障礙: How can I refresh files that have been changed outside of Visual Studio?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1423126/how-can-i-refresh-files-that-have-been-changed-outside-of-visual-studio"
+        },
+        "SU-1941680": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I generate a sitemap.xml for a small static HTML website on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941680/how-do-i-generate-a-sitemap-xml-for-a-small-static-html-website-on-windows"
+        },
+        "SU-1153829": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Is there anyway to run a .bat command on Chromebook?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1153829/is-there-anyway-to-run-a-bat-command-on-chromebook"
         },
         "SU-1941716": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: How do I delete Minecraft Education skin packs on Chromebook?",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941716/how-do-i-delete-minecraft-education-skin-packs-on-chromebook"
         },
-        "SU-1153829": {
+        "SU-1105173": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there anyway to run a .bat command on chromebook?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1153829/is-there-anyway-to-run-a-bat-command-on-chromebook"
-        },
-        "SU-1144813": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Reduce scanned PDF Size",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1144813/reduce-scanned-pdf-size"
-        },
-        "SU-1941701": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do external CD/DVD drives repeatedly connect to and disconnect from Windows 11, even after disabling selective suspend?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941701/why-do-external-cd-dvd-drives-repeatedly-connect-to-and-disconnect-from-windows"
+            "root_cause": "用戶回報終端技術障礙: Exact hour of Windows 10 free upgrade period end",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1105173/exact-hour-of-windows-10-free-upgrade-period-end"
         }
     }
 }
