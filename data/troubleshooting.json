@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-21 22:40:06",
+    "updated": "2026-11-22 04:30:25",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1941737": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How can I strip EXIF metadata from user-uploaded selfies before showing them back in a browser-based web app?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941737/how-can-i-strip-exif-metadata-from-user-uploaded-selfies-before-showing-them-bac"
+        },
+        "SU-1108254": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to scroll to the place where I&#39;ve just typed the command in Linux terminal?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1108254/how-to-scroll-to-the-place-where-ive-just-typed-the-command-in-linux-terminal"
+        },
+        "SU-1941735": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: MSI GS76 CPU fan: how much slower is a 5V 0.5A replacement than the original 5V 1A fan?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941735/msi-gs76-cpu-fan-how-much-slower-is-a-5v-0-5a-replacement-than-the-original-5v"
+        },
+        "SU-1388216": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How to extract selected files from large Zip file with limited available space?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1388216/how-to-extract-selected-files-from-large-zip-file-with-limited-available-space"
+        },
         "SU-1698293": {
             "category": "IT Helpdesk / Community Super User",
             "root_cause": "用戶回報終端技術障礙: running an Windows Store Apps from command line with arguments",
             "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698293/running-an-windows-store-apps-from-command-line-with-arguments"
-        },
-        "SU-931012": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can Firefox auto-detect the language for spellchecking?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/931012/can-firefox-auto-detect-the-language-for-spellchecking"
-        },
-        "SU-1941726": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to copy arbitrary RIFF chunk to output by ChunkId with FFmpeg?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941726/how-to-copy-arbitrary-riff-chunk-to-output-by-chunkid-with-ffmpeg"
-        },
-        "SU-1131190": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Configuring DNSMasq Address/Internal IP pairs by port?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1131190/configuring-dnsmasq-address-internal-ip-pairs-by-port"
-        },
-        "SU-1941725": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Failure When Pinging Default Gateway on Linux Mint 22.3 Virtual Machine",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941725/failure-when-pinging-default-gateway-on-linux-mint-22-3-virtual-machine"
         }
     }
 }
