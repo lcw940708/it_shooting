@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-22 04:30:25",
+    "updated": "2026-11-22 13:53:14",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941737": {
+        "SU-1910445": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I strip EXIF metadata from user-uploaded selfies before showing them back in a browser-based web app?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941737/how-can-i-strip-exif-metadata-from-user-uploaded-selfies-before-showing-them-bac"
+            "root_cause": "用戶回報終端技術障礙: How to diagnose and fix an odd Linux (Debian 12) networking failure with Starlink?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1910445/how-to-diagnose-and-fix-an-odd-linux-debian-12-networking-failure-with-starlin"
         },
-        "SU-1108254": {
+        "SU-1941733": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to scroll to the place where I&#39;ve just typed the command in Linux terminal?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1108254/how-to-scroll-to-the-place-where-ive-just-typed-the-command-in-linux-terminal"
+            "root_cause": "用戶回報終端技術障礙: How can I open a specific chat in GitHub Copilot desktop app given its session ID?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941733/how-can-i-open-a-specific-chat-in-github-copilot-desktop-app-given-its-session-i"
         },
-        "SU-1941735": {
+        "SU-1805927": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: MSI GS76 CPU fan: how much slower is a 5V 0.5A replacement than the original 5V 1A fan?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941735/msi-gs76-cpu-fan-how-much-slower-is-a-5v-0-5a-replacement-than-the-original-5v"
+            "root_cause": "用戶回報終端技術障礙: Convert .data file from Merkury Innovations (Geeni) camera&#39;s SD card into a playable format",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1805927/convert-data-file-from-merkury-innovations-geeni-cameras-sd-card-into-a-play"
         },
-        "SU-1388216": {
+        "SU-1850831": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to extract selected files from large Zip file with limited available space?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1388216/how-to-extract-selected-files-from-large-zip-file-with-limited-available-space"
+            "root_cause": "用戶回報終端技術障礙: Extract file while downloading it with aria2c",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1850831/extract-file-while-downloading-it-with-aria2c"
         },
-        "SU-1698293": {
+        "SU-1761531": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: running an Windows Store Apps from command line with arguments",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1698293/running-an-windows-store-apps-from-command-line-with-arguments"
+            "root_cause": "用戶回報終端技術障礙: How do I play audio through multiple connected devices?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1761531/how-do-i-play-audio-through-multiple-connected-devices"
         }
     }
 }
