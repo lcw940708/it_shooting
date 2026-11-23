@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-22 20:31:54",
+    "updated": "2026-11-23 02:06:32",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941756": {
+        "SU-611006": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How start icecastkh?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941756/how-start-icecastkh"
+            "root_cause": "用戶回報終端技術障礙: How to view the ASCII codes of piped-in characters?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/611006/how-to-view-the-ascii-codes-of-piped-in-characters"
         },
-        "SU-1941753": {
+        "SU-1547171": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Are file names like &quot;foo .bar&quot; (trailing space in base file name) unacceptable in Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941753/are-file-names-like-foo-bar-trailing-space-in-base-file-name-unacceptable-i"
+            "root_cause": "用戶回報終端技術障礙: Why is macOS available storage rapidly changing, shrinking and generally fluctuating?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1547171/why-is-macos-available-storage-rapidly-changing-shrinking-and-generally-fluctua"
         },
-        "SU-263422": {
+        "SU-1941758": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to see a list of all installed Firefox extensions and export it?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/263422/how-to-see-a-list-of-all-installed-firefox-extensions-and-export-it"
+            "root_cause": "用戶回報終端技術障礙: Why can’t I erase a micro SD card on Debian 13?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941758/why-can-t-i-erase-a-micro-sd-card-on-debian-13"
         },
-        "SU-1401114": {
+        "SU-1029223": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t the system find the batch label specified?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1401114/why-can-t-the-system-find-the-batch-label-specified"
+            "root_cause": "用戶回報終端技術障礙: In Windows, Is there a way to determine a notepad files path from an open Notepad file?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1029223/in-windows-is-there-a-way-to-determine-a-notepad-files-path-from-an-open-notepa"
         },
-        "SU-567875": {
+        "SU-807216": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows scheduled tasks fail with 0x1, don&#39;t log errors",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/567875/windows-scheduled-tasks-fail-with-0x1-dont-log-errors"
+            "root_cause": "用戶回報終端技術障礙: Why can’t I format a micro SD Card in Mac OS X 10.9?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/807216/why-can-t-i-format-a-micro-sd-card-in-mac-os-x-10-9"
         }
     }
 }
