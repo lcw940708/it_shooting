@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-23 02:06:32",
+    "updated": "2026-11-23 13:55:36",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-611006": {
+        "SU-1941772": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to view the ASCII codes of piped-in characters?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/611006/how-to-view-the-ascii-codes-of-piped-in-characters"
+            "root_cause": "用戶回報終端技術障礙: Leave space on Drive (partition) or on physical SSD?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941772/leave-space-on-drive-partition-or-on-physical-ssd"
         },
-        "SU-1547171": {
+        "SU-931012": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is macOS available storage rapidly changing, shrinking and generally fluctuating?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1547171/why-is-macos-available-storage-rapidly-changing-shrinking-and-generally-fluctua"
+            "root_cause": "用戶回報終端技術障礙: Can Firefox auto-detect the language for spellchecking?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/931012/can-firefox-auto-detect-the-language-for-spellchecking"
         },
-        "SU-1941758": {
+        "SU-1425859": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t I erase a micro SD card on Debian 13?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941758/why-can-t-i-erase-a-micro-sd-card-on-debian-13"
+            "root_cause": "用戶回報終端技術障礙: How to use ssh_config with matches for users",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1425859/how-to-use-ssh-config-with-matches-for-users"
         },
-        "SU-1029223": {
+        "SU-1941769": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: In Windows, Is there a way to determine a notepad files path from an open Notepad file?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1029223/in-windows-is-there-a-way-to-determine-a-notepad-files-path-from-an-open-notepa"
+            "root_cause": "用戶回報終端技術障礙: SSH hijack? Accepted public key and client public key don&#39;t match",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941769/ssh-hijack-accepted-public-key-and-client-public-key-dont-match"
         },
-        "SU-807216": {
+        "SU-1941765": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why can’t I format a micro SD Card in Mac OS X 10.9?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/807216/why-can-t-i-format-a-micro-sd-card-in-mac-os-x-10-9"
+            "root_cause": "用戶回報終端技術障礙: Is QRes safe and reliable tool to quickly switch refresh rate on Windows 11? Or is there any better built-in solution for same?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941765/is-qres-safe-and-reliable-tool-to-quickly-switch-refresh-rate-on-windows-11-or"
         }
     }
 }
