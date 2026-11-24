@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-24 11:53:28",
+    "updated": "2026-11-24 21:48:33",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-72256": {
+        "SU-1941808": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Mail.app IMAP subscription list is always empty",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/72256/mail-app-imap-subscription-list-is-always-empty"
+            "root_cause": "用戶回報終端技術障礙: ffmpeg 9.1, how to limit output of -f streamhash to only the hash itself?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941808/ffmpeg-9-1-how-to-limit-output-of-f-streamhash-to-only-the-hash-itself"
         },
-        "SU-1519721": {
+        "SU-304212": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Long press to insert special character/symbol in Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1519721/long-press-to-insert-special-character-symbol-in-windows"
+            "root_cause": "用戶回報終端技術障礙: How to find biggest folders (by number of files) in Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/304212/how-to-find-biggest-folders-by-number-of-files-in-windows"
         },
-        "SU-31925": {
+        "SU-1941801": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What can I do to stop the Play / Pause button from opening iTunes?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/31925/what-can-i-do-to-stop-the-play-pause-button-from-opening-itunes"
+            "root_cause": "用戶回報終端技術障礙: Windows 10: green checkmarks on desktop icons after recent update (and OneDrive is not installed)",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941801/windows-10-green-checkmarks-on-desktop-icons-after-recent-update-and-onedrive"
         },
-        "SU-155458": {
+        "SU-1057060": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What does the @ mean on the output of &quot;ls&quot; on&#160;OS X&#39; terminal?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/155458/what-does-the-mean-on-the-output-of-ls-on-os-x-terminal"
+            "root_cause": "用戶回報終端技術障礙: SSHFS Permission Denied to symbolic link",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1057060/sshfs-permission-denied-to-symbolic-link"
         },
-        "SU-17870": {
+        "SU-1941803": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to fix: mac keyboard ignores &quot;first&quot; key pressed",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/17870/how-to-fix-mac-keyboard-ignores-first-key-pressed"
+            "root_cause": "用戶回報終端技術障礙: Why is it that the firewall blocks SNMP even if allowed on SUSE Linux Enterprise Server 15 (SLES15)?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941803/why-is-it-that-the-firewall-blocks-snmp-even-if-allowed-on-suse-linux-enterprise"
         }
     }
 }
