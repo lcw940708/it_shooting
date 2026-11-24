@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-23 13:55:36",
+    "updated": "2026-11-24 01:26:38",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
+        "SU-1106817": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: .reg file syntax to change a value",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1106817/reg-file-syntax-to-change-a-value"
+        },
+        "SU-1941697": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: Why does FFmpeg x264 encoder crashes on an otherwise stable machine?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941697/why-does-ffmpeg-x264-encoder-crashes-on-an-otherwise-stable-machine"
+        },
+        "SU-87159": {
+            "category": "IT Helpdesk / Community Super User",
+            "root_cause": "用戶回報終端技術障礙: How do I choose what format Outlook uses to reply/forward a message?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/87159/how-do-i-choose-what-format-outlook-uses-to-reply-forward-a-message"
+        },
         "SU-1941772": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Leave space on Drive (partition) or on physical SSD?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941772/leave-space-on-drive-partition-or-on-physical-ssd"
+            "root_cause": "用戶回報終端技術障礙: Is it advisable to leave space on a partition or on the physical SSD to avoid the SSD from getting thrashed?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941772/is-it-advisable-to-leave-space-on-a-partition-or-on-the-physical-ssd-to-avoid-th"
         },
-        "SU-931012": {
+        "SU-1738973": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can Firefox auto-detect the language for spellchecking?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/931012/can-firefox-auto-detect-the-language-for-spellchecking"
-        },
-        "SU-1425859": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to use ssh_config with matches for users",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1425859/how-to-use-ssh-config-with-matches-for-users"
-        },
-        "SU-1941769": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: SSH hijack? Accepted public key and client public key don&#39;t match",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941769/ssh-hijack-accepted-public-key-and-client-public-key-dont-match"
-        },
-        "SU-1941765": {
-            "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is QRes safe and reliable tool to quickly switch refresh rate on Windows 11? Or is there any better built-in solution for same?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941765/is-qres-safe-and-reliable-tool-to-quickly-switch-refresh-rate-on-windows-11-or"
+            "root_cause": "用戶回報終端技術障礙: Can I use AnyDesk to create a virtual second display?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1738973/can-i-use-anydesk-to-create-a-virtual-second-display"
         }
     }
 }
