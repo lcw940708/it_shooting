@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-24 01:26:38",
+    "updated": "2026-11-24 11:53:28",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1106817": {
+        "SU-72256": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: .reg file syntax to change a value",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1106817/reg-file-syntax-to-change-a-value"
+            "root_cause": "用戶回報終端技術障礙: Mail.app IMAP subscription list is always empty",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/72256/mail-app-imap-subscription-list-is-always-empty"
         },
-        "SU-1941697": {
+        "SU-1519721": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does FFmpeg x264 encoder crashes on an otherwise stable machine?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941697/why-does-ffmpeg-x264-encoder-crashes-on-an-otherwise-stable-machine"
+            "root_cause": "用戶回報終端技術障礙: Long press to insert special character/symbol in Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1519721/long-press-to-insert-special-character-symbol-in-windows"
         },
-        "SU-87159": {
+        "SU-31925": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How do I choose what format Outlook uses to reply/forward a message?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/87159/how-do-i-choose-what-format-outlook-uses-to-reply-forward-a-message"
+            "root_cause": "用戶回報終端技術障礙: What can I do to stop the Play / Pause button from opening iTunes?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/31925/what-can-i-do-to-stop-the-play-pause-button-from-opening-itunes"
         },
-        "SU-1941772": {
+        "SU-155458": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is it advisable to leave space on a partition or on the physical SSD to avoid the SSD from getting thrashed?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941772/is-it-advisable-to-leave-space-on-a-partition-or-on-the-physical-ssd-to-avoid-th"
+            "root_cause": "用戶回報終端技術障礙: What does the @ mean on the output of &quot;ls&quot; on&#160;OS X&#39; terminal?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/155458/what-does-the-mean-on-the-output-of-ls-on-os-x-terminal"
         },
-        "SU-1738973": {
+        "SU-17870": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can I use AnyDesk to create a virtual second display?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1738973/can-i-use-anydesk-to-create-a-virtual-second-display"
+            "root_cause": "用戶回報終端技術障礙: How to fix: mac keyboard ignores &quot;first&quot; key pressed",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/17870/how-to-fix-mac-keyboard-ignores-first-key-pressed"
         }
     }
 }
