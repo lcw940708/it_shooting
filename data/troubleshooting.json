@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-25 04:43:55",
+    "updated": "2026-11-25 16:37:24",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941756": {
+        "SU-462316": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How start icecastkh?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941756/how-start-icecastkh"
+            "root_cause": "用戶回報終端技術障礙: Lock Screen after screensaver starts + delay",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/462316/lock-screen-after-screensaver-starts-delay"
         },
-        "SU-171323": {
+        "SU-1834485": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to make Quick Look preview text files in UTF-8 by default?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/171323/how-to-make-quick-look-preview-text-files-in-utf-8-by-default"
+            "root_cause": "用戶回報終端技術障礙: How to prevent windows idle sleep if there is disk activity?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1834485/how-to-prevent-windows-idle-sleep-if-there-is-disk-activity"
         },
-        "SU-158049": {
+        "SU-1292512": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Can I use time machine with a network drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/158049/can-i-use-time-machine-with-a-network-drive"
+            "root_cause": "用戶回報終端技術障礙: Listen for screen off event and disable mouse in Windows",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1292512/listen-for-screen-off-event-and-disable-mouse-in-windows"
         },
-        "SU-141205": {
+        "SU-1941819": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to get rid of &quot;MaxBack Engine&quot; for good?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/141205/how-to-get-rid-of-maxback-engine-for-good"
+            "root_cause": "用戶回報終端技術障礙: Blank Screen After GRUB When Installing Ubuntu 26.04.1 on Oracle VirtualBox",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941819/blank-screen-after-grub-when-installing-ubuntu-26-04-1-on-oracle-virtualbox"
         },
-        "SU-138798": {
+        "SU-1941818": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to replace special characters (curly quotes, dashes, ellipses) in OS X?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/138798/how-to-replace-special-characters-curly-quotes-dashes-ellipses-in-os-x"
+            "root_cause": "用戶回報終端技術障礙: hyper V enabled on firmware NO",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941818/hyper-v-enabled-on-firmware-no"
         }
     }
 }
