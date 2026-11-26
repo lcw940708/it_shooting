@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-25 16:37:24",
+    "updated": "2026-11-26 01:24:46",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-462316": {
+        "SU-1941795": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Lock Screen after screensaver starts + delay",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/462316/lock-screen-after-screensaver-starts-delay"
+            "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 PC boot-looping?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941795/why-is-my-windows-11-pc-boot-looping"
         },
-        "SU-1834485": {
+        "SU-1941826": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to prevent windows idle sleep if there is disk activity?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1834485/how-to-prevent-windows-idle-sleep-if-there-is-disk-activity"
+            "root_cause": "用戶回報終端技術障礙: How can I preserve image quality while stripping EXIF GPS data from user uploads on a Linux web server?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941826/how-can-i-preserve-image-quality-while-stripping-exif-gps-data-from-user-uploads"
         },
-        "SU-1292512": {
+        "SU-1941808": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Listen for screen off event and disable mouse in Windows",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1292512/listen-for-screen-off-event-and-disable-mouse-in-windows"
+            "root_cause": "用戶回報終端技術障礙: With FFmpeg 9.1, how to limit output of -f streamhash to only the hash itself?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941808/with-ffmpeg-9-1-how-to-limit-output-of-f-streamhash-to-only-the-hash-itself"
         },
-        "SU-1941819": {
+        "SU-1941824": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Blank Screen After GRUB When Installing Ubuntu 26.04.1 on Oracle VirtualBox",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941819/blank-screen-after-grub-when-installing-ubuntu-26-04-1-on-oracle-virtualbox"
+            "root_cause": "用戶回報終端技術障礙: AI LLM throttle the Token requests per second to avoid http 429",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941824/ai-llm-throttle-the-token-requests-per-second-to-avoid-http-429"
         },
-        "SU-1941818": {
+        "SU-1473444": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: hyper V enabled on firmware NO",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941818/hyper-v-enabled-on-firmware-no"
+            "root_cause": "用戶回報終端技術障礙: Why don’t accepted meetings show up on my Outlook Calendar as expected?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1473444/why-don-t-accepted-meetings-show-up-on-my-outlook-calendar-as-expected"
         }
     }
 }
