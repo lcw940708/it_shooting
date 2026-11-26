@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-26 10:17:38",
+    "updated": "2026-11-26 20:47:02",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941832": {
+        "SU-1941835": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How Can I Improve My Window&#39;s 11 computer&#39;s Performance?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941832/how-can-i-improve-my-windows-11-computers-performance"
+            "root_cause": "用戶回報終端技術障礙: When Windows 11 shutdown /h in CMD hibernates, but in batch file it shuts down. Why?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941835/when-windows-11-shutdown-h-in-cmd-hibernates-but-in-batch-file-it-shuts-down"
         },
-        "SU-814308": {
+        "SU-996935": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Switch between Multiple Customised Lang &amp; Region settings on Mac OS X Mavericks",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/814308/switch-between-multiple-customised-lang-region-settings-on-mac-os-x-mavericks"
+            "root_cause": "用戶回報終端技術障礙: Showing docker container name in ps list",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/996935/showing-docker-container-name-in-ps-list"
         },
-        "SU-1286706": {
+        "SU-1387716": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable the HDMI port in Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1286706/how-to-disable-the-hdmi-port-in-windows"
+            "root_cause": "用戶回報終端技術障礙: Why does my SSH connection to GitLab is getting timeouts?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1387716/why-does-my-ssh-connection-to-gitlab-is-getting-timeouts"
         },
-        "SU-1376128": {
+        "SU-1941829": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Create an agnostic exFAT partition to share between macOS Sierra and Boot Camp Windows 10?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1376128/create-an-agnostic-exfat-partition-to-share-between-macos-sierra-and-boot-camp-w"
+            "root_cause": "用戶回報終端技術障礙: How to deal with a nearly 10-year-old audio “clog” issue on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941829/how-to-deal-with-a-nearly-10-year-old-audio-clog-issue-on-windows"
         },
-        "SU-1941830": {
+        "SU-1941837": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 – Automatically hibernate after 60 seconds of running on battery power, regardless of user activity",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941830/windows-11-automatically-hibernate-after-60-seconds-of-running-on-battery-powe"
+            "root_cause": "用戶回報終端技術障礙: How to sequence an array with Excel?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941837/how-to-sequence-an-array-with-excel"
         }
     }
 }
