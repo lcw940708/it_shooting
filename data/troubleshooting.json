@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-26 01:24:46",
+    "updated": "2026-11-26 10:17:38",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941795": {
+        "SU-1941832": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why is my Windows 11 PC boot-looping?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941795/why-is-my-windows-11-pc-boot-looping"
+            "root_cause": "用戶回報終端技術障礙: How Can I Improve My Window&#39;s 11 computer&#39;s Performance?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941832/how-can-i-improve-my-windows-11-computers-performance"
         },
-        "SU-1941826": {
+        "SU-814308": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I preserve image quality while stripping EXIF GPS data from user uploads on a Linux web server?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941826/how-can-i-preserve-image-quality-while-stripping-exif-gps-data-from-user-uploads"
+            "root_cause": "用戶回報終端技術障礙: Switch between Multiple Customised Lang &amp; Region settings on Mac OS X Mavericks",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/814308/switch-between-multiple-customised-lang-region-settings-on-mac-os-x-mavericks"
         },
-        "SU-1941808": {
+        "SU-1286706": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: With FFmpeg 9.1, how to limit output of -f streamhash to only the hash itself?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941808/with-ffmpeg-9-1-how-to-limit-output-of-f-streamhash-to-only-the-hash-itself"
+            "root_cause": "用戶回報終端技術障礙: How to disable the HDMI port in Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1286706/how-to-disable-the-hdmi-port-in-windows"
         },
-        "SU-1941824": {
+        "SU-1376128": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: AI LLM throttle the Token requests per second to avoid http 429",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941824/ai-llm-throttle-the-token-requests-per-second-to-avoid-http-429"
+            "root_cause": "用戶回報終端技術障礙: Create an agnostic exFAT partition to share between macOS Sierra and Boot Camp Windows 10?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1376128/create-an-agnostic-exfat-partition-to-share-between-macos-sierra-and-boot-camp-w"
         },
-        "SU-1473444": {
+        "SU-1941830": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why don’t accepted meetings show up on my Outlook Calendar as expected?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1473444/why-don-t-accepted-meetings-show-up-on-my-outlook-calendar-as-expected"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 – Automatically hibernate after 60 seconds of running on battery power, regardless of user activity",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941830/windows-11-automatically-hibernate-after-60-seconds-of-running-on-battery-powe"
         }
     }
 }
