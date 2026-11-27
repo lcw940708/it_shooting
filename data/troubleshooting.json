@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-27 03:53:36",
+    "updated": "2026-11-27 13:22:49",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1076058": {
+        "SU-569254": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Is there a &quot;reverse incremental&quot; backup tool for Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1076058/is-there-a-reverse-incremental-backup-tool-for-windows"
+            "root_cause": "用戶回報終端技術障礙: Extension/Script/Program that will refresh page until a certain phrase/keyword is found or is not found?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/569254/extension-script-program-that-will-refresh-page-until-a-certain-phrase-keyword-i"
         },
-        "SU-1118826": {
+        "SU-1941830": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What code can I use with FFmpeg to change tone/pitch on an file audio?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1118826/what-code-can-i-use-with-ffmpeg-to-change-tone-pitch-on-an-file-audio"
+            "root_cause": "用戶回報終端技術障礙: Windows 11 – Automatically hibernate after 60 seconds of running on battery power, regardless of user activity",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941830/windows-11-automatically-hibernate-after-60-seconds-of-running-on-battery-powe"
         },
-        "SU-280802": {
+        "SU-1941856": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: What command line tool can generate passwords on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/280802/what-command-line-tool-can-generate-passwords-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Deli scanner fails on Linux (sane-escl): &quot;Document feeder out of documents&quot;",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941856/deli-scanner-fails-on-linux-sane-escl-document-feeder-out-of-documents"
         },
-        "SU-1941847": {
+        "SU-1941451": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why do some hard drive docks have a maximum supported capacity, while others don&#39;t?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941847/why-do-some-hard-drive-docks-have-a-maximum-supported-capacity-while-others-don"
+            "root_cause": "用戶回報終端技術障礙: How to disable incoming IP addresses without DNs resolution in Apache using Fail2Ban without HostnameLookups?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941451/how-to-disable-incoming-ip-addresses-without-dns-resolution-in-apache-using-fail"
         },
-        "SU-1941838": {
+        "SU-1941756": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: BTRFS JBOD with failed drive, how can I get files off the good drive?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941838/btrfs-jbod-with-failed-drive-how-can-i-get-files-off-the-good-drive"
+            "root_cause": "用戶回報終端技術障礙: How start icecastkh?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941756/how-start-icecastkh"
         }
     }
 }
