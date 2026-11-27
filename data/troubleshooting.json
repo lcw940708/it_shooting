@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-26 20:47:02",
+    "updated": "2026-11-27 03:53:36",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941835": {
+        "SU-1076058": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: When Windows 11 shutdown /h in CMD hibernates, but in batch file it shuts down. Why?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941835/when-windows-11-shutdown-h-in-cmd-hibernates-but-in-batch-file-it-shuts-down"
+            "root_cause": "用戶回報終端技術障礙: Is there a &quot;reverse incremental&quot; backup tool for Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1076058/is-there-a-reverse-incremental-backup-tool-for-windows"
         },
-        "SU-996935": {
+        "SU-1118826": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Showing docker container name in ps list",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/996935/showing-docker-container-name-in-ps-list"
+            "root_cause": "用戶回報終端技術障礙: What code can I use with FFmpeg to change tone/pitch on an file audio?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1118826/what-code-can-i-use-with-ffmpeg-to-change-tone-pitch-on-an-file-audio"
         },
-        "SU-1387716": {
+        "SU-280802": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Why does my SSH connection to GitLab is getting timeouts?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1387716/why-does-my-ssh-connection-to-gitlab-is-getting-timeouts"
+            "root_cause": "用戶回報終端技術障礙: What command line tool can generate passwords on Windows?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/280802/what-command-line-tool-can-generate-passwords-on-windows"
         },
-        "SU-1941829": {
+        "SU-1941847": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to deal with a nearly 10-year-old audio “clog” issue on Windows?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941829/how-to-deal-with-a-nearly-10-year-old-audio-clog-issue-on-windows"
+            "root_cause": "用戶回報終端技術障礙: Why do some hard drive docks have a maximum supported capacity, while others don&#39;t?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941847/why-do-some-hard-drive-docks-have-a-maximum-supported-capacity-while-others-don"
         },
-        "SU-1941837": {
+        "SU-1941838": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to sequence an array with Excel?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941837/how-to-sequence-an-array-with-excel"
+            "root_cause": "用戶回報終端技術障礙: BTRFS JBOD with failed drive, how can I get files off the good drive?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941838/btrfs-jbod-with-failed-drive-how-can-i-get-files-off-the-good-drive"
         }
     }
 }
