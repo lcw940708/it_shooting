@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-27 13:22:49",
+    "updated": "2026-11-27 22:26:42",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-569254": {
+        "SU-1941699": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Extension/Script/Program that will refresh page until a certain phrase/keyword is found or is not found?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/569254/extension-script-program-that-will-refresh-page-until-a-certain-phrase-keyword-i"
+            "root_cause": "用戶回報終端技術障礙: PC gets stuck pre-boot, restarting several times fixes it",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941699/pc-gets-stuck-pre-boot-restarting-several-times-fixes-it"
         },
-        "SU-1941830": {
+        "SU-1273521": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Windows 11 – Automatically hibernate after 60 seconds of running on battery power, regardless of user activity",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941830/windows-11-automatically-hibernate-after-60-seconds-of-running-on-battery-powe"
+            "root_cause": "用戶回報終端技術障礙: How to show menu bar in macOS with a keyboard shortcut?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1273521/how-to-show-menu-bar-in-macos-with-a-keyboard-shortcut"
         },
-        "SU-1941856": {
+        "SU-1941835": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: Deli scanner fails on Linux (sane-escl): &quot;Document feeder out of documents&quot;",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941856/deli-scanner-fails-on-linux-sane-escl-document-feeder-out-of-documents"
+            "root_cause": "用戶回報終端技術障礙: When I use Windows 11 “shutdown /h” in CMD hibernates, but in batch file it shuts down. Why?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941835/when-i-use-windows-11-shutdown-h-in-cmd-hibernates-but-in-batch-file-it-shut"
         },
-        "SU-1941451": {
+        "SU-1941853": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to disable incoming IP addresses without DNs resolution in Apache using Fail2Ban without HostnameLookups?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941451/how-to-disable-incoming-ip-addresses-without-dns-resolution-in-apache-using-fail"
+            "root_cause": "用戶回報終端技術障礙: How can I block Roblox chat through NextDNS without blocking Roblox gameplay?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941853/how-can-i-block-roblox-chat-through-nextdns-without-blocking-roblox-gameplay"
         },
-        "SU-1941756": {
+        "SU-1264009": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How start icecastkh?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941756/how-start-icecastkh"
+            "root_cause": "用戶回報終端技術障礙: How to create a Hyperlink inside Visual Studio code, which when clicked will bring me to the linked part inside the same file",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1264009/how-to-create-a-hyperlink-inside-visual-studio-code-which-when-clicked-will-bri"
         }
     }
 }
