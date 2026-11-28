@@ -1,6 +1,6 @@
 {
     "status": "helpdesk_active_ready",
-    "updated": "2026-11-27 22:26:42",
+    "updated": "2026-11-28 05:49:21",
     "common_errors": {
         "Printer_Offline": {
             "category": "Hardware / Peripheral Support",
@@ -22,30 +22,30 @@
             "root_cause": "近期安裝的驅動程式衝突或硬體記憶體模組讀取異常。",
             "quick_fix": "進入安全模式解除安裝最新動態驅動程式，並執行記憶體診斷工具。"
         },
-        "SU-1941699": {
+        "SU-1941868": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: PC gets stuck pre-boot, restarting several times fixes it",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941699/pc-gets-stuck-pre-boot-restarting-several-times-fixes-it"
+            "root_cause": "用戶回報終端技術障礙: How do I &#39;size&#39; AIO/Watercooling for a specific processor",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941868/how-do-i-size-aio-watercooling-for-a-specific-processor"
         },
-        "SU-1273521": {
+        "SU-742579": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to show menu bar in macOS with a keyboard shortcut?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1273521/how-to-show-menu-bar-in-macos-with-a-keyboard-shortcut"
+            "root_cause": "用戶回報終端技術障礙: How can I store text already typed in the command line for later use?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/742579/how-can-i-store-text-already-typed-in-the-command-line-for-later-use"
         },
-        "SU-1941835": {
+        "SU-1941869": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: When I use Windows 11 “shutdown /h” in CMD hibernates, but in batch file it shuts down. Why?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941835/when-i-use-windows-11-shutdown-h-in-cmd-hibernates-but-in-batch-file-it-shut"
+            "root_cause": "用戶回報終端技術障礙: Can laptop fans with the same A-Power part number have different specifications?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941869/can-laptop-fans-with-the-same-a-power-part-number-have-different-specifications"
         },
-        "SU-1941853": {
+        "SU-277600": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How can I block Roblox chat through NextDNS without blocking Roblox gameplay?",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1941853/how-can-i-block-roblox-chat-through-nextdns-without-blocking-roblox-gameplay"
+            "root_cause": "用戶回報終端技術障礙: Do all hard drive docks have a limit of 2 TB?",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/277600/do-all-hard-drive-docks-have-a-limit-of-2-tb"
         },
-        "SU-1264009": {
+        "SU-1717197": {
             "category": "IT Helpdesk / Community Super User",
-            "root_cause": "用戶回報終端技術障礙: How to create a Hyperlink inside Visual Studio code, which when clicked will bring me to the linked part inside the same file",
-            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1264009/how-to-create-a-hyperlink-inside-visual-studio-code-which-when-clicked-will-bri"
+            "root_cause": "用戶回報終端技術障礙: HTTPSBOOT Failed to initialize network connection",
+            "quick_fix": "請參考社群技術支援指引進行排除，詳細討論請參閱: https://superuser.com/questions/1717197/httpsboot-failed-to-initialize-network-connection"
         }
     }
 }
